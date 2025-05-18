@@ -1,2 +1,53 @@
-# Sustainable-Festival-Travel-Data-Driven-Insights
-Data-driven analysis of EcoSound Festival travel in Manchester. Leveraging Power BI and R/XGBoost, we model travel emissions and identify greener options, achieving 99.83% accuracy. Recognized by the UK government, our insights show that EVs, trains, and buses cut over 12.75 M kg CO₂
+# EcoSound Festival Travel Analysis
+
+Data-driven study of travel emissions for the EcoSound Festival at Heaton Park, Manchester. Recognized by the UK Government, this project uses Power BI for preprocessing & visualization and R/XGBoost for predictive modeling to recommend low-carbon travel options.
+
+## 🚀 Features
+- Cleaned & merged master dataset (`data/Cleaned_master_dataset.csv`)
+- Power BI report (`visuals/DigData_new.pbix`)
+- Predictive R script (`analysis/predict_emissions.R`)
+- Presentation slides (`slides/DigData Final.pptx`)
+
+## 📂 Repository Structure
+
+```
+├── analysis/
+│ └── predict_emissions.R # XGBoost model training & evaluation
+├── data/
+│ └── Cleaned_master_dataset.csv
+├── visuals/
+│ └── DigData_new.pbix
+├── slides/
+│ └── DigData Final.pptx
+└── README.md
+```
+
+## 🛠 Requirements
+- **Power BI Desktop** (to open `.pbix` file)
+- **R** ≥ 4.0 with packages: `xgboost`, `tidyverse`, `caret`
+- **Git** (to clone this repo)
+
+## 🚩 Usage
+
+1. **Data & Visualization**  
+   - Open `visuals/DigData_new.pbix` in Power BI to explore dashboards and measures.  
+
+2. **Predictive Modeling**  
+   ```bash
+   Rscript analysis/predict_emissions.R \
+     --input data/Cleaned_master_dataset.csv \
+     --output analysis/results/
+   
+##Presentation
+
+Review slides in slides/DigData Final.pptx for methodology, results, and recommendations.
+
+## 📈 Key Insights
+Greenest modes: EVs, buses, trains—cut 12.75 M kg CO₂
+
+Optimal timing: Weekday off-peak & sunny conditions
+
+Target audience: Incentivize 18–34-year-olds for maximum impact
+
+## 🤝 Contributing
+Contributions are welcome! Please open an issue or pull request for data corrections, code improvements, or new visualizations.
