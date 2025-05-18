@@ -2,13 +2,13 @@
 
 Data-driven study of travel emissions for the EcoSound Festival at Heaton Park, Manchester. Recognized by the UK Government, this project uses Power BI for preprocessing & visualization and R/XGBoost for predictive modeling to recommend low-carbon travel options.
 
-## 🚀 Features
+##  Features
 - Cleaned & merged master dataset (`data/Cleaned_master_dataset.csv`)
 - Power BI report (`visuals/DigData_new.pbix`)
 - Predictive R script (`analysis/predict_emissions.R`)
 - Presentation slides (`slides/DigData Final.pptx`)
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 ├── analysis/
@@ -27,7 +27,7 @@ Data-driven study of travel emissions for the EcoSound Festival at Heaton Park, 
 - **R** ≥ 4.0 with packages: `xgboost`, `tidyverse`, `caret`
 - **Git** (to clone this repo)
 
-## 🚩 Usage
+##  Usage
 
 1. **Data & Visualization**  
    - Open `visuals/DigData_new.pbix` in Power BI to explore dashboards and measures.
@@ -44,12 +44,12 @@ Data-driven study of travel emissions for the EcoSound Festival at Heaton Park, 
 
 Review slides in slides/DigData Final.pptx for methodology, results, and recommendations.
 
-## 📈 Key Insights
+##  Key Insights
 Greenest modes: EVs, buses, trains—cut 12.75 M kg CO₂
 
 Optimal timing: Weekday off-peak & sunny conditions
 
 Target audience: Incentivize 18–34-year-olds for maximum impact
 
-## 🤝 Contributing
+##  Contributing
 Contributions are welcome! Please open an issue or pull request for data corrections, code improvements, or new visualizations.
