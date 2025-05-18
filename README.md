@@ -30,7 +30,9 @@ Data-driven study of travel emissions for the EcoSound Festival at Heaton Park, 
 ## 🚩 Usage
 
 1. **Data & Visualization**  
-   - Open `visuals/DigData_new.pbix` in Power BI to explore dashboards and measures.  
+   - Open `visuals/DigData_new.pbix` in Power BI to explore dashboards and measures.
+<img width="747" alt="Screenshot 2025-05-18 at 3 34 52 PM" src="https://github.com/user-attachments/assets/a6e3f17e-758c-4781-bc1c-8891691696df" />
+
 
 2. **Predictive Modeling**  
    ```bash
