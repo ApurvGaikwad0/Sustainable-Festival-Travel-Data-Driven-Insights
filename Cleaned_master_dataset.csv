@@ -1,0 +1,1475 @@
+Origin,Mode of Transport,Distance,Travel Time,Age Group,Weather,Peak/NoPeak,Day,Carpooling,Age,Eco_Consciousness,Total Congestion,Total Travel Time,Total Costs,Total Emissions
+Liverpool,Petrol Car,85.8,1.7,25-34,Rain,Peak,Weekday,3,30,7,2.24,3.808,58.65,11497.2
+Newcastle,Petrol Car,57.4,1.8,25-34,Rain,Peak,Weekday,3,30,7,2.24,4.032,45.87,7691.6
+Newcastle,Petrol Car,100.1,1.5,18-24,Rain,Peak,Weekday,3,21,8,2.24,3.36,65.085,13413.4
+Birmingham,Petrol Car,150.2,1.9,25-34,Rain,Peak,Weekday,3,30,7,2.24,4.256,87.63,20126.8
+Newcastle,Petrol Car,104.4,1.1,25-34,Rain,Peak,Weekday,3,30,7,2.24,2.464,67.02,13989.6
+Newcastle,Petrol Car,103.4,1.5,55-64,Rain,Peak,Weekday,3,60,4,2.24,3.36,66.57,13855.6
+Liverpool,Petrol Car,85.3,1.5,35-44,Rain,Peak,Weekday,3,40,6,2.24,3.36,58.425,11430.2
+Bristol,Petrol Car,69.9,1.4,25-34,Rain,Peak,Weekday,3,30,7,2.24,3.136,51.495,9366.6
+Liverpool,Petrol Car,105.7,1.3,18-24,Rain,Peak,Weekday,3,21,8,2.24,2.912,67.605,14163.8
+Manchester,Petrol Car,51.1,1.4,25-34,Rain,Peak,Weekday,3,30,7,2.24,3.136,43.035,6847.4
+Bristol,Petrol Car,132.6,1.1,18-24,Rain,Peak,Weekday,3,21,8,2.24,2.464,79.71,17768.4
+Bristol,Petrol Car,81.9,1.4,25-34,Rain,Peak,Weekday,3,30,7,2.24,3.136,56.895,10974.6
+Newcastle,Petrol Car,135,1.4,55-64,Rain,Peak,Weekday,3,60,4,2.24,3.136,80.79,18090
+Birmingham,Petrol Car,121.1,1.6,25-34,Rain,Peak,Weekday,3,30,7,2.24,3.584,74.535,16227.4
+London,Petrol Car,70.5,2.1,18-24,Rain,Peak,Weekday,3,21,8,2.24,4.704,51.765,9447
+London,Petrol Car,94.6,1.6,18-24,Rain,Peak,Weekday,3,21,8,2.24,3.584,62.61,12676.4
+Bristol,Petrol Car,120.7,1.5,35-44,Rain,Peak,Weekday,3,40,6,2.24,3.36,74.355,16173.8
+London,Petrol Car,84.3,1.6,25-34,Rain,Peak,Weekday,3,30,7,2.24,3.584,57.975,11296.2
+Birmingham,Petrol Car,69.8,1.6,25-34,Rain,Peak,Weekday,3,30,7,2.24,3.584,51.45,9353.2
+Manchester,Petrol Car,114.3,1.6,25-34,Rain,Peak,Weekday,3,30,7,2.24,3.584,71.475,15316.2
+Liverpool,Petrol Car,100.3,1.5,55-64,Rain,Peak,Weekday,3,60,4,2.24,3.36,65.175,13440.2
+Bristol,Petrol Car,68.4,1.6,18-24,Rain,Peak,Weekday,3,21,8,2.24,3.584,50.82,9165.6
+Manchester,Petrol Car,102.2,0.9,25-34,Rain,Peak,Weekday,3,30,7,2.24,2.016,66.03,13694.8
+London,Petrol Car,142.9,1.3,18-24,Rain,Peak,Weekday,3,21,8,2.24,2.912,84.345,19148.6
+Birmingham,Petrol Car,68.3,1.6,45-54,Rain,Peak,Weekday,3,50,5,2.24,3.584,50.775,9152.2
+Manchester,Petrol Car,138.7,1.2,25-34,Rain,Peak,Weekday,3,30,7,2.24,2.688,82.455,18585.8
+Manchester,Petrol Car,90.2,1.2,55-64,Rain,Peak,Weekday,3,60,4,2.24,2.688,60.63,12086.8
+Newcastle,Petrol Car,8,1.2,18-24,Rain,Peak,Weekday,3,21,8,2.24,2.688,23.64,1072
+London,Petrol Car,98.4,1.6,35-44,Rain,Peak,Weekday,3,40,6,2.24,3.584,64.32,13185.6
+Manchester,Petrol Car,102.7,1.3,18-24,Rain,Peak,Weekday,3,21,8,2.24,2.912,66.255,13761.8
+Liverpool,Petrol Car,91.9,1.8,35-44,Rain,Peak,Weekday,3,40,6,2.24,4.032,61.395,12314.6
+Liverpool,Petrol Car,114.7,1.4,35-44,Rain,Peak,Weekday,3,40,6,2.24,3.136,71.655,15369.8
+Bristol,Petrol Car,141.3,1.7,55-64,Rain,Peak,Weekday,3,60,4,2.24,3.808,83.625,18934.2
+Birmingham,Petrol Car,96.1,1.4,55-64,Rain,Peak,Weekday,3,60,4,2.24,3.136,63.285,12877.4
+Bristol,Petrol Car,119.8,1.6,45-54,Rain,Peak,Weekday,3,50,5,2.24,3.584,73.95,16053.2
+Bristol,Petrol Car,55.8,1.8,18-24,Rain,Peak,Weekday,3,21,8,2.24,4.032,45.15,7477.2
+Bristol,Petrol Car,81.2,1.7,25-34,Rain,Peak,Weekday,3,30,7,2.24,3.808,56.58,10880.8
+Manchester,Petrol Car,87.5,1.7,25-34,Rain,Peak,Weekday,3,30,7,2.24,3.808,59.415,11725
+Manchester,Petrol Car,112.3,1.2,35-44,Rain,Peak,Weekday,3,40,6,2.24,2.688,70.575,15048.2
+Manchester,Petrol Car,111.2,1.7,55-64,Rain,Peak,Weekday,3,60,4,2.24,3.808,70.08,14900.8
+Manchester,Petrol Car,106.9,1,55-64,Rain,Peak,Weekday,3,60,4,2.24,2.24,68.145,14324.6
+London,Petrol Car,58.4,0.7,35-44,Rain,Peak,Weekday,3,40,6,2.24,1.568,46.32,7825.6
+Liverpool,Petrol Car,124.3,1,65+,Rain,Peak,Weekday,3,68,4,2.24,2.24,75.975,16656.2
+London,Petrol Car,120.6,1.9,18-24,Rain,Peak,Weekday,3,21,8,2.24,4.256,74.31,16160.4
+Birmingham,Petrol Car,77.9,1,25-34,Rain,Peak,Weekday,3,30,7,2.24,2.24,55.095,10438.6
+Birmingham,Petrol Car,112.4,1.4,55-64,Rain,Peak,Weekday,3,60,4,2.24,3.136,70.62,15061.6
+Newcastle,Petrol Car,95.6,1.6,25-34,Rain,Peak,Weekday,3,30,7,2.24,3.584,63.06,12810.4
+Manchester,Petrol Car,77,1.5,18-24,Rain,Peak,Weekday,3,21,8,2.24,3.36,54.69,10318
+Birmingham,Petrol Car,139.9,2.3,18-24,Rain,Peak,Weekday,3,21,8,2.24,5.152,82.995,18746.6
+London,Petrol Car,111.7,1.3,35-44,Rain,Peak,Weekday,3,40,6,2.24,2.912,70.305,14967.8
+Newcastle,Petrol Car,108.7,1.8,25-34,Rain,Peak,Weekday,3,30,7,2.24,4.032,68.955,14565.8
+Liverpool,Petrol Car,122.7,1.6,18-24,Rain,Peak,Weekday,3,21,8,2.24,3.584,75.255,16441.8
+Liverpool,Petrol Car,91,1.3,18-24,Rain,Peak,Weekday,3,21,8,2.24,2.912,60.99,12194
+London,Petrol Car,117.1,1.6,35-44,Rain,Peak,Weekday,3,40,6,2.24,3.584,72.735,15691.4
+London,Petrol Car,92.8,1.2,65+,Rain,Peak,Weekday,3,68,4,2.24,2.688,61.8,12435.2
+Newcastle,Petrol Car,139.1,1.3,18-24,Rain,Peak,Weekday,3,21,8,2.24,2.912,82.635,18639.4
+Liverpool,Petrol Car,125.5,0.8,25-34,Rain,Peak,Weekday,3,30,7,2.24,1.792,76.515,16817
+Bristol,Petrol Car,67.9,1.3,45-54,Rain,Peak,Weekday,3,50,5,2.24,2.912,50.595,9098.6
+Birmingham,Petrol Car,131.5,1.7,55-64,Rain,Peak,Weekday,3,60,4,2.24,3.808,79.215,17621
+Birmingham,Petrol Car,121.2,1.6,65+,Rain,Peak,Weekday,3,68,4,2.24,3.584,74.58,16240.8
+Liverpool,Petrol Car,98.8,1.6,18-24,Rain,Peak,Weekday,3,21,8,2.24,3.584,64.5,13239.2
+Bristol,Petrol Car,74.3,1.4,18-24,Rain,Peak,Weekday,3,21,8,2.24,3.136,53.475,9956.2
+Newcastle,Petrol Car,111.7,0.8,25-34,Rain,Peak,Weekday,3,30,7,2.24,1.792,70.305,14967.8
+Birmingham,Petrol Car,138.3,1.2,25-34,Rain,Peak,Weekday,3,30,7,2.24,2.688,82.275,18532.2
+Newcastle,Petrol Car,106.6,0.8,25-34,Rain,Peak,Weekday,3,30,7,2.24,1.792,68.01,14284.4
+Newcastle,Petrol Car,111.3,1.4,45-54,Rain,Peak,Weekday,3,50,5,2.24,3.136,70.125,14914.2
+Bristol,Petrol Car,55.8,1.4,18-24,Rain,Peak,Weekday,3,21,8,2.24,3.136,45.15,7477.2
+Newcastle,Petrol Car,138.4,1.4,45-54,Rain,Peak,Weekday,3,50,5,2.24,3.136,82.32,18545.6
+Bristol,Petrol Car,145.7,1.2,55-64,Rain,Peak,Weekday,3,60,4,2.24,2.688,85.605,19523.8
+Manchester,Petrol Car,106.5,1,45-54,Rain,Peak,Weekday,3,50,5,2.24,2.24,67.965,14271
+Liverpool,Petrol Car,111.8,1.5,18-24,Rain,Peak,Weekday,3,21,8,2.24,3.36,70.35,14981.2
+London,Petrol Car,127.2,1.5,25-34,Rain,Peak,Weekday,3,30,7,2.24,3.36,77.28,17044.8
+Bristol,Petrol Car,114,1.3,45-54,Rain,Peak,Weekday,3,50,5,2.24,2.912,71.34,15276
+Newcastle,Petrol Car,118.4,1.7,45-54,Rain,Peak,Weekday,3,50,5,2.24,3.808,73.32,15865.6
+Liverpool,Petrol Car,105.1,2.3,25-34,Rain,Peak,Weekday,3,30,7,2.24,5.152,67.335,14083.4
+Newcastle,Petrol Car,89.8,1.5,25-34,Rain,Peak,Weekday,3,30,7,2.24,3.36,60.45,12033.2
+Bristol,Petrol Car,112.2,1.6,25-34,Rain,Peak,Weekday,3,30,7,2.24,3.584,70.53,15034.8
+Bristol,Petrol Car,101.9,1.3,18-24,Rain,Peak,Weekday,3,21,8,2.24,2.912,65.895,13654.6
+Manchester,Petrol Car,77.8,1.7,35-44,Rain,Peak,Weekday,3,40,6,2.24,3.808,55.05,10425.2
+Liverpool,Petrol Car,133.1,1.6,35-44,Rain,Peak,Weekday,3,40,6,2.24,3.584,79.935,17835.4
+Newcastle,Petrol Car,78,1,18-24,Rain,Peak,Weekday,3,21,8,2.24,2.24,55.14,10452
+Birmingham,Petrol Car,96.5,1.8,25-34,Rain,Peak,Weekday,3,30,7,2.24,4.032,63.465,12931
+London,Petrol Car,97.7,1.5,25-34,Rain,Peak,Weekday,3,30,7,2.24,3.36,64.005,13091.8
+Birmingham,Petrol Car,107.7,2,55-64,Rain,Peak,Weekday,3,60,4,2.24,4.48,68.505,14431.8
+London,Petrol Car,80.6,1.4,18-24,Rain,Peak,Weekday,3,21,8,2.24,3.136,56.31,10800.4
+Newcastle,Petrol Car,162.1,1.9,35-44,Rain,Peak,Weekday,3,40,6,2.24,4.256,92.985,21721.4
+Liverpool,Petrol Car,108.8,1.9,18-24,Rain,Peak,Weekday,3,21,8,2.24,4.256,69,14579.2
+Birmingham,Petrol Car,102.9,1.8,25-34,Rain,Peak,Weekday,3,30,7,2.24,4.032,66.345,13788.6
+Birmingham,Petrol Car,95.4,1,25-34,Rain,Peak,Weekday,3,30,7,2.24,2.24,62.97,12783.6
+Manchester,Petrol Car,82.8,0.8,55-64,Rain,Peak,Weekday,3,60,4,2.24,1.792,57.3,11095.2
+Birmingham,Petrol Car,148.7,1.5,18-24,Rain,Peak,Weekday,3,21,8,2.24,3.36,86.955,19925.8
+Liverpool,Petrol Car,72.9,1.5,55-64,Rain,Peak,Weekday,3,60,4,2.24,3.36,52.845,9768.6
+Bristol,Petrol Car,91.1,1.9,55-64,Rain,Peak,Weekday,3,60,4,2.24,4.256,61.035,12207.4
+Bristol,Petrol Car,128.7,1.5,18-24,Rain,Peak,Weekday,3,21,8,2.24,3.36,77.955,17245.8
+Liverpool,Petrol Car,168.1,1.2,35-44,Rain,Peak,Weekday,3,40,6,2.24,2.688,95.685,22525.4
+Newcastle,Petrol Car,70.5,1.8,25-34,Rain,Peak,Weekday,3,30,7,2.24,4.032,51.765,9447
+Manchester,Petrol Car,90.7,1.8,18-24,Rain,Peak,Weekday,3,21,8,2.24,4.032,60.855,12153.8
+Newcastle,Petrol Car,82.7,1.5,25-34,Rain,Peak,Weekday,3,30,7,2.24,3.36,57.255,11081.8
+Liverpool,Petrol Car,135.9,1.7,18-24,Rain,Peak,Weekend,3,21,8,2.58,4.386,81.195,18210.6
+Birmingham,Petrol Car,91.4,1.3,25-34,Rain,Peak,Weekend,3,30,7,2.58,3.354,61.17,12247.6
+Newcastle,Petrol Car,133,1.3,55-64,Rain,Peak,Weekend,3,60,4,2.58,3.354,79.89,17822
+London,Petrol Car,145.6,1.3,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.354,85.56,19510.4
+Birmingham,Petrol Car,44.9,1.6,35-44,Rain,Peak,Weekend,3,40,6,2.58,4.128,40.245,6016.6
+London,Petrol Car,125.9,1.7,55-64,Rain,Peak,Weekend,3,60,4,2.58,4.386,76.695,16870.6
+London,Petrol Car,93.4,1.2,45-54,Rain,Peak,Weekend,3,50,5,2.58,3.096,62.07,12515.6
+Bristol,Petrol Car,55.4,1.9,25-34,Rain,Peak,Weekend,3,30,7,2.58,4.902,44.97,7423.6
+Liverpool,Petrol Car,105.6,1.8,18-24,Rain,Peak,Weekend,3,21,8,2.58,4.644,67.56,14150.4
+Bristol,Petrol Car,104.4,1.4,25-34,Rain,Peak,Weekend,3,30,7,2.58,3.612,67.02,13989.6
+Newcastle,Petrol Car,107.9,1.8,65+,Rain,Peak,Weekend,3,68,4,2.58,4.644,68.595,14458.6
+London,Petrol Car,125.6,0.9,35-44,Rain,Peak,Weekend,3,40,6,2.58,2.322,76.56,16830.4
+London,Petrol Car,96.9,1.5,25-34,Rain,Peak,Weekend,3,30,7,2.58,3.87,63.645,12984.6
+Manchester,Petrol Car,126,1.8,35-44,Rain,Peak,Weekend,3,40,6,2.58,4.644,76.74,16884
+Liverpool,Petrol Car,76,2,65+,Rain,Peak,Weekend,3,68,4,2.58,5.16,54.24,10184
+Birmingham,Petrol Car,99.7,1.7,18-24,Rain,Peak,Weekend,3,21,8,2.58,4.386,64.905,13359.8
+Manchester,Petrol Car,92.1,1.2,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.096,61.485,12341.4
+Newcastle,Petrol Car,107,1.6,55-64,Rain,Peak,Weekend,3,60,4,2.58,4.128,68.19,14338
+Newcastle,Petrol Car,46.2,1.5,35-44,Rain,Peak,Weekend,3,40,6,2.58,3.87,40.83,6190.8
+Bristol,Petrol Car,127.8,1.2,35-44,Rain,Peak,Weekend,3,40,6,2.58,3.096,77.55,17125.2
+Liverpool,Petrol Car,100.1,1.9,45-54,Rain,Peak,Weekend,3,50,5,2.58,4.902,65.085,13413.4
+Birmingham,Petrol Car,92.6,1.3,25-34,Rain,Peak,Weekend,3,30,7,2.58,3.354,61.71,12408.4
+Liverpool,Petrol Car,96.3,1.2,25-34,Rain,Peak,Weekend,3,30,7,2.58,3.096,63.375,12904.2
+Manchester,Petrol Car,94.2,1.4,25-34,Rain,Peak,Weekend,3,30,7,2.58,3.612,62.43,12622.8
+Newcastle,Petrol Car,129.3,1.5,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.87,78.225,17326.2
+Bristol,Petrol Car,93.5,1.2,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.096,62.115,12529
+Birmingham,Petrol Car,54.4,1.7,18-24,Rain,Peak,Weekend,3,21,8,2.58,4.386,44.52,7289.6
+Liverpool,Petrol Car,117.6,1,45-54,Rain,Peak,Weekend,3,50,5,2.58,2.58,72.96,15758.4
+London,Petrol Car,69.8,1.4,45-54,Rain,Peak,Weekend,3,50,5,2.58,3.612,51.45,9353.2
+Newcastle,Petrol Car,98.5,1.3,25-34,Rain,Peak,Weekend,3,30,7,2.58,3.354,64.365,13199
+London,Petrol Car,85.5,1.7,55-64,Rain,Peak,Weekend,3,60,4,2.58,4.386,58.515,11457
+Liverpool,Petrol Car,153.5,1.6,25-34,Rain,Peak,Weekend,3,30,7,2.58,4.128,89.115,20569
+Bristol,Petrol Car,145.5,1.6,25-34,Rain,Peak,Weekend,3,30,7,2.58,4.128,85.515,19497
+Manchester,Petrol Car,121.4,1.5,55-64,Rain,Peak,Weekend,3,60,4,2.58,3.87,74.67,16267.6
+London,Petrol Car,106.6,1.4,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.612,68.01,14284.4
+Liverpool,Petrol Car,109.2,1.7,45-54,Rain,Peak,Weekend,3,50,5,2.58,4.386,69.18,14632.8
+Liverpool,Petrol Car,96.6,1.7,55-64,Rain,Peak,Weekend,3,60,4,2.58,4.386,63.51,12944.4
+Bristol,Petrol Car,94.7,1.1,35-44,Rain,Peak,Weekend,3,40,6,2.58,2.838,62.655,12689.8
+Bristol,Petrol Car,115.3,1.4,35-44,Rain,Peak,Weekend,3,40,6,2.58,3.612,71.925,15450.2
+London,Petrol Car,112.1,1.6,18-24,Rain,Peak,Weekend,3,21,8,2.58,4.128,70.485,15021.4
+Bristol,Petrol Car,87.9,1.9,25-34,Rain,Peak,Weekend,3,30,7,2.58,4.902,59.595,11778.6
+Birmingham,Petrol Car,72.3,1.5,45-54,Rain,Peak,Weekend,3,50,5,2.58,3.87,52.575,9688.2
+Birmingham,Petrol Car,100.5,1.3,45-54,Rain,Peak,Weekend,3,50,5,2.58,3.354,65.265,13467
+Liverpool,Petrol Car,79.5,2.3,25-34,Rain,Peak,Weekend,3,30,7,2.58,5.934,55.815,10653
+Manchester,Petrol Car,61.5,1.9,25-34,Rain,Peak,Weekend,3,30,7,2.58,4.902,47.715,8241
+Newcastle,Petrol Car,75.4,0.8,35-44,Rain,Peak,Weekend,3,40,6,2.58,2.064,53.97,10103.6
+London,Petrol Car,156.5,1.3,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.354,90.465,20971
+Birmingham,Petrol Car,107.8,1.5,25-34,Rain,Peak,Weekend,3,30,7,2.58,3.87,68.55,14445.2
+Birmingham,Petrol Car,106.5,1.9,45-54,Rain,Peak,Weekend,3,50,5,2.58,4.902,67.965,14271
+Birmingham,Petrol Car,107.9,2.1,35-44,Rain,Peak,Weekend,3,40,6,2.58,5.418,68.595,14458.6
+Newcastle,Petrol Car,83.7,1.3,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.354,57.705,11215.8
+Birmingham,Petrol Car,146.5,1.7,25-34,Rain,Peak,Weekend,3,30,7,2.58,4.386,85.965,19631
+Manchester,Petrol Car,108.7,1.4,25-34,Rain,Peak,Weekend,3,30,7,2.58,3.612,68.955,14565.8
+Birmingham,Petrol Car,82.5,1.6,18-24,Rain,Peak,Weekend,3,21,8,2.58,4.128,57.165,11055
+Newcastle,Petrol Car,81.3,1.2,25-34,Rain,Peak,Weekend,3,30,7,2.58,3.096,56.625,10894.2
+Manchester,Petrol Car,69.3,1.7,55-64,Rain,Peak,Weekend,3,60,4,2.58,4.386,51.225,9286.2
+Manchester,Petrol Car,91.3,1.7,35-44,Rain,Peak,Weekend,3,40,6,2.58,4.386,61.125,12234.2
+Liverpool,Petrol Car,131.4,1.7,35-44,Rain,Peak,Weekend,3,40,6,2.58,4.386,79.17,17607.6
+London,Petrol Car,87.4,1.7,25-34,Rain,Peak,Weekend,3,30,7,2.58,4.386,59.37,11711.6
+Liverpool,Petrol Car,92.2,2.2,35-44,Rain,Peak,Weekend,3,40,6,2.58,5.676,61.53,12354.8
+Liverpool,Petrol Car,84.5,1.2,35-44,Rain,Peak,Weekend,3,40,6,2.58,3.096,58.065,11323
+Newcastle,Petrol Car,128.7,1.6,45-54,Rain,Peak,Weekend,3,50,5,2.58,4.128,77.955,17245.8
+Newcastle,Petrol Car,100.5,1.7,45-54,Rain,Peak,Weekend,3,50,5,2.58,4.386,65.265,13467
+Birmingham,Petrol Car,116.9,1.8,18-24,Rain,Peak,Weekend,3,21,8,2.58,4.644,72.645,15664.6
+London,Petrol Car,115.8,1.2,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.096,72.15,15517.2
+Liverpool,Petrol Car,188.8,1.5,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.87,105,25299.2
+Bristol,Petrol Car,39.7,1,18-24,Rain,Peak,Weekend,3,21,8,2.58,2.58,37.905,5319.8
+Liverpool,Petrol Car,166.3,1.8,25-34,Rain,Peak,Weekend,3,30,7,2.58,4.644,94.875,22284.2
+Liverpool,Petrol Car,112.4,1.3,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.354,70.62,15061.6
+Newcastle,Petrol Car,78.4,1.5,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.87,55.32,10505.6
+Bristol,Petrol Car,67.9,1.5,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.87,50.595,9098.6
+Newcastle,Petrol Car,93.8,1.5,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.87,62.25,12569.2
+Manchester,Petrol Car,39.8,1.6,45-54,Rain,Peak,Weekend,3,50,5,2.58,4.128,37.95,5333.2
+Manchester,Petrol Car,94.1,1.4,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.612,62.385,12609.4
+London,Petrol Car,109.7,1.5,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.87,69.405,14699.8
+Liverpool,Petrol Car,168.1,1.7,25-34,Rain,Peak,Weekend,3,30,7,2.58,4.386,95.685,22525.4
+Bristol,Petrol Car,71,1.4,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.612,51.99,9514
+Birmingham,Petrol Car,105.7,0.9,35-44,Rain,Peak,Weekend,3,40,6,2.58,2.322,67.605,14163.8
+Birmingham,Petrol Car,107.8,1.5,25-34,Rain,Peak,Weekend,3,30,7,2.58,3.87,68.55,14445.2
+Liverpool,Petrol Car,161.1,1.2,25-34,Rain,Peak,Weekend,3,30,7,2.58,3.096,92.535,21587.4
+Manchester,Petrol Car,128.6,1.9,25-34,Rain,Peak,Weekend,3,30,7,2.58,4.902,77.91,17232.4
+Newcastle,Petrol Car,112.8,1.3,45-54,Rain,Peak,Weekend,3,50,5,2.58,3.354,70.8,15115.2
+London,Petrol Car,93.1,2,35-44,Rain,Peak,Weekend,3,40,6,2.58,5.16,61.935,12475.4
+Newcastle,Petrol Car,72.2,1.5,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.87,52.53,9674.8
+Newcastle,Petrol Car,91.2,1.4,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.612,61.08,12220.8
+Liverpool,Petrol Car,139.5,1.7,45-54,Rain,Peak,Weekend,3,50,5,2.58,4.386,82.815,18693
+London,Petrol Car,62.3,1.3,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.354,48.075,8348.2
+Liverpool,Petrol Car,110.4,1.4,35-44,Rain,Peak,Weekend,3,40,6,2.58,3.612,69.72,14793.6
+Manchester,Petrol Car,87.1,1.5,18-24,Rain,Peak,Weekend,3,21,8,2.58,3.87,59.235,11671.4
+Birmingham,Petrol Car,77.9,1.6,45-54,Rain,Peak,Weekend,3,50,5,2.58,4.128,55.095,10438.6
+London,Petrol Car,106.8,1.7,45-54,Rain,Peak,Weekend,3,50,5,2.58,4.386,68.1,14311.2
+Manchester,Petrol Car,112.3,1.1,18-24,Rain,Peak,Weekend,3,21,8,2.58,2.838,70.575,15048.2
+Newcastle,Petrol Car,116,2,35-44,Rain,Peak,Weekend,3,40,6,2.58,5.16,72.24,15544
+Manchester,Petrol Car,109.6,1.7,45-54,Rain,Peak,Weekend,3,50,5,2.58,4.386,69.36,14686.4
+Bristol,Petrol Car,143.4,1.1,25-34,Rain,Peak,Weekend,3,30,7,2.58,2.838,84.57,19215.6
+Liverpool,Petrol Car,52.8,1.5,18-24,Rain,No Peak,Weekend,3,21,8,1.72,2.58,43.8,7075.2
+London,Petrol Car,116.2,1.6,35-44,Rain,No Peak,Weekday,3,40,6,1.5,2.4,72.33,15570.8
+Liverpool,Petrol Car,128.6,1.7,55-64,Rain,No Peak,Weekday,3,60,4,1.5,2.55,77.91,17232.4
+Bristol,Petrol Car,135.5,1.7,25-34,Rain,No Peak,Weekend,3,30,7,1.72,2.924,81.015,18157
+Liverpool,Petrol Car,114.1,1.2,25-34,Rain,No Peak,Weekend,3,30,7,1.72,2.064,71.385,15289.4
+Bristol,Petrol Car,97.4,1.9,25-34,Rain,No Peak,Weekday,3,30,7,1.5,2.85,63.87,13051.6
+Liverpool,Petrol Car,68.8,1.1,25-34,Rain,No Peak,Weekend,3,30,7,1.72,1.892,51,9219.2
+Manchester,Petrol Car,66.6,1.1,55-64,Rain,No Peak,Weekend,3,60,4,1.72,1.892,50.01,8924.4
+Bristol,Petrol Car,154.9,1.4,35-44,Rain,No Peak,Weekend,3,40,6,1.72,2.408,89.745,20756.6
+Bristol,Petrol Car,111.3,1.9,45-54,Rain,No Peak,Weekday,3,50,5,1.5,2.85,70.125,14914.2
+Liverpool,Petrol Car,141.1,1.6,18-24,Rain,No Peak,Weekday,3,21,8,1.5,2.4,83.535,18907.4
+Newcastle,Petrol Car,120.7,1.2,45-54,Rain,No Peak,Weekend,3,50,5,1.72,2.064,74.355,16173.8
+Bristol,Petrol Car,127.6,1.2,18-24,Rain,No Peak,Weekday,3,21,8,1.5,1.8,77.46,17098.4
+Newcastle,Petrol Car,127.1,1.4,18-24,Rain,No Peak,Weekend,3,21,8,1.72,2.408,77.235,17031.4
+Liverpool,Petrol Car,108.2,1.6,18-24,Rain,No Peak,Weekend,3,21,8,1.72,2.752,68.73,14498.8
+Manchester,Petrol Car,130.9,1.5,45-54,Rain,No Peak,Weekend,3,50,5,1.72,2.58,78.945,17540.6
+Liverpool,Petrol Car,96.6,1.3,18-24,Rain,No Peak,Weekend,3,21,8,1.72,2.236,63.51,12944.4
+Birmingham,Petrol Car,36.2,2,35-44,Rain,No Peak,Weekend,3,40,6,1.72,3.44,36.33,4850.8
+Bristol,Petrol Car,173.6,1.8,18-24,Rain,No Peak,Weekday,3,21,8,1.5,2.7,98.16,23262.4
+Newcastle,Petrol Car,120.6,1.2,18-24,Rain,No Peak,Weekday,3,21,8,1.5,1.8,74.31,16160.4
+Bristol,Petrol Car,137.3,1.4,35-44,Rain,No Peak,Weekend,3,40,6,1.72,2.408,81.825,18398.2
+Birmingham,Petrol Car,101.2,1.7,35-44,Rain,No Peak,Weekday,3,40,6,1.5,2.55,65.58,13560.8
+Bristol,Petrol Car,86.5,1.4,45-54,Rain,No Peak,Weekday,3,50,5,1.5,2.1,58.965,11591
+London,Petrol Car,55.5,2.2,35-44,Rain,No Peak,Weekday,3,40,6,1.5,3.3,45.015,7437
+Bristol,Petrol Car,105,1.5,35-44,Rain,No Peak,Weekday,3,40,6,1.5,2.25,67.29,14070
+Manchester,Petrol Car,56.5,1.4,25-34,Rain,No Peak,Weekday,3,30,7,1.5,2.1,45.465,7571
+Newcastle,Petrol Car,57.5,1.8,45-54,Rain,No Peak,Weekday,3,50,5,1.5,2.7,45.915,7705
+Manchester,Petrol Car,123.3,1.6,45-54,Rain,No Peak,Weekday,3,50,5,1.5,2.4,75.525,16522.2
+Birmingham,Petrol Car,136.6,1.7,35-44,Rain,No Peak,Weekend,3,40,6,1.72,2.924,81.51,18304.4
+Manchester,Petrol Car,123.4,1.1,18-24,Rain,No Peak,Weekend,3,21,8,1.72,1.892,75.57,16535.6
+Newcastle,Petrol Car,53.9,1.7,25-34,Rain,No Peak,Weekend,3,30,7,1.72,2.924,44.295,7222.6
+Liverpool,Petrol Car,85.1,1.4,18-24,Rain,No Peak,Weekday,3,21,8,1.5,2.1,58.335,11403.4
+London,Petrol Car,61.3,1,25-34,Rain,No Peak,Weekend,3,30,7,1.72,1.72,47.625,8214.2
+Manchester,Petrol Car,88,1.7,25-34,Rain,No Peak,Weekday,3,30,7,1.5,2.55,59.64,11792
+Bristol,Petrol Car,74.5,1.6,18-24,Rain,No Peak,Weekday,3,21,8,1.5,2.4,53.565,9983
+Bristol,Petrol Car,44.9,1.3,25-34,Rain,No Peak,Weekend,3,30,7,1.72,2.236,40.245,6016.6
+Liverpool,Petrol Car,109.4,1.4,25-34,Rain,No Peak,Weekend,3,30,7,1.72,2.408,69.27,14659.6
+London,Petrol Car,126.2,0.8,18-24,Rain,No Peak,Weekend,3,21,8,1.72,1.376,76.83,16910.8
+Birmingham,Petrol Car,95,1.7,45-54,Rain,No Peak,Weekday,3,50,5,1.5,2.55,62.79,12730
+Birmingham,Petrol Car,133.2,1,25-34,Rain,No Peak,Weekend,3,30,7,1.72,1.72,79.98,17848.8
+London,Petrol Car,117.4,1.8,35-44,Rain,No Peak,Weekend,3,40,6,1.72,3.096,72.87,15731.6
+Bristol,Petrol Car,75.4,1.8,55-64,Rain,No Peak,Weekday,3,60,4,1.5,2.7,53.97,10103.6
+Manchester,Petrol Car,69.5,1.5,35-44,Rain,No Peak,Weekend,3,40,6,1.72,2.58,51.315,9313
+Manchester,Petrol Car,125.2,1.4,25-34,Rain,No Peak,Weekday,3,30,7,1.5,2.1,76.38,16776.8
+Bristol,Petrol Car,65.7,1.3,35-44,Rain,No Peak,Weekend,3,40,6,1.72,2.236,49.605,8803.8
+Manchester,Petrol Car,113.7,1,35-44,Rain,No Peak,Weekday,3,40,6,1.5,1.5,71.205,15235.8
+Bristol,Petrol Car,94.2,1.7,25-34,Rain,No Peak,Weekday,3,30,7,1.5,2.55,62.43,12622.8
+Newcastle,Petrol Car,70.9,1.3,25-34,Rain,No Peak,Weekend,3,30,7,1.72,2.236,51.945,9500.6
+Birmingham,Petrol Car,87,1.4,55-64,Rain,No Peak,Weekday,3,60,4,1.5,2.1,59.19,11658
+Manchester,Petrol Car,99.5,1.5,18-24,Rain,No Peak,Weekday,3,21,8,1.5,2.25,64.815,13333
+Bristol,Petrol Car,12.1,1.7,35-44,Rain,No Peak,Weekend,3,40,6,1.72,2.924,25.485,1621.4
+Bristol,Petrol Car,101.4,1.6,18-24,Rain,No Peak,Weekday,3,21,8,1.5,2.4,65.67,13587.6
+Manchester,Petrol Car,119.5,1.4,18-24,Rain,No Peak,Weekend,3,21,8,1.72,2.408,73.815,16013
+Birmingham,Petrol Car,80.9,1.7,18-24,Rain,No Peak,Weekday,3,21,8,1.5,2.55,56.445,10840.6
+Bristol,Petrol Car,104.7,0.8,25-34,Rain,No Peak,Weekday,3,30,7,1.5,1.2,67.155,14029.8
+London,Petrol Car,151.5,1.7,25-34,Rain,No Peak,Weekday,3,30,7,1.5,2.55,88.215,20301
+London,Petrol Car,94.9,1.3,25-34,Rain,No Peak,Weekday,3,30,7,1.5,1.95,62.745,12716.6
+London,Petrol Car,28.1,1.6,55-64,Rain,No Peak,Weekend,3,60,4,1.72,2.752,32.685,3765.4
+London,Petrol Car,49.8,2,18-24,Rain,No Peak,Weekday,3,21,8,1.5,3,42.45,6673.2
+Newcastle,Petrol Car,68.4,1.1,35-44,Rain,No Peak,Weekend,3,40,6,1.72,1.892,50.82,9165.6
+Liverpool,Petrol Car,118.4,1.1,25-34,Rain,No Peak,Weekday,3,30,7,1.5,1.65,73.32,15865.6
+Manchester,Petrol Car,81.4,1.6,25-34,Rain,No Peak,Weekday,3,30,7,1.5,2.4,56.67,10907.6
+Liverpool,Petrol Car,122.8,1.4,18-24,Rain,No Peak,Weekday,3,21,8,1.5,2.1,75.3,16455.2
+Birmingham,Petrol Car,43.2,1.5,45-54,Rain,No Peak,Weekday,3,50,5,1.5,2.25,39.48,5788.8
+London,Petrol Car,133.8,2,18-24,Rain,No Peak,Weekday,3,21,8,1.5,3,80.25,17929.2
+London,Petrol Car,102.1,1.8,18-24,Rain,No Peak,Weekend,3,21,8,1.72,3.096,65.985,13681.4
+Birmingham,Petrol Car,94.8,1.7,18-24,Rain,No Peak,Weekend,3,21,8,1.72,2.924,62.7,12703.2
+Birmingham,Petrol Car,63.3,1.3,55-64,Rain,No Peak,Weekday,3,60,4,1.5,1.95,48.525,8482.2
+Bristol,Petrol Car,117.9,1.5,55-64,Rain,No Peak,Weekday,3,60,4,1.5,2.25,73.095,15798.6
+Liverpool,Petrol Car,57.3,1.5,55-64,Rain,No Peak,Weekday,3,60,4,1.5,2.25,45.825,7678.2
+Birmingham,Petrol Car,114.4,2,18-24,Rain,No Peak,Weekend,3,21,8,1.72,3.44,71.52,15329.6
+Bristol,Petrol Car,69.7,1.2,18-24,Rain,No Peak,Weekend,3,21,8,1.72,2.064,51.405,9339.8
+London,Petrol Car,85.4,1.1,35-44,Rain,No Peak,Weekend,3,40,6,1.72,1.892,58.47,11443.6
+London,Petrol Car,89.2,1.1,25-34,Rain,No Peak,Weekend,3,30,7,1.72,1.892,60.18,11952.8
+Birmingham,Petrol Car,75.1,1.6,25-34,Rain,No Peak,Weekend,3,30,7,1.72,2.752,53.835,10063.4
+Birmingham,Petrol Car,105.4,1.3,35-44,Rain,No Peak,Weekday,3,40,6,1.5,1.95,67.47,14123.6
+Liverpool,Petrol Car,82.8,1.3,18-24,Rain,No Peak,Weekend,3,21,8,1.72,2.236,57.3,11095.2
+Newcastle,Petrol Car,88.4,1.6,35-44,Rain,No Peak,Weekend,3,40,6,1.72,2.752,59.82,11845.6
+Manchester,Petrol Car,90.6,1.8,18-24,Rain,No Peak,Weekday,3,21,8,1.5,2.7,60.81,12140.4
+Liverpool,Petrol Car,104.3,1.4,25-34,Rain,No Peak,Weekday,3,30,7,1.5,2.1,66.975,13976.2
+Birmingham,Petrol Car,106.7,1.2,18-24,Rain,No Peak,Weekday,3,21,8,1.5,1.8,68.055,14297.8
+Birmingham,Petrol Car,90.3,1.3,55-64,Rain,No Peak,Weekend,3,60,4,1.72,2.236,60.675,12100.2
+Manchester,Petrol Car,111.1,1.5,35-44,Rain,No Peak,Weekend,3,40,6,1.72,2.58,70.035,14887.4
+Birmingham,Petrol Car,148,1.2,25-34,Rain,No Peak,Weekend,3,30,7,1.72,2.064,86.64,19832
+Bristol,Petrol Car,121.7,1.4,35-44,Rain,No Peak,Weekend,3,40,6,1.72,2.408,74.805,16307.8
+London,Petrol Car,132.5,1.5,18-24,Rain,No Peak,Weekend,3,21,8,1.72,2.58,79.665,17755
+Newcastle,Petrol Car,77,1.3,55-64,Rain,No Peak,Weekend,3,60,4,1.72,2.236,54.69,10318
+Birmingham,Petrol Car,105,1.2,25-34,Rain,No Peak,Weekday,3,30,7,1.5,1.8,67.29,14070
+Birmingham,Petrol Car,84.4,1.8,55-64,Rain,No Peak,Weekend,3,60,4,1.72,3.096,58.02,11309.6
+Bristol,Petrol Car,74.9,1.6,55-64,Rain,No Peak,Weekday,3,60,4,1.5,2.4,53.745,10036.6
+London,Petrol Car,86.5,2,18-24,Rain,No Peak,Weekend,3,21,8,1.72,3.44,58.965,11591
+Bristol,Petrol Car,29.1,1.6,18-24,Rain,No Peak,Weekday,3,21,8,1.5,2.4,33.135,3899.4
+London,Petrol Car,82.4,1.6,18-24,Rain,No Peak,Weekend,3,21,8,1.72,2.752,57.12,11041.6
+Liverpool,Petrol Car,98.8,1.6,18-24,Rain,No Peak,Weekend,3,21,8,1.72,2.752,64.5,13239.2
+Newcastle,Petrol Car,94.3,1.6,18-24,Rain,No Peak,Weekend,3,21,8,1.72,2.752,62.475,12636.2
+Manchester,Petrol Car,126.8,1.6,25-34,Rain,No Peak,Weekday,3,30,7,1.5,2.4,77.1,16991.2
+Manchester,Petrol Car,146,1.8,18-24,Rain,No Peak,Weekend,3,21,8,1.72,3.096,85.74,19564
+Birmingham,Petrol Car,119.1,1.7,18-24,Rain,No Peak,Weekend,3,21,8,1.72,2.924,73.635,15959.4
+London,Petrol Car,124.6,1.2,25-34,Rain,No Peak,Weekend,3,30,7,1.72,2.064,76.11,16696.4
+Newcastle,Petrol Car,168,1.4,25-34,Rain,No Peak,Weekday,3,30,7,1.5,2.1,95.64,22512
+London,Petrol Car,85.5,1.8,25-34,Rain,No Peak,Weekday,3,30,7,1.5,2.7,58.515,11457
+Liverpool,Petrol Car,101.7,1.3,18-24,Rain,No Peak,Weekend,3,21,8,1.72,2.236,65.805,13627.8
+Liverpool,Petrol Car,122.4,1.3,25-34,Rain,No Peak,Weekday,3,30,7,1.5,1.95,75.12,16401.6
+London,Petrol Car,123,1,18-24,Rain,No Peak,Weekday,3,21,8,1.5,1.5,75.39,16482
+Birmingham,Petrol Car,100.4,1.5,25-34,Rain,No Peak,Weekend,3,30,7,1.72,2.58,65.22,13453.6
+Bristol,Petrol Car,103.1,0.9,35-44,Rain,No Peak,Weekday,3,40,6,1.5,1.35,66.435,13815.4
+Manchester,Petrol Car,120.8,1.7,55-64,Rain,No Peak,Weekend,3,60,4,1.72,2.924,74.4,16187.2
+London,Petrol Car,68.8,1.6,18-24,Rain,No Peak,Weekday,3,21,8,1.5,2.4,51,9219.2
+Manchester,Petrol Car,41.6,1.6,18-24,Rain,No Peak,Weekday,3,21,8,1.5,2.4,38.76,5574.4
+Manchester,Petrol Car,43.3,1.5,25-34,Rain,No Peak,Weekday,3,30,7,1.5,2.25,39.525,5802.2
+London,Petrol Car,136.5,1.7,35-44,Rain,No Peak,Weekday,3,40,6,1.5,2.55,81.465,18291
+London,Petrol Car,110.3,1.5,35-44,Rain,No Peak,Weekend,3,40,6,1.72,2.58,69.675,14780.2
+London,Petrol Car,116.8,1.5,18-24,Rain,No Peak,Weekday,3,21,8,1.5,2.25,72.6,15651.2
+Manchester,Petrol Car,129.2,1.5,35-44,Rain,No Peak,Weekday,3,40,6,1.5,2.25,78.18,17312.8
+Birmingham,Petrol Car,117.9,1.6,35-44,Rain,No Peak,Weekday,3,40,6,1.5,2.4,73.095,15798.6
+Birmingham,Petrol Car,120.3,1.6,45-54,Rain,No Peak,Weekday,3,50,5,1.5,2.4,74.175,16120.2
+Liverpool,Petrol Car,52.5,1.6,45-54,Rain,No Peak,Weekend,3,50,5,1.72,2.752,43.665,7035
+London,Petrol Car,86.1,1.4,18-24,Rain,No Peak,Weekday,3,21,8,1.5,2.1,58.785,11537.4
+Birmingham,Petrol Car,82.2,1.4,55-64,Rain,No Peak,Weekday,3,60,4,1.5,2.1,57.03,11014.8
+Bristol,Petrol Car,75.9,1.5,18-24,Cloudy,No Peak,Weekend,3,21,8,1.45,2.175,54.195,10170.6
+Birmingham,Petrol Car,106.9,2.1,18-24,Cloudy,No Peak,Weekday,3,21,8,1.26,2.646,68.145,14324.6
+Newcastle,Petrol Car,58.3,1.9,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,3.61,46.275,7812.2
+Liverpool,Petrol Car,82.5,1.5,35-44,Cloudy,Peak,Weekend,3,40,6,2.18,3.27,57.165,11055
+Newcastle,Petrol Car,107.4,1.2,35-44,Cloudy,Peak,Weekend,3,40,6,2.18,2.616,68.37,14391.6
+London,Petrol Car,51.9,1.8,55-64,Cloudy,No Peak,Weekend,3,60,4,1.45,2.61,43.395,6954.6
+London,Petrol Car,117.9,1.3,25-34,Cloudy,Peak,Weekend,3,30,7,2.18,2.834,73.095,15798.6
+Birmingham,Petrol Car,72.4,1.3,25-34,Cloudy,Peak,Weekend,3,30,7,2.18,2.834,52.62,9701.6
+Manchester,Petrol Car,129.2,1.3,45-54,Cloudy,No Peak,Weekday,3,50,5,1.26,1.638,78.18,17312.8
+Newcastle,Petrol Car,44.7,1.5,45-54,Cloudy,No Peak,Weekend,3,50,5,1.45,2.175,40.155,5989.8
+Newcastle,Petrol Car,96.8,1.7,45-54,Cloudy,Peak,Weekend,3,50,5,2.18,3.706,63.6,12971.2
+Manchester,Petrol Car,91.2,1.6,45-54,Cloudy,No Peak,Weekday,3,50,5,1.26,2.016,61.08,12220.8
+London,Petrol Car,41.2,1.8,55-64,Cloudy,No Peak,Weekend,3,60,4,1.45,2.61,38.58,5520.8
+London,Petrol Car,110.2,1.4,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,2.66,69.63,14766.8
+London,Petrol Car,125.2,1.7,25-34,Cloudy,Peak,Weekday,3,30,7,1.9,3.23,76.38,16776.8
+Birmingham,Petrol Car,101.7,1.3,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,2.47,65.805,13627.8
+Newcastle,Petrol Car,136.7,1.7,18-24,Cloudy,No Peak,Weekday,3,21,8,1.26,2.142,81.555,18317.8
+Newcastle,Petrol Car,122.6,1,35-44,Cloudy,No Peak,Weekday,3,40,6,1.26,1.26,75.21,16428.4
+Newcastle,Petrol Car,119.8,1.5,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,2.85,73.95,16053.2
+London,Petrol Car,107.5,1.7,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,3.23,68.415,14405
+Newcastle,Petrol Car,130.8,1.3,55-64,Cloudy,No Peak,Weekend,3,60,4,1.45,1.885,78.9,17527.2
+Manchester,Petrol Car,80.8,1.3,35-44,Cloudy,No Peak,Weekday,3,40,6,1.26,1.638,56.4,10827.2
+Manchester,Petrol Car,123.1,1,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,1.9,75.435,16495.4
+Liverpool,Petrol Car,52.2,1.8,18-24,Cloudy,Peak,Weekend,3,21,8,2.18,3.924,43.53,6994.8
+Liverpool,Petrol Car,89,1.8,25-34,Cloudy,Peak,Weekday,3,30,7,1.9,3.42,60.09,11926
+Manchester,Petrol Car,91.9,1.4,35-44,Cloudy,Peak,Weekend,3,40,6,2.18,3.052,61.395,12314.6
+Newcastle,Petrol Car,56.4,1.3,25-34,Cloudy,No Peak,Weekday,3,30,7,1.26,1.638,45.42,7557.6
+London,Petrol Car,106.8,2.1,18-24,Cloudy,Peak,Weekend,3,21,8,2.18,4.578,68.1,14311.2
+Newcastle,Petrol Car,142.2,1.5,18-24,Cloudy,Peak,Weekend,3,21,8,2.18,3.27,84.03,19054.8
+Bristol,Petrol Car,125.1,1.4,18-24,Cloudy,No Peak,Weekend,3,21,8,1.45,2.03,76.335,16763.4
+London,Petrol Car,93,1.1,35-44,Cloudy,No Peak,Weekday,3,40,6,1.26,1.386,61.89,12462
+Manchester,Petrol Car,126.8,1.9,65+,Cloudy,Peak,Weekend,3,68,4,2.18,4.142,77.1,16991.2
+Newcastle,Petrol Car,54.8,1.8,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,3.42,44.7,7343.2
+London,Petrol Car,76.7,1.3,18-24,Cloudy,No Peak,Weekday,3,21,8,1.26,1.638,54.555,10277.8
+Newcastle,Petrol Car,104.1,1.1,18-24,Cloudy,No Peak,Weekend,3,21,8,1.45,1.595,66.885,13949.4
+Liverpool,Petrol Car,111.9,1.6,25-34,Cloudy,Peak,Weekend,3,30,7,2.18,3.488,70.395,14994.6
+Manchester,Petrol Car,126.7,2.1,25-34,Cloudy,Peak,Weekday,3,30,7,1.9,3.99,77.055,16977.8
+Birmingham,Petrol Car,106.7,1.6,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,3.04,68.055,14297.8
+Bristol,Petrol Car,109.4,2,55-64,Cloudy,Peak,Weekend,3,60,4,2.18,4.36,69.27,14659.6
+Liverpool,Petrol Car,42.1,1.6,45-54,Cloudy,Peak,Weekday,3,50,5,1.9,3.04,38.985,5641.4
+Bristol,Petrol Car,108.9,1.4,45-54,Cloudy,No Peak,Weekend,3,50,5,1.45,2.03,69.045,14592.6
+Manchester,Petrol Car,99.1,1.5,25-34,Cloudy,No Peak,Weekend,3,30,7,1.45,2.175,64.635,13279.4
+London,Petrol Car,147,1.3,25-34,Cloudy,Peak,Weekday,3,30,7,1.9,2.47,86.19,19698
+Liverpool,Petrol Car,143.7,1.7,18-24,Cloudy,Peak,Weekend,3,21,8,2.18,3.706,84.705,19255.8
+London,Petrol Car,99.7,1.7,45-54,Cloudy,No Peak,Weekend,3,50,5,1.45,2.465,64.905,13359.8
+Bristol,Petrol Car,126.2,1.5,55-64,Cloudy,No Peak,Weekend,3,60,4,1.45,2.175,76.83,16910.8
+Liverpool,Petrol Car,155.1,1.1,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,2.09,89.835,20783.4
+Birmingham,Petrol Car,87,1.8,18-24,Cloudy,No Peak,Weekend,3,21,8,1.45,2.61,59.19,11658
+Bristol,Petrol Car,72.6,1.3,18-24,Cloudy,Peak,Weekend,3,21,8,2.18,2.834,52.71,9728.4
+Manchester,Petrol Car,62.4,1.8,35-44,Cloudy,No Peak,Weekday,3,40,6,1.26,2.268,48.12,8361.6
+London,Petrol Car,51.1,1.6,45-54,Cloudy,Peak,Weekday,3,50,5,1.9,3.04,43.035,6847.4
+Birmingham,Petrol Car,117.5,1.7,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,3.23,72.915,15745
+Liverpool,Petrol Car,71.7,1.7,25-34,Cloudy,No Peak,Weekday,3,30,7,1.26,2.142,52.305,9607.8
+London,Petrol Car,70.4,1.4,25-34,Cloudy,No Peak,Weekday,3,30,7,1.26,1.764,51.72,9433.6
+London,Petrol Car,89.2,0.9,55-64,Cloudy,Peak,Weekday,3,60,4,1.9,1.71,60.18,11952.8
+Birmingham,Petrol Car,130.1,1.8,55-64,Cloudy,Peak,Weekday,3,60,4,1.9,3.42,78.585,17433.4
+Liverpool,Petrol Car,128.5,1.9,45-54,Cloudy,No Peak,Weekday,3,50,5,1.26,2.394,77.865,17219
+London,Petrol Car,78.1,1.2,65+,Cloudy,Peak,Weekday,3,68,4,1.9,2.28,55.185,10465.4
+Birmingham,Petrol Car,70.2,1.7,55-64,Cloudy,No Peak,Weekend,3,60,4,1.45,2.465,51.63,9406.8
+Manchester,Petrol Car,60.1,1.1,35-44,Cloudy,Peak,Weekend,3,40,6,2.18,2.398,47.085,8053.4
+London,Petrol Car,110,1.6,35-44,Cloudy,No Peak,Weekday,3,40,6,1.26,2.016,69.54,14740
+Liverpool,Petrol Car,135.2,1.8,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,3.42,80.88,18116.8
+London,Petrol Car,119,1.8,25-34,Cloudy,No Peak,Weekday,3,30,7,1.26,2.268,73.59,15946
+Bristol,Petrol Car,159,1.7,45-54,Cloudy,Peak,Weekday,3,50,5,1.9,3.23,91.59,21306
+Bristol,Petrol Car,165.8,1.6,55-64,Cloudy,Peak,Weekend,3,60,4,2.18,3.488,94.65,22217.2
+London,Petrol Car,134.3,1.7,45-54,Cloudy,No Peak,Weekend,3,50,5,1.45,2.465,80.475,17996.2
+Birmingham,Petrol Car,104.3,0.9,18-24,Cloudy,No Peak,Weekday,3,21,8,1.26,1.134,66.975,13976.2
+Bristol,Petrol Car,137.5,1.6,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,3.04,81.915,18425
+Newcastle,Petrol Car,73.7,1.3,45-54,Cloudy,No Peak,Weekday,3,50,5,1.26,1.638,53.205,9875.8
+Bristol,Petrol Car,123.2,1,45-54,Cloudy,Peak,Weekend,3,50,5,2.18,2.18,75.48,16508.8
+Birmingham,Petrol Car,100.3,1.9,35-44,Cloudy,Peak,Weekend,3,40,6,2.18,4.142,65.175,13440.2
+Manchester,Petrol Car,109.4,1.6,25-34,Cloudy,Peak,Weekday,3,30,7,1.9,3.04,69.27,14659.6
+Bristol,Petrol Car,93.9,1.5,25-34,Cloudy,No Peak,Weekday,3,30,7,1.26,1.89,62.295,12582.6
+London,Petrol Car,87.8,1.8,65+,Cloudy,Peak,Weekend,3,68,4,2.18,3.924,59.55,11765.2
+Bristol,Petrol Car,133.4,1.5,25-34,Cloudy,Peak,Weekend,3,30,7,2.18,3.27,80.07,17875.6
+Bristol,Petrol Car,113.3,1.6,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,3.04,71.025,15182.2
+Manchester,Petrol Car,129.5,1.7,25-34,Cloudy,Peak,Weekend,3,30,7,2.18,3.706,78.315,17353
+Bristol,Petrol Car,106,1.6,25-34,Cloudy,Peak,Weekday,3,30,7,1.9,3.04,67.74,14204
+Bristol,Petrol Car,77.7,1.7,18-24,Cloudy,Peak,Weekend,3,21,8,2.18,3.706,55.005,10411.8
+Manchester,Petrol Car,106,1.5,25-34,Cloudy,Peak,Weekend,3,30,7,2.18,3.27,67.74,14204
+London,Petrol Car,126.1,1.2,55-64,Cloudy,Peak,Weekday,3,60,4,1.9,2.28,76.785,16897.4
+London,Petrol Car,64.1,1.4,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,2.66,48.885,8589.4
+Newcastle,Petrol Car,127.3,1.7,25-34,Cloudy,No Peak,Weekday,3,30,7,1.26,2.142,77.325,17058.2
+Newcastle,Petrol Car,114.1,1.7,55-64,Cloudy,No Peak,Weekend,3,60,4,1.45,2.465,71.385,15289.4
+Bristol,Petrol Car,51.2,1.4,18-24,Cloudy,No Peak,Weekday,3,21,8,1.26,1.764,43.08,6860.8
+Liverpool,Petrol Car,80.4,1.7,25-34,Cloudy,Peak,Weekend,3,30,7,2.18,3.706,56.22,10773.6
+Birmingham,Petrol Car,88.4,2,25-34,Cloudy,No Peak,Weekday,3,30,7,1.26,2.52,59.82,11845.6
+Bristol,Petrol Car,40.5,1.5,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,2.85,38.265,5427
+London,Petrol Car,100.4,1.8,65+,Cloudy,Peak,Weekend,3,68,4,2.18,3.924,65.22,13453.6
+Birmingham,Petrol Car,82.2,1.8,45-54,Cloudy,Peak,Weekend,3,50,5,2.18,3.924,57.03,11014.8
+Manchester,Petrol Car,122.7,1.5,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,2.85,75.255,16441.8
+Manchester,Petrol Car,86.3,1.1,45-54,Cloudy,No Peak,Weekend,3,50,5,1.45,1.595,58.875,11564.2
+Newcastle,Petrol Car,84.1,1.9,55-64,Cloudy,Peak,Weekend,3,60,4,2.18,4.142,57.885,11269.4
+Manchester,Petrol Car,116.6,1.3,35-44,Cloudy,Peak,Weekend,3,40,6,2.18,2.834,72.51,15624.4
+Manchester,Petrol Car,93.9,1.6,18-24,Cloudy,Peak,Weekend,3,21,8,2.18,3.488,62.295,12582.6
+Bristol,Petrol Car,77.5,1.3,18-24,Cloudy,No Peak,Weekday,3,21,8,1.26,1.638,54.915,10385
+Newcastle,Petrol Car,129.6,1.7,55-64,Cloudy,No Peak,Weekday,3,60,4,1.26,2.142,78.36,17366.4
+Newcastle,Petrol Car,147.5,1.3,25-34,Cloudy,No Peak,Weekday,3,30,7,1.26,1.638,86.415,19765
+Birmingham,Petrol Car,118.4,1.5,35-44,Cloudy,Peak,Weekend,3,40,6,2.18,3.27,73.32,15865.6
+Liverpool,Petrol Car,119.1,1.9,55-64,Cloudy,Peak,Weekday,3,60,4,1.9,3.61,73.635,15959.4
+Birmingham,Petrol Car,112.6,1.8,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,3.42,70.71,15088.4
+London,Petrol Car,120.4,1.2,35-44,Cloudy,No Peak,Weekday,3,40,6,1.26,1.512,74.22,16133.6
+London,Petrol Car,117.2,1.4,25-34,Cloudy,Peak,Weekday,3,30,7,1.9,2.66,72.78,15704.8
+Manchester,Petrol Car,81.4,1.5,25-34,Cloudy,No Peak,Weekend,3,30,7,1.45,2.175,56.67,10907.6
+Birmingham,Petrol Car,50.7,1.7,35-44,Cloudy,Peak,Weekend,3,40,6,2.18,3.706,42.855,6793.8
+Newcastle,Petrol Car,81.7,1.5,18-24,Cloudy,Peak,Weekend,3,21,8,2.18,3.27,56.805,10947.8
+Manchester,Petrol Car,99.7,1.6,18-24,Cloudy,Peak,Weekend,3,21,8,2.18,3.488,64.905,13359.8
+Newcastle,Petrol Car,141.4,1.7,45-54,Cloudy,Peak,Weekend,3,50,5,2.18,3.706,83.67,18947.6
+Bristol,Petrol Car,46.5,1.6,25-34,Cloudy,No Peak,Weekend,3,30,7,1.45,2.32,40.965,6231
+Bristol,Petrol Car,99.7,1.7,35-44,Cloudy,No Peak,Weekend,3,40,6,1.45,2.465,64.905,13359.8
+Birmingham,Petrol Car,151.2,1.6,18-24,Cloudy,No Peak,Weekend,3,21,8,1.45,2.32,88.08,20260.8
+Liverpool,Petrol Car,126.6,1.5,25-34,Cloudy,No Peak,Weekday,3,30,7,1.26,1.89,77.01,16964.4
+Manchester,Petrol Car,125.1,1.8,25-34,Cloudy,Peak,Weekday,3,30,7,1.9,3.42,76.335,16763.4
+London,Petrol Car,190,1.6,18-24,Cloudy,No Peak,Weekday,3,21,8,1.26,2.016,105.54,25460
+Manchester,Petrol Car,94.9,2,18-24,Cloudy,Peak,Weekend,3,21,8,2.18,4.36,62.745,12716.6
+London,Petrol Car,114.2,1.4,45-54,Cloudy,No Peak,Weekday,3,50,5,1.26,1.764,71.43,15302.8
+Manchester,Petrol Car,82.5,1.5,45-54,Cloudy,Peak,Weekday,3,50,5,1.9,2.85,57.165,11055
+Bristol,Petrol Car,75.8,1.5,35-44,Cloudy,Peak,Weekend,3,40,6,2.18,3.27,54.15,10157.2
+Bristol,Petrol Car,80.8,1.2,45-54,Cloudy,No Peak,Weekday,3,50,5,1.26,1.512,56.4,10827.2
+Liverpool,Petrol Car,96.3,1.4,18-24,Cloudy,Peak,Weekend,3,21,8,2.18,3.052,63.375,12904.2
+Birmingham,Petrol Car,107.2,1.8,18-24,Cloudy,No Peak,Weekend,3,21,8,1.45,2.61,68.28,14364.8
+Bristol,Petrol Car,70.6,1.6,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,3.04,51.81,9460.4
+Bristol,Petrol Car,70.1,1.7,25-34,Cloudy,Peak,Weekend,3,30,7,2.18,3.706,51.585,9393.4
+Liverpool,Petrol Car,124.4,1.1,35-44,Cloudy,Peak,Weekend,3,40,6,2.18,2.398,76.02,16669.6
+Manchester,Petrol Car,143.9,1.8,45-54,Cloudy,No Peak,Weekend,3,50,5,1.45,2.61,84.795,19282.6
+Bristol,Petrol Car,134.6,1.9,55-64,Cloudy,Peak,Weekend,3,60,4,2.18,4.142,80.61,18036.4
+Bristol,Petrol Car,88.5,1.9,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,3.61,59.865,11859
+Newcastle,Petrol Car,116.7,1.7,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,3.23,72.555,15637.8
+Bristol,Petrol Car,99.1,1.8,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,3.42,64.635,13279.4
+Newcastle,Petrol Car,97.5,1.3,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,2.47,63.915,13065
+London,Petrol Car,110.6,1.3,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,2.47,69.81,14820.4
+London,Petrol Car,116.9,2,18-24,Cloudy,No Peak,Weekday,3,21,8,1.26,2.52,72.645,15664.6
+Liverpool,Petrol Car,33.8,2,18-24,Cloudy,No Peak,Weekend,3,21,8,1.45,2.9,35.25,4529.2
+Birmingham,Petrol Car,122.8,1.5,45-54,Cloudy,Peak,Weekend,3,50,5,2.18,3.27,75.3,16455.2
+Newcastle,Petrol Car,109.3,1.8,45-54,Cloudy,No Peak,Weekend,3,50,5,1.45,2.61,69.225,14646.2
+London,Petrol Car,69.6,1.6,35-44,Cloudy,Peak,Weekend,3,40,6,2.18,3.488,51.36,9326.4
+Birmingham,Petrol Car,115.5,1.5,35-44,Cloudy,Peak,Weekend,3,40,6,2.18,3.27,72.015,15477
+Manchester,Petrol Car,62.6,1.7,45-54,Cloudy,Peak,Weekday,3,50,5,1.9,3.23,48.21,8388.4
+Birmingham,Petrol Car,104.3,1.6,45-54,Cloudy,No Peak,Weekday,3,50,5,1.26,2.016,66.975,13976.2
+London,Petrol Car,121,1.8,18-24,Cloudy,No Peak,Weekday,3,21,8,1.26,2.268,74.49,16214
+Bristol,Petrol Car,71.1,1.4,18-24,Cloudy,No Peak,Weekday,3,21,8,1.26,1.764,52.035,9527.4
+Liverpool,Petrol Car,78.6,2,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,3.8,55.41,10532.4
+Birmingham,Petrol Car,123.1,1.5,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,2.85,75.435,16495.4
+Newcastle,Petrol Car,82.7,1.5,18-24,Cloudy,No Peak,Weekend,3,21,8,1.45,2.175,57.255,11081.8
+London,Petrol Car,95.1,2,45-54,Cloudy,No Peak,Weekend,3,50,5,1.45,2.9,62.835,12743.4
+Liverpool,Petrol Car,135.9,1.2,55-64,Cloudy,No Peak,Weekend,3,60,4,1.45,1.74,81.195,18210.6
+Manchester,Petrol Car,101.9,1.6,18-24,Cloudy,Peak,Weekend,3,21,8,2.18,3.488,65.895,13654.6
+London,Petrol Car,73.2,1.1,55-64,Cloudy,No Peak,Weekend,3,60,4,1.45,1.595,52.98,9808.8
+Bristol,Petrol Car,112.7,1,25-34,Cloudy,Peak,Weekday,3,30,7,1.9,1.9,70.755,15101.8
+Bristol,Petrol Car,18.1,1.5,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,2.85,28.185,2425.4
+Liverpool,Petrol Car,123.6,1.9,45-54,Cloudy,No Peak,Weekday,3,50,5,1.26,2.394,75.66,16562.4
+Bristol,Petrol Car,37.2,1.5,35-44,Cloudy,No Peak,Weekday,3,40,6,1.26,1.89,36.78,4984.8
+Birmingham,Petrol Car,82.3,1.4,25-34,Cloudy,No Peak,Weekday,3,30,7,1.26,1.764,57.075,11028.2
+Manchester,Petrol Car,59.5,1.1,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,2.09,46.815,7973
+Bristol,Petrol Car,115.8,1.1,35-44,Cloudy,No Peak,Weekday,3,40,6,1.26,1.386,72.15,15517.2
+Liverpool,Petrol Car,94.7,1.6,45-54,Cloudy,Peak,Weekend,3,50,5,2.18,3.488,62.655,12689.8
+Manchester,Petrol Car,128,2.5,55-64,Cloudy,Peak,Weekend,3,60,4,2.18,5.45,77.64,17152
+Newcastle,Petrol Car,87.9,1.3,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,2.47,59.595,11778.6
+Birmingham,Petrol Car,77.7,1.6,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,3.04,55.005,10411.8
+Liverpool,Petrol Car,88.1,1.7,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,3.23,59.685,11805.4
+Bristol,Petrol Car,125.9,1.2,45-54,Cloudy,Peak,Weekend,3,50,5,2.18,2.616,76.695,16870.6
+London,Petrol Car,106.5,1.7,65+,Cloudy,No Peak,Weekday,3,68,4,1.26,2.142,67.965,14271
+Manchester,Petrol Car,104.8,1.1,25-34,Cloudy,Peak,Weekday,3,30,7,1.9,2.09,67.2,14043.2
+Bristol,Petrol Car,93.5,0.7,18-24,Cloudy,No Peak,Weekday,3,21,8,1.26,0.882,62.115,12529
+London,Petrol Car,104.7,1.6,35-44,Cloudy,Peak,Weekend,3,40,6,2.18,3.488,67.155,14029.8
+Manchester,Petrol Car,100.8,1.3,45-54,Cloudy,Peak,Weekend,3,50,5,2.18,2.834,65.4,13507.2
+Bristol,Petrol Car,117.9,1.4,45-54,Cloudy,Peak,Weekend,3,50,5,2.18,3.052,73.095,15798.6
+Bristol,Petrol Car,73.3,1.4,65+,Cloudy,No Peak,Weekend,3,68,4,1.45,2.03,53.025,9822.2
+Bristol,Petrol Car,117.8,1.4,25-34,Cloudy,Peak,Weekend,3,30,7,2.18,3.052,73.05,15785.2
+Manchester,Petrol Car,88.8,1.5,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,2.85,60,11899.2
+Newcastle,Petrol Car,77.2,1,25-34,Cloudy,Peak,Weekend,3,30,7,2.18,2.18,54.78,10344.8
+London,Petrol Car,126.1,1,45-54,Cloudy,No Peak,Weekend,3,50,5,1.45,1.45,76.785,16897.4
+Newcastle,Petrol Car,109.5,1.9,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,3.61,69.315,14673
+Liverpool,Petrol Car,117.6,1.2,55-64,Cloudy,Peak,Weekend,3,60,4,2.18,2.616,72.96,15758.4
+Bristol,Petrol Car,81.5,1.3,35-44,Cloudy,Peak,Weekend,3,40,6,2.18,2.834,56.715,10921
+Newcastle,Petrol Car,111.2,1.7,25-34,Cloudy,No Peak,Weekend,3,30,7,1.45,2.465,70.08,14900.8
+Bristol,Petrol Car,133.6,1,35-44,Cloudy,No Peak,Weekend,3,40,6,1.45,1.45,80.16,17902.4
+Manchester,Petrol Car,83.5,1.6,35-44,Cloudy,No Peak,Weekend,3,40,6,1.45,2.32,57.615,11189
+Newcastle,Petrol Car,174.8,1.7,25-34,Cloudy,No Peak,Weekday,3,30,7,1.26,2.142,98.7,23423.2
+Birmingham,Petrol Car,105.5,1.7,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,3.23,67.515,14137
+Newcastle,Petrol Car,112.3,1,18-24,Cloudy,Peak,Weekend,3,21,8,2.18,2.18,70.575,15048.2
+Birmingham,Petrol Car,99.7,1.5,55-64,Cloudy,Peak,Weekend,3,60,4,2.18,3.27,64.905,13359.8
+Birmingham,Petrol Car,76.7,2,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,3.8,54.555,10277.8
+Newcastle,Petrol Car,144.7,1.3,35-44,Cloudy,No Peak,Weekend,3,40,6,1.45,1.885,85.155,19389.8
+London,Petrol Car,125.8,1.4,55-64,Cloudy,Peak,Weekend,3,60,4,2.18,3.052,76.65,16857.2
+Bristol,Petrol Car,117.8,1.1,35-44,Cloudy,No Peak,Weekday,3,40,6,1.26,1.386,73.05,15785.2
+Liverpool,Petrol Car,135.4,1.1,45-54,Cloudy,No Peak,Weekday,3,50,5,1.26,1.386,80.97,18143.6
+Birmingham,Petrol Car,122,1.4,25-34,Cloudy,Peak,Weekend,3,30,7,2.18,3.052,74.94,16348
+Bristol,Petrol Car,89.6,0.8,18-24,Sunny,No Peak,Weekend,3,21,8,1.32,1.056,60.36,12006.4
+Liverpool,Petrol Car,105.2,1.8,25-34,Sunny,No Peak,Weekend,3,30,7,1.32,2.376,67.38,14096.8
+Liverpool,Petrol Car,128.7,1.5,18-24,Sunny,No Peak,Weekend,3,21,8,1.32,1.98,77.955,17245.8
+Newcastle,Petrol Car,121.1,1.7,35-44,Sunny,No Peak,Weekday,3,40,6,1.15,1.955,74.535,16227.4
+Bristol,Petrol Car,62.8,1.8,25-34,Sunny,No Peak,Weekend,3,30,7,1.32,2.376,48.3,8415.2
+Birmingham,Petrol Car,146.2,1.2,18-24,Sunny,No Peak,Weekday,3,21,8,1.15,1.38,85.83,19590.8
+London,Petrol Car,104.5,1.3,25-34,Sunny,No Peak,Weekend,3,30,7,1.32,1.716,67.065,14003
+Newcastle,Petrol Car,78.9,1.3,18-24,Sunny,No Peak,Weekday,3,21,8,1.15,1.495,55.545,10572.6
+Newcastle,Petrol Car,108.7,1.3,18-24,Sunny,No Peak,Weekend,3,21,8,1.32,1.716,68.955,14565.8
+Newcastle,Petrol Car,146.5,1.5,55-64,Sunny,No Peak,Weekend,3,60,4,1.32,1.98,85.965,19631
+Bristol,Petrol Car,86.7,1.7,18-24,Sunny,No Peak,Weekday,3,21,8,1.15,1.955,59.055,11617.8
+Manchester,Petrol Car,150.4,1.9,65+,Sunny,No Peak,Weekday,3,68,4,1.15,2.185,87.72,20153.6
+Manchester,Petrol Car,72.8,1.2,25-34,Sunny,No Peak,Weekday,3,30,7,1.15,1.38,52.8,9755.2
+Newcastle,Petrol Car,137,1.3,18-24,Sunny,No Peak,Weekend,3,21,8,1.32,1.716,81.69,18358
+London,Petrol Car,58.9,1.5,45-54,Sunny,No Peak,Weekend,3,50,5,1.32,1.98,46.545,7892.6
+Birmingham,Petrol Car,129.5,1.1,55-64,Sunny,No Peak,Weekend,3,60,4,1.32,1.452,78.315,17353
+Birmingham,Petrol Car,93.5,1.6,35-44,Sunny,No Peak,Weekend,3,40,6,1.32,2.112,62.115,12529
+Bristol,Petrol Car,105.2,1.8,18-24,Sunny,No Peak,Weekday,3,21,8,1.15,2.07,67.38,14096.8
+Liverpool,Petrol Car,80.6,1.5,18-24,Sunny,No Peak,Weekend,3,21,8,1.32,1.98,56.31,10800.4
+London,Petrol Car,120.4,1.6,45-54,Sunny,No Peak,Weekday,3,50,5,1.15,1.84,74.22,16133.6
+Liverpool,Petrol Car,81.3,0.6,45-54,Sunny,No Peak,Weekday,3,50,5,1.15,0.69,56.625,10894.2
+Newcastle,Petrol Car,142.2,1.1,25-34,Sunny,No Peak,Weekday,3,30,7,1.15,1.265,84.03,19054.8
+Liverpool,Petrol Car,131.4,1.9,35-44,Sunny,No Peak,Weekend,3,40,6,1.32,2.508,79.17,17607.6
+Bristol,Petrol Car,91.5,1.4,18-24,Sunny,No Peak,Weekday,3,21,8,1.15,1.61,61.215,12261
+Bristol,Petrol Car,145.4,1.2,25-34,Sunny,No Peak,Weekend,3,30,7,1.32,1.584,85.47,19483.6
+Liverpool,Petrol Car,87.3,1.7,45-54,Sunny,No Peak,Weekend,3,50,5,1.32,2.244,59.325,11698.2
+Manchester,Petrol Car,102.8,1.5,45-54,Sunny,No Peak,Weekday,3,50,5,1.15,1.725,66.3,13775.2
+London,Petrol Car,114.2,1.4,18-24,Sunny,No Peak,Weekend,3,21,8,1.32,1.848,71.43,15302.8
+London,Petrol Car,163.9,1.9,45-54,Sunny,No Peak,Weekend,3,50,5,1.32,2.508,93.795,21962.6
+Liverpool,Petrol Car,60.1,1.6,18-24,Sunny,No Peak,Weekday,3,21,8,1.15,1.84,47.085,8053.4
+Birmingham,Petrol Car,113.3,1.3,35-44,Sunny,No Peak,Weekday,3,40,6,1.15,1.495,71.025,15182.2
+Liverpool,Petrol Car,112.7,1.5,25-34,Sunny,No Peak,Weekend,3,30,7,1.32,1.98,70.755,15101.8
+Newcastle,Petrol Car,53.2,1.8,18-24,Sunny,No Peak,Weekday,3,21,8,1.15,2.07,43.98,7128.8
+Bristol,Petrol Car,64.9,1.7,45-54,Sunny,No Peak,Weekday,3,50,5,1.15,1.955,49.245,8696.6
+Manchester,Petrol Car,131.9,1,25-34,Sunny,No Peak,Weekend,3,30,7,1.32,1.32,79.395,17674.6
+Newcastle,Petrol Car,150.7,1.3,25-34,Sunny,No Peak,Weekend,3,30,7,1.32,1.716,87.855,20193.8
+Bristol,Petrol Car,161.5,1.3,25-34,Sunny,No Peak,Weekend,3,30,7,1.32,1.716,92.715,21641
+Newcastle,Petrol Car,76.7,1.3,25-34,Sunny,No Peak,Weekend,3,30,7,1.32,1.716,54.555,10277.8
+Manchester,Petrol Car,100.5,1.5,18-24,Sunny,No Peak,Weekday,3,21,8,1.15,1.725,65.265,13467
+Manchester,Petrol Car,75.8,1.3,45-54,Sunny,No Peak,Weekend,3,50,5,1.32,1.716,54.15,10157.2
+Manchester,Petrol Car,43,1.8,18-24,Sunny,No Peak,Weekend,3,21,8,1.32,2.376,39.39,5762
+Manchester,Petrol Car,80.4,1.6,35-44,Sunny,No Peak,Weekend,3,40,6,1.32,2.112,56.22,10773.6
+Manchester,Petrol Car,101,1.3,65+,Sunny,No Peak,Weekday,3,68,4,1.15,1.495,65.49,13534
+Manchester,Petrol Car,100.3,1.2,18-24,Sunny,No Peak,Weekday,3,21,8,1.15,1.38,65.175,13440.2
+London,Petrol Car,120,2.1,25-34,Sunny,No Peak,Weekend,3,30,7,1.32,2.772,74.04,16080
+Bristol,Petrol Car,117.9,1.3,18-24,Sunny,No Peak,Weekend,3,21,8,1.32,1.716,73.095,15798.6
+Bristol,Petrol Car,46.2,1,55-64,Sunny,No Peak,Weekend,3,60,4,1.32,1.32,40.83,6190.8
+London,Petrol Car,121.8,1.6,45-54,Sunny,No Peak,Weekday,3,50,5,1.15,1.84,74.85,16321.2
+Newcastle,Petrol Car,86.6,1.3,65+,Sunny,No Peak,Weekend,3,68,4,1.32,1.716,59.01,11604.4
+London,Petrol Car,74.7,1.3,35-44,Sunny,No Peak,Weekend,3,40,6,1.32,1.716,53.655,10009.8
+London,Petrol Car,49,1.4,18-24,Sunny,No Peak,Weekend,3,21,8,1.32,1.848,42.09,6566
+Bristol,Petrol Car,130.1,1.4,18-24,Sunny,Peak,Weekday,3,21,8,1.72,2.408,78.585,17433.4
+Newcastle,Petrol Car,108.7,1.5,25-34,Sunny,Peak,Weekday,3,30,7,1.72,2.58,68.955,14565.8
+Birmingham,Petrol Car,76.8,1.3,25-34,Sunny,Peak,Weekday,3,30,7,1.72,2.236,54.6,10291.2
+Birmingham,Petrol Car,113.4,1.3,65+,Sunny,Peak,Weekday,3,68,4,1.72,2.236,71.07,15195.6
+Newcastle,Petrol Car,54.8,1.5,18-24,Sunny,Peak,Weekend,3,21,8,1.98,2.97,44.7,7343.2
+Bristol,Petrol Car,68.6,1.7,35-44,Sunny,Peak,Weekday,3,40,6,1.72,2.924,50.91,9192.4
+Liverpool,Petrol Car,58.9,2.1,18-24,Sunny,Peak,Weekday,3,21,8,1.72,3.612,46.545,7892.6
+London,Petrol Car,112.9,1.3,55-64,Sunny,Peak,Weekday,3,60,4,1.72,2.236,70.845,15128.6
+Liverpool,Petrol Car,90.6,1.3,18-24,Sunny,Peak,Weekday,3,21,8,1.72,2.236,60.81,12140.4
+Liverpool,Petrol Car,77.5,1.8,45-54,Sunny,Peak,Weekday,3,50,5,1.72,3.096,54.915,10385
+Manchester,Petrol Car,185.5,1.4,25-34,Sunny,Peak,Weekend,3,30,7,1.98,2.772,103.515,24857
+Bristol,Petrol Car,58.1,1.3,35-44,Sunny,Peak,Weekday,3,40,6,1.72,2.236,46.185,7785.4
+Bristol,Petrol Car,156.8,1.4,18-24,Sunny,Peak,Weekday,3,21,8,1.72,2.408,90.6,21011.2
+Bristol,Petrol Car,90.6,2,35-44,Sunny,Peak,Weekend,3,40,6,1.98,3.96,60.81,12140.4
+Manchester,Petrol Car,116.1,1.1,35-44,Sunny,Peak,Weekend,3,40,6,1.98,2.178,72.285,15557.4
+Manchester,Petrol Car,96.1,1.8,45-54,Sunny,Peak,Weekend,3,50,5,1.98,3.564,63.285,12877.4
+London,Petrol Car,98.1,2,25-34,Sunny,Peak,Weekday,3,30,7,1.72,3.44,64.185,13145.4
+Manchester,Petrol Car,132,1.9,35-44,Sunny,Peak,Weekday,3,40,6,1.72,3.268,79.44,17688
+Liverpool,Petrol Car,66.6,1.6,25-34,Sunny,Peak,Weekend,3,30,7,1.98,3.168,50.01,8924.4
+Birmingham,Petrol Car,126.7,2,18-24,Sunny,Peak,Weekday,3,21,8,1.72,3.44,77.055,16977.8
+London,Petrol Car,80.2,1.4,18-24,Sunny,Peak,Weekend,3,21,8,1.98,2.772,56.13,10746.8
+Liverpool,Petrol Car,44,1.7,18-24,Sunny,Peak,Weekend,3,21,8,1.98,3.366,39.84,5896
+Newcastle,Petrol Car,114.9,1.2,55-64,Sunny,Peak,Weekend,3,60,4,1.98,2.376,71.745,15396.6
+Liverpool,Petrol Car,73,2.4,18-24,Sunny,Peak,Weekday,3,21,8,1.72,4.128,52.89,9782
+Bristol,Petrol Car,118.4,1.1,55-64,Sunny,Peak,Weekday,3,60,4,1.72,1.892,73.32,15865.6
+London,Petrol Car,121.8,1.8,25-34,Sunny,Peak,Weekend,3,30,7,1.98,3.564,74.85,16321.2
+London,Petrol Car,127.4,1.7,45-54,Sunny,Peak,Weekend,3,50,5,1.98,3.366,77.37,17071.6
+Birmingham,Petrol Car,137,1.4,18-24,Sunny,Peak,Weekday,3,21,8,1.72,2.408,81.69,18358
+Bristol,Petrol Car,110.2,1.7,18-24,Sunny,Peak,Weekend,3,21,8,1.98,3.366,69.63,14766.8
+London,Petrol Car,85,2,25-34,Sunny,Peak,Weekday,3,30,7,1.72,3.44,58.29,11390
+London,Petrol Car,91.7,1.2,18-24,Sunny,Peak,Weekend,3,21,8,1.98,2.376,61.305,12287.8
+Liverpool,Petrol Car,105.1,1,18-24,Sunny,Peak,Weekday,3,21,8,1.72,1.72,67.335,14083.4
+Bristol,Petrol Car,152.6,1.6,45-54,Sunny,Peak,Weekend,3,50,5,1.98,3.168,88.71,20448.4
+Manchester,Petrol Car,113.6,1.3,45-54,Sunny,Peak,Weekday,3,50,5,1.72,2.236,71.16,15222.4
+Manchester,Petrol Car,89.4,1.3,35-44,Sunny,Peak,Weekday,3,40,6,1.72,2.236,60.27,11979.6
+Manchester,Petrol Car,136.1,1,35-44,Sunny,Peak,Weekday,3,40,6,1.72,1.72,81.285,18237.4
+Liverpool,Petrol Car,81.9,1.5,45-54,Sunny,Peak,Weekday,3,50,5,1.72,2.58,56.895,10974.6
+Birmingham,Petrol Car,99.8,1.5,35-44,Sunny,Peak,Weekday,3,40,6,1.72,2.58,64.95,13373.2
+Bristol,Petrol Car,78.4,1.3,25-34,Sunny,Peak,Weekday,3,30,7,1.72,2.236,55.32,10505.6
+Bristol,Petrol Car,106.9,2,25-34,Sunny,Peak,Weekday,3,30,7,1.72,3.44,68.145,14324.6
+Manchester,Petrol Car,32.8,1,45-54,Sunny,Peak,Weekend,3,50,5,1.98,1.98,34.8,4395.2
+Liverpool,Petrol Car,104.1,1,35-44,Sunny,Peak,Weekday,3,40,6,1.72,1.72,66.885,13949.4
+Birmingham,Petrol Car,83.7,1.4,55-64,Sunny,Peak,Weekday,3,60,4,1.72,2.408,57.705,11215.8
+Birmingham,Petrol Car,100.1,1.5,25-34,Sunny,Peak,Weekend,3,30,7,1.98,2.97,65.085,13413.4
+London,Petrol Car,75.1,1.1,25-34,Sunny,Peak,Weekday,3,30,7,1.72,1.892,53.835,10063.4
+Bristol,Petrol Car,52.5,1.6,55-64,Sunny,Peak,Weekend,3,60,4,1.98,3.168,43.665,7035
+London,Petrol Car,110.7,2,45-54,Sunny,Peak,Weekend,3,50,5,1.98,3.96,69.855,14833.8
+London,Petrol Car,128.2,1.3,25-34,Sunny,Peak,Weekend,3,30,7,1.98,2.574,77.73,17178.8
+Manchester,Petrol Car,113.1,1.5,25-34,Sunny,Peak,Weekday,3,30,7,1.72,2.58,70.935,15155.4
+Newcastle,Petrol Car,107.5,1.2,25-34,Sunny,Peak,Weekday,3,30,7,1.72,2.064,68.415,14405
+Birmingham,Petrol Car,131.3,2,35-44,Sunny,Peak,Weekend,3,40,6,1.98,3.96,79.125,17594.2
+Newcastle,Petrol Car,118.9,1.6,25-34,Sunny,Peak,Weekend,3,30,7,1.98,3.168,73.545,15932.6
+Bristol,Petrol Car,162,1.8,25-34,Sunny,Peak,Weekend,3,30,7,1.98,3.564,92.94,21708
+Liverpool,Petrol Car,105.6,1.1,55-64,Sunny,Peak,Weekday,3,60,4,1.72,1.892,67.56,14150.4
+Birmingham,Petrol Car,169,1,25-34,Sunny,Peak,Weekend,3,30,7,1.98,1.98,96.09,22646
+Bristol,Petrol Car,110.9,1.5,55-64,Sunny,Peak,Weekend,3,60,4,1.98,2.97,69.945,14860.6
+Manchester,Petrol Car,110.4,1.4,55-64,Sunny,Peak,Weekday,3,60,4,1.72,2.408,69.72,14793.6
+Bristol,Petrol Car,80,1.8,25-34,Sunny,Peak,Weekend,3,30,7,1.98,3.564,56.04,10720
+Newcastle,Petrol Car,140,1.3,55-64,Sunny,Peak,Weekend,3,60,4,1.98,2.574,83.04,18760
+Bristol,Petrol Car,75,2,45-54,Sunny,Peak,Weekday,3,50,5,1.72,3.44,53.79,10050
+Newcastle,Petrol Car,141.8,1.3,35-44,Sunny,Peak,Weekend,3,40,6,1.98,2.574,83.85,19001.2
+Liverpool,Petrol Car,82,1.3,55-64,Sunny,Peak,Weekday,3,60,4,1.72,2.236,56.94,10988
+Bristol,Petrol Car,153.1,1,18-24,Sunny,Peak,Weekday,3,21,8,1.72,1.72,88.935,20515.4
+London,Petrol Car,113,1.2,45-54,Sunny,Peak,Weekday,3,50,5,1.72,2.064,70.89,15142
+London,Petrol Car,107.3,1.4,18-24,Sunny,Peak,Weekday,3,21,8,1.72,2.408,68.325,14378.2
+London,Petrol Car,138.2,1.2,65+,Sunny,Peak,Weekday,3,68,4,1.72,2.064,82.23,18518.8
+Newcastle,Petrol Car,85.5,1.5,25-34,Sunny,Peak,Weekend,3,30,7,1.98,2.97,58.515,11457
+Birmingham,Petrol Car,59.7,1.8,18-24,Sunny,Peak,Weekend,3,21,8,1.98,3.564,46.905,7999.8
+Manchester,Petrol Car,95.2,1.5,45-54,Sunny,Peak,Weekend,3,50,5,1.98,2.97,62.88,12756.8
+Birmingham,Petrol Car,131.1,1.2,25-34,Sunny,Peak,Weekend,3,30,7,1.98,2.376,79.035,17567.4
+Newcastle,Petrol Car,105.6,1.3,55-64,Sunny,Peak,Weekday,3,60,4,1.72,2.236,67.56,14150.4
+Bristol,Petrol Car,162.6,1.4,18-24,Rain,Peak,Weekday,4,21,8,2.34,3.276,93.21,21788.4
+Manchester,Petrol Car,170.1,1.4,18-24,Sunny,Peak,Weekend,4,21,8,2.07,2.898,96.585,22793.4
+Newcastle,Petrol Car,64.2,1.7,55-64,Rain,Peak,Weekday,4,60,4,2.34,3.978,48.93,8602.8
+Bristol,Petrol Car,106.8,1.2,18-24,Cloudy,Peak,Weekday,4,21,8,1.98,2.376,68.1,14311.2
+Manchester,Petrol Car,95,1.5,45-54,Rain,No Peak,Weekend,4,50,5,1.79,2.685,62.79,12730
+London,Petrol Car,120,1.3,45-54,Cloudy,Peak,Weekday,4,50,5,1.98,2.574,74.04,16080
+Manchester,Petrol Car,98.9,1.8,55-64,Rain,Peak,Weekend,4,60,4,2.69,4.842,64.545,13252.6
+Newcastle,Petrol Car,88.5,1.4,18-24,Rain,No Peak,Weekday,4,21,8,1.56,2.184,59.865,11859
+Newcastle,Petrol Car,117.5,1.6,18-24,Cloudy,No Peak,Weekday,4,21,8,1.32,2.112,72.915,15745
+Birmingham,Petrol Car,123.8,1.7,18-24,Rain,No Peak,Weekday,4,21,8,1.56,2.652,75.75,16589.2
+Newcastle,Petrol Car,96,1.2,18-24,Rain,Peak,Weekday,4,21,8,2.34,2.808,63.24,12864
+Liverpool,Petrol Car,72.4,1.6,45-54,Sunny,Peak,Weekend,4,50,5,2.07,3.312,52.62,9701.6
+Manchester,Petrol Car,103.6,1.3,18-24,Rain,No Peak,Weekend,4,21,8,1.79,2.327,66.66,13882.4
+Birmingham,Petrol Car,76.1,1.4,55-64,Rain,Peak,Weekend,4,60,4,2.69,3.766,54.285,10197.4
+Bristol,Petrol Car,107,1.5,18-24,Rain,No Peak,Weekday,4,21,8,1.56,2.34,68.19,14338
+Bristol,Petrol Car,122.1,1.1,18-24,Sunny,Peak,Weekday,4,21,8,1.8,1.98,74.985,16361.4
+Newcastle,Petrol Car,111.2,1.4,18-24,Sunny,No Peak,Weekday,4,21,8,1.2,1.68,70.08,14900.8
+London,Petrol Car,102.6,1.5,25-34,Rain,No Peak,Weekday,4,30,7,1.56,2.34,66.21,13748.4
+Manchester,Petrol Car,79.3,2,18-24,Rain,No Peak,Weekday,4,21,8,1.56,3.12,55.725,10626.2
+Newcastle,Petrol Car,118.1,1.9,35-44,Sunny,No Peak,Weekend,4,40,6,1.38,2.622,73.185,15825.4
+Liverpool,Petrol Car,107.6,1.5,65+,Rain,Peak,Weekday,4,68,4,2.34,3.51,68.46,14418.4
+Bristol,Petrol Car,87.4,1.5,35-44,Rain,No Peak,Weekday,4,40,6,1.56,2.34,59.37,11711.6
+Manchester,Petrol Car,153.5,1.3,55-64,Rain,Peak,Weekend,4,60,4,2.69,3.497,89.115,20569
+Newcastle,Petrol Car,45.6,1.2,25-34,Rain,Peak,Weekday,4,30,7,2.34,2.808,40.56,6110.4
+London,Petrol Car,153.8,1.8,55-64,Cloudy,Peak,Weekend,4,60,4,2.28,4.104,89.25,20609.2
+Newcastle,Petrol Car,109.2,2,65+,Cloudy,Peak,Weekend,4,68,4,2.28,4.56,69.18,14632.8
+Liverpool,Petrol Car,87,1.5,55-64,Cloudy,Peak,Weekday,4,60,4,1.98,2.97,59.19,11658
+Birmingham,Petrol Car,81.1,1.9,25-34,Rain,Peak,Weekday,4,30,7,2.34,4.446,56.535,10867.4
+Newcastle,Petrol Car,122.6,1.1,35-44,Cloudy,No Peak,Weekday,4,40,6,1.32,1.452,75.21,16428.4
+Birmingham,Petrol Car,96.3,1.8,18-24,Rain,Peak,Weekday,4,21,8,2.34,4.212,63.375,12904.2
+Manchester,Petrol Car,105.7,1.9,55-64,Rain,Peak,Weekday,4,60,4,2.34,4.446,67.605,14163.8
+Newcastle,Petrol Car,101.1,1.5,25-34,Sunny,No Peak,Weekend,4,30,7,1.38,2.07,65.535,13547.4
+London,Petrol Car,155.7,1.5,25-34,Cloudy,No Peak,Weekday,4,30,7,1.32,1.98,90.105,20863.8
+London,Petrol Car,96.5,1.6,35-44,Sunny,Peak,Weekday,4,40,6,1.8,2.88,63.465,12931
+Manchester,Petrol Car,115.8,1.4,25-34,Cloudy,Peak,Weekend,4,30,7,2.28,3.192,72.15,15517.2
+London,Petrol Car,96.4,1.4,55-64,Cloudy,Peak,Weekend,4,60,4,2.28,3.192,63.42,12917.6
+London,Petrol Car,64.5,1,18-24,Rain,Peak,Weekend,4,21,8,2.69,2.69,49.065,8643
+Newcastle,Petrol Car,119.4,1.5,35-44,Cloudy,No Peak,Weekday,4,40,6,1.32,1.98,73.77,15999.6
+Bristol,Petrol Car,78.9,1,25-34,Rain,No Peak,Weekend,4,30,7,1.79,1.79,55.545,10572.6
+Bristol,Petrol Car,104.4,1.8,55-64,Cloudy,No Peak,Weekday,4,60,4,1.32,2.376,67.02,13989.6
+Newcastle,Petrol Car,97.7,1.3,35-44,Rain,Peak,Weekday,4,40,6,2.34,3.042,64.005,13091.8
+Newcastle,Petrol Car,120.8,1.2,65+,Rain,No Peak,Weekday,4,68,4,1.56,1.872,74.4,16187.2
+Birmingham,Petrol Car,126.5,1.7,45-54,Rain,Peak,Weekday,4,50,5,2.34,3.978,76.965,16951
+Bristol,Petrol Car,131.1,2,25-34,Cloudy,No Peak,Weekday,4,30,7,1.32,2.64,79.035,17567.4
+London,Petrol Car,134.2,1.8,55-64,Sunny,Peak,Weekend,4,60,4,2.07,3.726,80.43,17982.8
+Newcastle,Petrol Car,109.8,1.6,45-54,Rain,Peak,Weekday,4,50,5,2.34,3.744,69.45,14713.2
+Manchester,Petrol Car,55.3,1.9,35-44,Rain,Peak,Weekend,4,40,6,2.69,5.111,44.925,7410.2
+Newcastle,Petrol Car,64.1,1.9,25-34,Rain,Peak,Weekday,4,30,7,2.34,4.446,48.885,8589.4
+London,Petrol Car,80.7,1,18-24,Rain,No Peak,Weekend,4,21,8,1.79,1.79,56.355,10813.8
+Liverpool,Petrol Car,88.4,1.8,18-24,Rain,No Peak,Weekday,4,21,8,1.56,2.808,59.82,11845.6
+Birmingham,Petrol Car,60.3,1.4,25-34,Cloudy,No Peak,Weekend,4,30,7,1.52,2.128,47.175,8080.2
+Birmingham,Petrol Car,82.6,1.8,45-54,Sunny,No Peak,Weekend,4,50,5,1.38,2.484,57.21,11068.4
+Birmingham,Petrol Car,110.7,1.3,55-64,Cloudy,Peak,Weekend,4,60,4,2.28,2.964,69.855,14833.8
+London,Petrol Car,115.4,1.5,25-34,Cloudy,Peak,Weekend,4,30,7,2.28,3.42,71.97,15463.6
+Bristol,Petrol Car,59.4,2,55-64,Rain,Peak,Weekday,4,60,4,2.34,4.68,46.77,7959.6
+Birmingham,Petrol Car,98.3,1.2,25-34,Cloudy,Peak,Weekend,4,30,7,2.28,2.736,64.275,13172.2
+London,Petrol Car,55.1,1.4,35-44,Rain,No Peak,Weekend,4,40,6,1.79,2.506,44.835,7383.4
+London,Petrol Car,95.8,1.8,35-44,Cloudy,Peak,Weekday,4,40,6,1.98,3.564,63.15,12837.2
+London,Petrol Car,150,1.4,25-34,Rain,Peak,Weekday,4,30,7,2.34,3.276,87.54,20100
+Manchester,Petrol Car,71.9,1.4,55-64,Cloudy,Peak,Weekend,4,60,4,2.28,3.192,52.395,9634.6
+Newcastle,Petrol Car,76.6,1.5,35-44,Rain,Peak,Weekday,4,40,6,2.34,3.51,54.51,10264.4
+London,Petrol Car,58.1,1.9,25-34,Rain,Peak,Weekend,4,30,7,2.69,5.111,46.185,7785.4
+Manchester,Petrol Car,129,1.1,18-24,Rain,Peak,Weekend,4,21,8,2.69,2.959,78.09,17286
+Bristol,Petrol Car,59.1,1.3,25-34,Cloudy,No Peak,Weekend,4,30,7,1.52,1.976,46.635,7919.4
+Manchester,Petrol Car,123.7,1.2,55-64,Rain,No Peak,Weekday,4,60,4,1.56,1.872,75.705,16575.8
+Newcastle,Petrol Car,93.2,1.3,35-44,Rain,No Peak,Weekend,4,40,6,1.79,2.327,61.98,12488.8
+Liverpool,Petrol Car,111.9,1.2,65+,Sunny,Peak,Weekend,4,68,4,2.07,2.484,70.395,14994.6
+Birmingham,Petrol Car,107.3,1.9,45-54,Sunny,Peak,Weekday,4,50,5,1.8,3.42,68.325,14378.2
+London,Petrol Car,101.9,1.4,35-44,Rain,Peak,Weekday,4,40,6,2.34,3.276,65.895,13654.6
+London,Petrol Car,107.6,1.3,35-44,Cloudy,No Peak,Weekday,4,40,6,1.32,1.716,68.46,14418.4
+London,Petrol Car,128,1.6,18-24,Rain,No Peak,Weekend,4,21,8,1.79,2.864,77.64,17152
+Birmingham,Petrol Car,83,1.7,55-64,Cloudy,No Peak,Weekday,4,60,4,1.32,2.244,57.39,11122
+Bristol,Petrol Car,79.1,1.8,55-64,Sunny,Peak,Weekend,4,60,4,2.07,3.726,55.635,10599.4
+Newcastle,Petrol Car,121.2,1.9,25-34,Cloudy,No Peak,Weekday,4,30,7,1.32,2.508,74.58,16240.8
+Bristol,Petrol Car,115,1.7,55-64,Cloudy,Peak,Weekday,4,60,4,1.98,3.366,71.79,15410
+Liverpool,Petrol Car,105.7,1.2,55-64,Sunny,Peak,Weekday,4,60,4,1.8,2.16,67.605,14163.8
+Liverpool,Petrol Car,95.7,1.5,55-64,Sunny,Peak,Weekday,4,60,4,1.8,2.7,63.105,12823.8
+Liverpool,Petrol Car,192.6,1.6,55-64,Sunny,Peak,Weekend,4,60,4,2.07,3.312,106.71,25808.4
+London,Petrol Car,94.6,1.3,25-34,Rain,Peak,Weekday,4,30,7,2.34,3.042,62.61,12676.4
+London,Petrol Car,97.3,1.5,35-44,Rain,Peak,Weekend,4,40,6,2.69,4.035,63.825,13038.2
+Liverpool,Petrol Car,120.6,1.3,18-24,Cloudy,No Peak,Weekday,4,21,8,1.32,1.716,74.31,16160.4
+Bristol,Petrol Car,62.8,1.8,65+,Rain,Peak,Weekday,4,68,4,2.34,4.212,48.3,8415.2
+Liverpool,Petrol Car,107.4,1.8,18-24,Rain,No Peak,Weekday,4,21,8,1.56,2.808,68.37,14391.6
+Newcastle,Petrol Car,81.3,1.2,18-24,Rain,No Peak,Weekday,4,21,8,1.56,1.872,56.625,10894.2
+Newcastle,Petrol Car,150.3,1.2,18-24,Rain,No Peak,Weekend,4,21,8,1.79,2.148,87.675,20140.2
+Manchester,Petrol Car,152.6,1.7,25-34,Cloudy,No Peak,Weekend,4,30,7,1.52,2.584,88.71,20448.4
+Bristol,Petrol Car,103,1.5,55-64,Rain,No Peak,Weekday,4,60,4,1.56,2.34,66.39,13802
+Newcastle,Petrol Car,105.6,1.9,18-24,Rain,Peak,Weekend,4,21,8,2.69,5.111,67.56,14150.4
+Newcastle,Petrol Car,74.5,1.4,35-44,Cloudy,No Peak,Weekday,4,40,6,1.32,1.848,53.565,9983
+Birmingham,Petrol Car,99.5,1.4,18-24,Cloudy,No Peak,Weekend,4,21,8,1.52,2.128,64.815,13333
+Birmingham,Petrol Car,86.5,1.2,18-24,Sunny,No Peak,Weekday,4,21,8,1.2,1.44,58.965,11591
+Manchester,Petrol Car,81.7,1.3,18-24,Cloudy,No Peak,Weekday,4,21,8,1.32,1.716,56.805,10947.8
+Bristol,Petrol Car,76.5,1.5,55-64,Rain,Peak,Weekday,4,60,4,2.34,3.51,54.465,10251
+Bristol,Petrol Car,95.7,1.2,25-34,Sunny,Peak,Weekday,4,30,7,1.8,2.16,63.105,12823.8
+Liverpool,Petrol Car,75.9,1.9,18-24,Rain,No Peak,Weekend,4,21,8,1.79,3.401,54.195,10170.6
+Newcastle,Petrol Car,146.6,1.8,55-64,Sunny,Peak,Weekend,4,60,4,2.07,3.726,86.01,19644.4
+Liverpool,Petrol Car,117.7,1.7,18-24,Rain,No Peak,Weekend,4,21,8,1.79,3.043,73.005,15771.8
+Manchester,Petrol Car,135.2,1.4,18-24,Cloudy,Peak,Weekend,4,21,8,2.28,3.192,80.88,18116.8
+Liverpool,Petrol Car,124.7,2,25-34,Rain,Peak,Weekday,4,30,7,2.34,4.68,76.155,16709.8
+London,Petrol Car,71.1,1.6,25-34,Rain,Peak,Weekday,2,30,7,2.14,3.424,52.035,9527.4
+Liverpool,Petrol Car,71.9,1.6,25-34,Rain,Peak,Weekend,2,30,7,2.47,3.952,52.395,9634.6
+Newcastle,Petrol Car,133,1,55-64,Rain,Peak,Weekday,2,60,4,2.14,2.14,79.89,17822
+Manchester,Petrol Car,167.3,1.4,35-44,Rain,Peak,Weekday,2,40,6,2.14,2.996,95.325,22418.2
+Newcastle,Petrol Car,68,1.1,45-54,Sunny,No Peak,Weekend,2,50,5,1.26,1.386,50.64,9112
+Liverpool,Petrol Car,26.2,1.3,35-44,Sunny,Peak,Weekend,2,40,6,1.9,2.47,31.83,3510.8
+Birmingham,Petrol Car,81.3,1.3,18-24,Sunny,No Peak,Weekday,2,21,8,1.1,1.43,56.625,10894.2
+Birmingham,Petrol Car,81.2,1,35-44,Cloudy,Peak,Weekday,2,40,6,1.82,1.82,56.58,10880.8
+London,Petrol Car,119.9,1.7,45-54,Cloudy,Peak,Weekday,2,50,5,1.82,3.094,73.995,16066.6
+Birmingham,Petrol Car,58.7,1.5,25-34,Rain,No Peak,Weekday,2,30,7,1.43,2.145,46.455,7865.8
+Liverpool,Petrol Car,138.9,1.9,18-24,Rain,No Peak,Weekend,2,21,8,1.64,3.116,82.545,18612.6
+Liverpool,Petrol Car,48.3,1.2,18-24,Cloudy,No Peak,Weekday,2,21,8,1.21,1.452,41.775,6472.2
+Birmingham,Petrol Car,119.4,1.5,18-24,Rain,Peak,Weekend,2,21,8,2.47,3.705,73.77,15999.6
+Liverpool,Petrol Car,53.9,1.7,25-34,Rain,Peak,Weekend,2,30,7,2.47,4.199,44.295,7222.6
+Birmingham,Petrol Car,103,1.2,25-34,Rain,Peak,Weekend,2,30,7,2.47,2.964,66.39,13802
+Birmingham,Petrol Car,91.3,1.7,18-24,Rain,No Peak,Weekend,2,21,8,1.64,2.788,61.125,12234.2
+London,Petrol Car,60.6,1.6,18-24,Rain,Peak,Weekday,2,21,8,2.14,3.424,47.31,8120.4
+Bristol,Petrol Car,101.2,1.4,45-54,Cloudy,No Peak,Weekday,2,50,5,1.21,1.694,65.58,13560.8
+Newcastle,Petrol Car,128.6,1.2,25-34,Rain,Peak,Weekday,2,30,7,2.14,2.568,77.91,17232.4
+London,Petrol Car,96.2,1.8,55-64,Cloudy,Peak,Weekday,2,60,4,1.82,3.276,63.33,12890.8
+Newcastle,Petrol Car,84.5,1.9,18-24,Rain,Peak,Weekend,2,21,8,2.47,4.693,58.065,11323
+Bristol,Petrol Car,138.8,1.6,18-24,Cloudy,No Peak,Weekday,2,21,8,1.21,1.936,82.5,18599.2
+Birmingham,Petrol Car,98.1,1.5,35-44,Rain,Peak,Weekend,2,40,6,2.47,3.705,64.185,13145.4
+Newcastle,Petrol Car,76.8,1.1,18-24,Sunny,Peak,Weekday,2,21,8,1.65,1.815,54.6,10291.2
+Manchester,Petrol Car,93.2,1.5,35-44,Rain,No Peak,Weekday,2,40,6,1.43,2.145,61.98,12488.8
+London,Petrol Car,101.4,2.3,35-44,Sunny,No Peak,Weekend,2,40,6,1.26,2.898,65.67,13587.6
+London,Petrol Car,122.3,1.9,18-24,Cloudy,Peak,Weekend,2,21,8,2.09,3.971,75.075,16388.2
+Newcastle,Petrol Car,19.2,1.9,35-44,Cloudy,Peak,Weekday,2,40,6,1.82,3.458,28.68,2572.8
+Birmingham,Petrol Car,104.2,1,18-24,Rain,Peak,Weekday,2,21,8,2.14,2.14,66.93,13962.8
+Liverpool,Petrol Car,109.3,1.2,45-54,Rain,Peak,Weekday,2,50,5,2.14,2.568,69.225,14646.2
+Manchester,Petrol Car,115.6,1.4,55-64,Sunny,Peak,Weekday,2,60,4,1.65,2.31,72.06,15490.4
+Birmingham,Petrol Car,123.4,1.9,18-24,Cloudy,Peak,Weekday,2,21,8,1.82,3.458,75.57,16535.6
+Birmingham,Petrol Car,110.8,1.2,18-24,Cloudy,No Peak,Weekday,2,21,8,1.21,1.452,69.9,14847.2
+Birmingham,Petrol Car,93.3,1.3,18-24,Cloudy,No Peak,Weekend,2,21,8,1.39,1.807,62.025,12502.2
+Liverpool,Petrol Car,112.3,1.4,45-54,Cloudy,Peak,Weekend,2,50,5,2.09,2.926,70.575,15048.2
+Birmingham,Petrol Car,122.2,1.3,55-64,Cloudy,Peak,Weekday,2,60,4,1.82,2.366,75.03,16374.8
+Liverpool,Petrol Car,80.3,2,55-64,Sunny,No Peak,Weekday,2,60,4,1.1,2.2,56.175,10760.2
+Manchester,Petrol Car,76.2,1.7,55-64,Rain,Peak,Weekday,2,60,4,2.14,3.638,54.33,10210.8
+London,Petrol Car,150.9,1.5,18-24,Cloudy,Peak,Weekend,2,21,8,2.09,3.135,87.945,20220.6
+Newcastle,Petrol Car,56.1,1.4,18-24,Cloudy,Peak,Weekday,2,21,8,1.82,2.548,45.285,7517.4
+Newcastle,Petrol Car,84.4,1.1,25-34,Rain,Peak,Weekday,2,30,7,2.14,2.354,58.02,11309.6
+Liverpool,Petrol Car,144,1,25-34,Sunny,Peak,Weekday,2,30,7,1.65,1.65,84.84,19296
+Birmingham,Petrol Car,159.1,1.9,25-34,Rain,Peak,Weekday,2,30,7,2.14,4.066,91.635,21319.4
+Manchester,Petrol Car,136.3,1,45-54,Cloudy,Peak,Weekday,2,50,5,1.82,1.82,81.375,18264.2
+London,Petrol Car,74.2,1.9,18-24,Sunny,Peak,Weekday,2,21,8,1.65,3.135,53.43,9942.8
+Manchester,Petrol Car,75.9,1.6,35-44,Sunny,Peak,Weekend,2,40,6,1.9,3.04,54.195,10170.6
+Liverpool,Petrol Car,137.8,1.3,25-34,Rain,No Peak,Weekend,2,30,7,1.64,2.132,82.05,18465.2
+Newcastle,Petrol Car,134.3,1.4,35-44,Cloudy,No Peak,Weekend,2,40,6,1.39,1.946,80.475,17996.2
+Bristol,Petrol Car,140.1,1.4,35-44,Rain,No Peak,Weekday,2,40,6,1.43,2.002,83.085,18773.4
+London,Petrol Car,130.7,1.4,55-64,Cloudy,Peak,Weekday,2,60,4,1.82,2.548,78.855,17513.8
+Newcastle,Petrol Car,72,1.4,35-44,Sunny,No Peak,Weekend,2,40,6,1.26,1.764,52.44,9648
+Liverpool,Petrol Car,54.7,1.4,65+,Rain,Peak,Weekday,2,68,4,2.14,2.996,44.655,7329.8
+Manchester,Petrol Car,87.7,1.3,25-34,Sunny,No Peak,Weekday,2,30,7,1.1,1.43,59.505,11751.8
+Liverpool,Petrol Car,49.6,1.3,18-24,Cloudy,Peak,Weekday,2,21,8,1.82,2.366,42.36,6646.4
+Manchester,Petrol Car,109.2,1.5,25-34,Cloudy,No Peak,Weekday,2,30,7,1.21,1.815,69.18,14632.8
+London,Petrol Car,82.1,1.1,18-24,Rain,Peak,Weekday,2,21,8,2.14,2.354,56.985,11001.4
+Birmingham,Petrol Car,77.9,1,45-54,Cloudy,No Peak,Weekday,2,50,5,1.21,1.21,55.095,10438.6
+Bristol,Petrol Car,156.7,1.6,18-24,Rain,No Peak,Weekend,2,21,8,1.64,2.624,90.555,20997.8
+Bristol,Petrol Car,118.7,1.6,25-34,Rain,No Peak,Weekday,2,30,7,1.43,2.288,73.455,15905.8
+London,Petrol Car,96,1.3,25-34,Rain,Peak,Weekday,2,30,7,2.14,2.782,63.24,12864
+Bristol,Petrol Car,99,1.5,45-54,Cloudy,Peak,Weekend,2,50,5,2.09,3.135,64.59,13266
+Newcastle,Petrol Car,95,1.9,25-34,Cloudy,Peak,Weekend,2,30,7,2.09,3.971,62.79,12730
+Bristol,Petrol Car,36.4,1,25-34,Rain,Peak,Weekend,2,30,7,2.47,2.47,36.42,4877.6
+Manchester,Petrol Car,67.5,1.5,35-44,Cloudy,Peak,Weekday,2,40,6,1.82,2.73,50.415,9045
+Liverpool,Petrol Car,110.1,1.7,35-44,Cloudy,Peak,Weekday,2,40,6,1.82,3.094,69.585,14753.4
+Newcastle,Petrol Car,128.6,1.1,35-44,Rain,Peak,Weekend,2,40,6,2.47,2.717,77.91,17232.4
+Liverpool,Petrol Car,105.3,1.5,35-44,Cloudy,No Peak,Weekend,2,40,6,1.39,2.085,67.425,14110.2
+Manchester,Petrol Car,81.3,1.5,45-54,Rain,No Peak,Weekend,2,50,5,1.64,2.46,56.625,10894.2
+Liverpool,Petrol Car,109.3,1.3,18-24,Rain,No Peak,Weekend,2,21,8,1.64,2.132,69.225,14646.2
+Bristol,Petrol Car,102.4,1.4,35-44,Rain,Peak,Weekend,2,40,6,2.47,3.458,66.12,13721.6
+Newcastle,Petrol Car,117.9,1.5,18-24,Cloudy,No Peak,Weekend,2,21,8,1.39,2.085,73.095,15798.6
+Bristol,Petrol Car,103.9,1.9,25-34,Rain,Peak,Weekday,2,30,7,2.14,4.066,66.795,13922.6
+Bristol,Petrol Car,120.2,1.3,25-34,Sunny,Peak,Weekend,2,30,7,1.9,2.47,74.13,16106.8
+Birmingham,Petrol Car,98.2,1.6,25-34,Cloudy,Peak,Weekend,2,30,7,2.09,3.344,64.23,13158.8
+London,Petrol Car,125,1.5,18-24,Rain,No Peak,Weekend,2,21,8,1.64,2.46,76.29,16750
+Manchester,Petrol Car,123.2,2,35-44,Cloudy,No Peak,Weekend,2,40,6,1.39,2.78,75.48,16508.8
+London,Petrol Car,113.1,1.6,55-64,Rain,No Peak,Weekend,2,60,4,1.64,2.624,70.935,15155.4
+London,Petrol Car,116.3,1,18-24,Rain,Peak,Weekday,2,21,8,2.14,2.14,72.375,15584.2
+London,Petrol Car,119.5,1.7,65+,Sunny,No Peak,Weekday,2,68,4,1.1,1.87,73.815,16013
+Manchester,Petrol Car,62.7,1.5,18-24,Rain,Peak,Weekend,2,21,8,2.47,3.705,48.255,8401.8
+London,Electric Car,99.4,1.5,25-34,Sunny,Peak,Weekend,4,30,7,2.07,3.105,9.006,4373.6
+Manchester,Electric Car,135.1,1.3,35-44,Rain,Peak,Weekday,3,40,6,2.24,2.912,12.219,5944.4
+London,Electric Car,129.2,1.8,25-34,Rain,Peak,Weekday,3,30,7,2.24,4.032,11.688,5684.8
+Newcastle,Electric Car,108.5,1.9,18-24,Cloudy,No Peak,Weekday,3,21,8,1.26,2.394,9.825,4774
+London,Electric Car,26.2,1.3,35-44,Sunny,Peak,Weekend,3,40,6,1.98,2.574,2.418,1152.8
+Manchester,Electric Car,114.1,1.5,18-24,Sunny,No Peak,Weekend,3,21,8,1.32,1.98,10.329,5020.4
+Bristol,Electric Car,86.9,2,35-44,Cloudy,Peak,Weekday,3,40,6,1.9,3.8,7.881,3823.6
+Bristol,Electric Car,96.8,1.7,25-34,Cloudy,Peak,Weekday,4,30,7,1.98,3.366,8.772,4259.2
+Bristol,Electric Car,77.7,1.3,18-24,Cloudy,Peak,Weekday,3,21,8,1.9,2.47,7.053,3418.8
+Bristol,Electric Car,131.3,2.1,25-34,Cloudy,Peak,Weekday,4,30,7,1.98,4.158,11.877,5777.2
+Liverpool,Electric Car,114.8,1.9,45-54,Cloudy,Peak,Weekend,4,50,5,2.28,4.332,10.392,5051.2
+Bristol,Electric Car,158.2,1.5,45-54,Rain,Peak,Weekday,3,50,5,2.24,3.36,14.298,6960.8
+Manchester,Electric Car,103.5,1.3,25-34,Sunny,No Peak,Weekend,4,30,7,1.38,1.794,9.375,4554
+Newcastle,Electric Car,130.6,2.1,18-24,Sunny,No Peak,Weekend,4,21,8,1.38,2.898,11.814,5746.4
+Birmingham,Electric Car,103.6,1.1,18-24,Rain,No Peak,Weekend,3,21,8,1.72,1.892,9.384,4558.4
+London,Electric Car,103.1,1.3,25-34,Rain,No Peak,Weekday,4,30,7,1.56,2.028,9.339,4536.4
+London,Electric Car,87.8,1.7,45-54,Cloudy,No Peak,Weekend,3,50,5,1.45,2.465,7.962,3863.2
+London,Electric Car,136.8,1.7,18-24,Rain,No Peak,Weekend,3,21,8,1.72,2.924,12.372,6019.2
+London,Electric Car,80.1,1.3,18-24,Rain,Peak,Weekday,4,21,8,2.34,3.042,7.269,3524.4
+Manchester,Electric Car,105.2,1.3,55-64,Rain,Peak,Weekday,4,60,4,2.34,3.042,9.528,4628.8
+Birmingham,Electric Car,127.9,1.5,25-34,Rain,Peak,Weekend,4,30,7,2.69,4.035,11.571,5627.6
+Bristol,Electric Car,105.7,0.8,18-24,Cloudy,Peak,Weekend,3,21,8,2.18,1.744,9.573,4650.8
+Bristol,Electric Car,142.8,1.1,35-44,Rain,No Peak,Weekday,4,40,6,1.56,1.716,12.912,6283.2
+Birmingham,Electric Car,104.8,1.5,25-34,Rain,No Peak,Weekend,4,30,7,1.79,2.685,9.492,4611.2
+Newcastle,Electric Car,48.2,1.6,18-24,Rain,Peak,Weekday,2,21,8,2.14,3.424,4.398,2120.8
+Manchester,Electric Car,49.6,1.3,18-24,Cloudy,Peak,Weekend,2,21,8,2.09,2.717,4.524,2182.4
+Liverpool,Electric Car,88.4,1.8,35-44,Rain,No Peak,Weekend,2,40,6,1.64,2.952,8.016,3889.6
+Bristol,Electric Car,113.6,1.1,35-44,Cloudy,Peak,Weekday,2,40,6,1.82,2.002,10.284,4998.4
+Manchester,Electric Car,126.8,1.3,65+,Rain,Peak,Weekend,2,68,4,2.47,3.211,11.472,5579.2
+Newcastle,Electric Car,106,0.9,45-54,Rain,Peak,Weekend,2,50,5,2.47,2.223,9.6,4664
+London,Electric Car,66.9,1.7,35-44,Sunny,Peak,Weekday,2,40,6,1.65,2.805,6.081,2943.6
+Bristol,Electric Car,65.8,1.6,18-24,Cloudy,No Peak,Weekend,2,21,8,1.39,2.224,5.982,2895.2
+Birmingham,Electric Car,115.7,1.6,18-24,Cloudy,Peak,Weekday,2,21,8,1.82,2.912,10.473,5090.8
+Bristol,Electric Car,89,2.2,55-64,Cloudy,No Peak,Weekday,2,60,4,1.21,2.662,8.07,3916
+Birmingham,Electric Car,75.1,1.6,18-24,Rain,No Peak,Weekday,2,21,8,1.43,2.288,6.819,3304.4
+Newcastle,Electric Car,106,1.5,35-44,Sunny,No Peak,Weekday,2,40,6,1.1,1.65,9.6,4664
+London,Electric Car,60.9,1.1,18-24,Sunny,No Peak,Weekday,2,21,8,1.1,1.21,5.541,2679.6
+Liverpool,Electric Car,120.2,1.9,18-24,Cloudy,No Peak,Weekday,2,21,8,1.21,2.299,10.878,5288.8
+Manchester,Electric Car,67.7,1.7,18-24,Rain,Peak,Weekday,2,21,8,2.14,3.638,6.153,2978.8
+Birmingham,Electric Car,138.1,1,55-64,Sunny,Peak,Weekend,2,60,4,1.9,1.9,12.489,6076.4
+Newcastle,Electric Car,126.3,1.3,18-24,Rain,Peak,Weekday,2,21,8,2.14,2.782,11.427,5557.2
+Manchester,Electric Car,151.3,1.5,18-24,Sunny,Peak,Weekend,2,21,8,1.9,2.85,13.677,6657.2
+Manchester,Electric Car,134,1.6,25-34,Rain,No Peak,Weekday,2,30,7,1.43,2.288,12.12,5896
+Manchester,Electric Car,62.1,1.3,25-34,Rain,No Peak,Weekend,2,30,7,1.64,2.132,5.649,2732.4
+Birmingham,Electric Car,124.3,1.7,35-44,Sunny,Peak,Weekend,2,40,6,1.9,3.23,11.247,5469.2
+Birmingham,Electric Car,69.2,1.9,45-54,Sunny,Peak,Weekend,2,50,5,1.9,3.61,6.288,3044.8
+Manchester,Electric Car,92.3,1.8,35-44,Rain,No Peak,Weekday,2,40,6,1.43,2.574,8.367,4061.2
+Liverpool,Electric Car,68.7,1.9,25-34,Rain,Peak,Weekday,2,30,7,2.14,4.066,6.243,3022.8
+Birmingham,Electric Car,45.3,1.4,25-34,Rain,No Peak,Weekend,2,30,7,1.64,2.296,4.137,1993.2
+London,Electric Car,45.1,2,35-44,Rain,Peak,Weekday,2,40,6,2.14,4.28,4.119,1984.4
+Newcastle,Electric Car,101.7,1.1,35-44,Rain,No Peak,Weekday,2,40,6,1.43,1.573,9.213,4474.8
+Birmingham,Electric Car,84.9,1.4,35-44,Rain,Peak,Weekday,2,40,6,2.14,2.996,7.701,3735.6
+Birmingham,Electric Car,87.3,1.2,35-44,Rain,No Peak,Weekday,2,40,6,1.43,1.716,7.917,3841.2
+Birmingham,Electric Car,61.7,1.7,25-34,Cloudy,Peak,Weekend,2,30,7,2.09,3.553,5.613,2714.8
+Liverpool,Electric Car,110.5,1.6,35-44,Sunny,No Peak,Weekend,2,40,6,1.26,2.016,10.005,4862
+London,Electric Car,77.5,1.1,25-34,Rain,No Peak,Weekend,2,30,7,1.64,1.804,7.035,3410
+London,Electric Car,79.3,1.4,25-34,Cloudy,No Peak,Weekday,2,30,7,1.21,1.694,7.197,3489.2
+London,Electric Car,68.2,1.6,35-44,Cloudy,No Peak,Weekend,2,40,6,1.39,2.224,6.198,3000.8
+Birmingham,Electric Car,40.1,2.2,18-24,Cloudy,Peak,Weekday,2,21,8,1.82,4.004,3.669,1764.4
+Birmingham,Electric Car,106.4,2.1,35-44,Cloudy,No Peak,Weekend,2,40,6,1.39,2.919,9.636,4681.6
+Bristol,Electric Car,139.3,1.5,25-34,Cloudy,Peak,Weekend,2,30,7,2.09,3.135,12.597,6129.2
+Bristol,Electric Car,72.5,1.4,45-54,Rain,Peak,Weekend,2,50,5,2.47,3.458,6.585,3190
+Bristol,Electric Car,119.4,1.7,35-44,Sunny,Peak,Weekday,2,40,6,1.65,2.805,10.806,5253.6
+London,Electric Car,95.5,1.4,45-54,Cloudy,No Peak,Weekend,2,50,5,1.39,1.946,8.655,4202
+Birmingham,Electric Car,60.6,2.2,35-44,Rain,No Peak,Weekday,2,40,6,1.43,3.146,5.514,2666.4
+Birmingham,Electric Car,119.3,1.7,18-24,Rain,No Peak,Weekend,2,21,8,1.64,2.788,10.797,5249.2
+Bristol,Electric Car,110.7,1.6,55-64,Cloudy,No Peak,Weekend,2,60,4,1.39,2.224,10.023,4870.8
+Bristol,Electric Car,107.8,1.6,18-24,Rain,No Peak,Weekend,2,21,8,1.64,2.624,9.762,4743.2
+Manchester,Electric Car,60.9,1.3,18-24,Rain,Peak,Weekday,2,21,8,2.14,2.782,5.541,2679.6
+Bristol,Electric Car,41.6,1.1,25-34,Cloudy,Peak,Weekday,2,30,7,1.82,2.002,3.804,1830.4
+London,Electric Car,108.8,1.3,45-54,Sunny,No Peak,Weekday,2,50,5,1.1,1.43,9.852,4787.2
+London,Electric Car,116.2,1.3,45-54,Sunny,Peak,Weekend,2,50,5,1.9,2.47,10.518,5112.8
+Newcastle,Electric Car,105.8,1.9,65+,Rain,No Peak,Weekend,2,68,4,1.64,3.116,9.582,4655.2
+Liverpool,Electric Car,127.8,1.5,18-24,Rain,Peak,Weekday,2,21,8,2.14,3.21,11.562,5623.2
+Bristol,Electric Car,76.2,1.3,25-34,Sunny,No Peak,Weekend,2,30,7,1.26,1.638,6.918,3352.8
+Bristol,Electric Car,150.1,1.4,35-44,Rain,Peak,Weekday,2,40,6,2.14,2.996,13.569,6604.4
+Liverpool,Electric Car,121.7,1.9,18-24,Cloudy,No Peak,Weekday,2,21,8,1.21,2.299,11.013,5354.8
+Manchester,Electric Car,89.4,1.7,18-24,Cloudy,Peak,Weekend,2,21,8,2.09,3.553,8.106,3933.6
+London,Electric Car,114.4,1.6,35-44,Rain,Peak,Weekday,2,40,6,2.14,3.424,10.356,5033.6
+Bristol,Electric Car,127.5,1.6,18-24,Sunny,No Peak,Weekday,2,21,8,1.1,1.76,11.535,5610
+Manchester,Electric Car,123.4,1.5,25-34,Cloudy,Peak,Weekday,2,30,7,1.82,2.73,11.166,5429.6
+Manchester,Electric Car,113.5,1.3,25-34,Rain,Peak,Weekday,2,30,7,2.14,2.782,10.275,4994
+Bristol,Electric Car,84.9,1.2,18-24,Rain,Peak,Weekday,2,21,8,2.14,2.568,7.701,3735.6
+Bristol,Electric Car,94.1,1.6,35-44,Rain,Peak,Weekday,2,40,6,2.14,3.424,8.529,4140.4
+Liverpool,Electric Car,62.5,1.1,25-34,Sunny,Peak,Weekday,2,30,7,1.65,1.815,5.685,2750
+Birmingham,Electric Car,119.8,1.3,25-34,Rain,No Peak,Weekend,2,30,7,1.64,2.132,10.842,5271.2
+Birmingham,Electric Car,37.1,1.4,25-34,Rain,No Peak,Weekend,2,30,7,1.64,2.296,3.399,1632.4
+Liverpool,Electric Car,79.6,1.2,55-64,Sunny,No Peak,Weekend,2,60,4,1.26,1.512,7.224,3502.4
+London,Electric Car,140,1.3,35-44,Rain,Peak,Weekday,2,40,6,2.14,2.782,12.66,6160
+Birmingham,Electric Car,47.2,2.1,55-64,Cloudy,Peak,Weekday,2,60,4,1.82,3.822,4.308,2076.8
+Liverpool,Electric Car,105,1.7,25-34,Sunny,Peak,Weekday,2,30,7,1.65,2.805,9.51,4620
+Manchester,Electric Car,70.4,1.8,25-34,Rain,Peak,Weekday,2,30,7,2.14,3.852,6.396,3097.6
+Birmingham,Electric Car,122.5,1.1,25-34,Rain,Peak,Weekend,2,30,7,2.47,2.717,11.085,5390
+Liverpool,Electric Car,147.6,1.1,35-44,Rain,Peak,Weekday,2,40,6,2.14,2.354,13.344,6494.4
+Newcastle,Electric Car,94.1,0.9,45-54,Sunny,No Peak,Weekend,2,50,5,1.26,1.134,8.529,4140.4
+Liverpool,Electric Car,104.8,1.5,35-44,Rain,Peak,Weekend,2,40,6,2.47,3.705,9.492,4611.2
+Bristol,Electric Car,103.6,1.1,35-44,Cloudy,Peak,Weekday,2,40,6,1.82,2.002,9.384,4558.4
+Newcastle,Electric Car,78.8,1.9,18-24,Rain,No Peak,Weekend,2,21,8,1.64,3.116,7.152,3467.2
+Liverpool,Electric Car,108.2,1.4,35-44,Rain,No Peak,Weekday,2,40,6,1.43,2.002,9.798,4760.8
+Manchester,Electric Car,91.2,1.3,35-44,Rain,No Peak,Weekend,2,40,6,1.64,2.132,8.268,4012.8
+London,Electric Car,79.5,1.5,35-44,Sunny,Peak,Weekday,2,40,6,1.65,2.475,7.215,3498
+Birmingham,Electric Car,86.2,1.3,18-24,Sunny,Peak,Weekday,2,21,8,1.65,2.145,7.818,3792.8
+Bristol,Electric Car,150.2,1.4,45-54,Rain,No Peak,Weekday,2,50,5,1.43,2.002,13.578,6608.8
+Birmingham,Electric Car,154.3,1.5,35-44,Cloudy,Peak,Weekend,2,40,6,2.09,3.135,13.947,6789.2
+Birmingham,Electric Car,49.7,1.5,18-24,Cloudy,Peak,Weekend,2,21,8,2.09,3.135,4.533,2186.8
+Newcastle,Electric Car,103.5,1.5,18-24,Cloudy,No Peak,Weekday,2,21,8,1.21,1.815,9.375,4554
+London,Electric Car,51.8,1.7,45-54,Rain,Peak,Weekday,2,50,5,2.14,3.638,4.722,2279.2
+Liverpool,Electric Car,116.7,1.2,25-34,Sunny,Peak,Weekend,2,30,7,1.9,2.28,10.563,5134.8
+Newcastle,Electric Car,31.1,1.4,25-34,Cloudy,Peak,Weekend,2,30,7,2.09,2.926,2.859,1368.4
+London,Electric Car,96.9,1.8,25-34,Rain,Peak,Weekend,2,30,7,2.47,4.446,8.781,4263.6
+Bristol,Electric Car,36,1.6,35-44,Rain,Peak,Weekend,2,40,6,2.47,3.952,3.3,1584
+Newcastle,Electric Car,98.6,1.2,35-44,Cloudy,Peak,Weekend,2,40,6,2.09,2.508,8.934,4338.4
+Birmingham,Electric Car,52,1.4,25-34,Sunny,No Peak,Weekday,2,30,7,1.1,1.54,4.74,2288
+Birmingham,Electric Car,107.5,0.9,25-34,Rain,No Peak,Weekday,2,30,7,1.43,1.287,9.735,4730
+Liverpool,Electric Car,95.7,1.8,35-44,Rain,Peak,Weekday,2,40,6,2.14,3.852,8.673,4210.8
+Liverpool,Electric Car,116.6,1.6,45-54,Sunny,No Peak,Weekend,2,50,5,1.26,2.016,10.554,5130.4
+Liverpool,Electric Car,57.8,1.7,25-34,Rain,Peak,Weekend,2,30,7,2.47,4.199,5.262,2543.2
+Newcastle,Electric Car,132.2,1.4,35-44,Rain,Peak,Weekday,2,40,6,2.14,2.996,11.958,5816.8
+Newcastle,Electric Car,57.8,1.5,55-64,Cloudy,Peak,Weekday,2,60,4,1.82,2.73,5.262,2543.2
+Newcastle,Electric Car,86.9,1,45-54,Rain,No Peak,Weekday,2,50,5,1.43,1.43,7.881,3823.6
+Manchester,Electric Car,48,1.6,25-34,Rain,No Peak,Weekend,2,30,7,1.64,2.624,4.38,2112
+London,Electric Car,112.4,1.2,25-34,Sunny,Peak,Weekend,2,30,7,1.9,2.28,10.176,4945.6
+London,Electric Car,108.5,1.7,45-54,Rain,No Peak,Weekend,2,50,5,1.64,2.788,9.825,4774
+Bristol,Electric Car,65.2,1,25-34,Rain,Peak,Weekend,2,30,7,2.47,2.47,5.928,2868.8
+Birmingham,Electric Car,81.3,1.3,18-24,Sunny,Peak,Weekday,2,21,8,1.65,2.145,7.377,3577.2
+Liverpool,Electric Car,88.1,2.1,35-44,Sunny,No Peak,Weekday,2,40,6,1.1,2.31,7.989,3876.4
+Bristol,Electric Car,106.7,1.3,35-44,Cloudy,Peak,Weekend,2,40,6,2.09,2.717,9.663,4694.8
+London,Electric Car,98.8,1.3,35-44,Rain,Peak,Weekend,2,40,6,2.47,3.211,8.952,4347.2
+Newcastle,Electric Car,122.6,1.5,45-54,Cloudy,Peak,Weekday,2,50,5,1.82,2.73,11.094,5394.4
+Manchester,Electric Car,92.8,1.7,55-64,Rain,Peak,Weekend,2,60,4,2.47,4.199,8.412,4083.2
+London,Electric Car,119.9,1.2,25-34,Cloudy,Peak,Weekend,2,30,7,2.09,2.508,10.851,5275.6
+Bristol,Electric Car,136.2,1.7,55-64,Rain,No Peak,Weekday,2,60,4,1.43,2.431,12.318,5992.8
+Manchester,Bus,88.1,1.8,18-24,Sunny,Peak,Weekend,3,21,8,1.72,3.096,3.524,3876.4
+Bristol,Bus,73.3,1.6,35-44,Rain,Peak,Weekend,1,40,6,1.94,3.104,2.932,3225.2
+Manchester,Bus,86.3,1.1,55-64,Rain,No Peak,Weekend,3,60,4,1.72,1.892,3.452,3797.2
+Birmingham,Bus,141.9,1.4,25-34,Rain,Peak,Weekend,4,30,7,2.33,3.262,5.676,6243.6
+Manchester,Bus,100.4,2,18-24,Cloudy,No Peak,Weekend,1,21,8,1.26,2.52,4.016,4417.6
+Liverpool,Bus,125.5,1.7,45-54,Cloudy,Peak,Weekend,4,50,5,1.97,3.349,5.02,5522
+Liverpool,Bus,83.9,1.6,35-44,Rain,Peak,Weekday,3,40,6,1.94,3.104,3.356,3691.6
+Liverpool,Bus,57.1,1,18-24,Sunny,Peak,Weekday,3,21,8,1.5,1.5,2.284,2512.4
+Manchester,Bus,78.4,1.9,18-24,Rain,Peak,Weekday,4,21,8,2.03,3.857,3.136,3449.6
+London,Bus,78.9,1.6,18-24,Sunny,No Peak,Weekend,4,21,8,1.38,2.208,3.156,3471.6
+Birmingham,Bus,76.4,1.2,35-44,Rain,Peak,Weekday,3,40,6,1.94,2.328,3.056,3361.6
+Liverpool,Bus,76.2,1.7,55-64,Sunny,Peak,Weekend,4,60,4,1.79,3.043,3.048,3352.8
+Newcastle,Bus,99.1,1.5,25-34,Rain,Peak,Weekday,3,30,7,1.94,2.91,3.964,4360.4
+Manchester,Bus,49.8,1.5,18-24,Rain,Peak,Weekend,3,21,8,2.24,3.36,1.992,2191.2
+Newcastle,Bus,112.9,1.9,45-54,Rain,Peak,Weekend,1,50,5,1.94,3.686,4.516,4967.6
+Liverpool,Bus,98,1,18-24,Rain,Peak,Weekday,4,21,8,2.03,2.03,3.92,4312
+London,Bus,139.6,1.2,18-24,Sunny,No Peak,Weekday,3,21,8,1.15,1.38,5.584,6142.4
+Newcastle,Bus,131.9,1.5,45-54,Sunny,Peak,Weekday,1,50,5,1.3,1.95,5.276,5803.6
+Liverpool,Bus,57.4,2.1,18-24,Cloudy,Peak,Weekend,3,21,8,1.89,3.969,2.296,2525.6
+Bristol,Bus,72.5,1.4,18-24,Cloudy,No Peak,Weekday,1,21,8,1.1,1.54,2.9,3190
+Birmingham,Bus,94.9,1.9,18-24,Cloudy,No Peak,Weekday,3,21,8,1.26,2.394,3.796,4175.6
+Newcastle,Bus,48.4,1.5,18-24,Rain,Peak,Weekend,1,21,8,1.94,2.91,1.936,2129.6
+Birmingham,Bus,51.2,1.4,35-44,Rain,Peak,Weekday,4,40,6,2.03,2.842,2.048,2252.8
+Manchester,Bus,88.4,1.5,35-44,Rain,Peak,Weekend,4,40,6,2.33,3.495,3.536,3889.6
+Bristol,Bus,122.1,1.3,45-54,Sunny,No Peak,Weekend,4,50,5,1.38,1.794,4.884,5372.4
+Bristol,Bus,139.7,1.8,55-64,Cloudy,Peak,Weekend,3,60,4,1.89,3.402,5.588,6146.8
+Manchester,Bus,99.8,1.9,18-24,Rain,No Peak,Weekday,1,21,8,1.3,2.47,3.992,4391.2
+Liverpool,Bus,98.6,1.3,18-24,Cloudy,Peak,Weekend,1,21,8,1.64,2.132,3.944,4338.4
+Liverpool,Bus,82.2,1.1,45-54,Sunny,Peak,Weekend,3,50,5,1.72,1.892,3.288,3616.8
+Newcastle,Bus,104.6,1.4,55-64,Rain,Peak,Weekday,3,60,4,1.94,2.716,4.184,4602.4
+London,Bus,109.7,1.5,35-44,Rain,No Peak,Weekend,1,40,6,1.5,2.25,4.388,4826.8
+Newcastle,Bus,110.9,1.4,25-34,Rain,Peak,Weekend,3,30,7,2.24,3.136,4.436,4879.6
+Bristol,Bus,111.9,1.6,25-34,Cloudy,No Peak,Weekend,1,30,7,1.26,2.016,4.476,4923.6
+Newcastle,Bus,82.8,1.7,25-34,Rain,No Peak,Weekday,1,30,7,1.3,2.21,3.312,3643.2
+Newcastle,Bus,87.2,1.1,35-44,Rain,No Peak,Weekend,1,40,6,1.5,1.65,3.488,3836.8
+Manchester,Bus,168.1,1.7,45-54,Rain,Peak,Weekday,1,50,5,1.69,2.873,6.724,7396.4
+Liverpool,Bus,153.2,1.1,25-34,Rain,No Peak,Weekday,4,30,7,1.56,1.716,6.128,6740.8
+Liverpool,Bus,93.6,1.2,18-24,Sunny,No Peak,Weekend,1,21,8,1.15,1.38,3.744,4118.4
+Manchester,Bus,84.7,1.7,25-34,Cloudy,Peak,Weekend,1,30,7,1.64,2.788,3.388,3726.8
+Newcastle,Bus,138.5,1.6,45-54,Sunny,No Peak,Weekend,1,50,5,1.15,1.84,5.54,6094
+Manchester,Bus,98.9,1.3,55-64,Rain,No Peak,Weekend,3,60,4,1.72,2.236,3.956,4351.6
+Birmingham,Bus,187.3,1.4,25-34,Rain,Peak,Weekend,1,30,7,1.94,2.716,7.492,8241.2
+London,Bus,98,0.7,18-24,Cloudy,No Peak,Weekend,4,21,8,1.52,1.064,3.92,4312
+Manchester,Bus,58.2,1,45-54,Rain,Peak,Weekend,3,50,5,2.24,2.24,2.328,2560.8
+Manchester,Bus,106.9,1.7,25-34,Rain,Peak,Weekday,4,30,7,2.03,3.451,4.276,4703.6
+London,Bus,82.3,1.1,25-34,Rain,Peak,Weekend,3,30,7,2.24,2.464,3.292,3621.2
+Birmingham,Bus,118.9,1.3,35-44,Rain,Peak,Weekday,1,40,6,1.69,2.197,4.756,5231.6
+Bristol,Bus,85.9,1.5,18-24,Cloudy,Peak,Weekday,3,21,8,1.64,2.46,3.436,3779.6
+London,Bus,128.4,1.5,18-24,Rain,Peak,Weekend,4,21,8,2.33,3.495,5.136,5649.6
+Newcastle,Bus,77.9,2.1,18-24,Rain,Peak,Weekend,1,21,8,1.94,4.074,3.116,3427.6
+Manchester,Bus,121.4,1.1,25-34,Sunny,Peak,Weekend,3,30,7,1.72,1.892,4.856,5341.6
+Bristol,Bus,120,1.6,18-24,Rain,Peak,Weekday,1,21,8,1.69,2.704,4.8,5280
+Manchester,Bus,95.9,1,18-24,Rain,Peak,Weekday,1,21,8,1.69,1.69,3.836,4219.6
+London,Bus,108,1.3,18-24,Rain,Peak,Weekday,4,21,8,2.03,2.639,4.32,4752
+Bristol,Bus,152.3,1.7,45-54,Rain,No Peak,Weekday,1,50,5,1.3,2.21,6.092,6701.2
+Liverpool,Bus,71.4,1.5,25-34,Cloudy,No Peak,Weekend,1,30,7,1.26,1.89,2.856,3141.6
+Birmingham,Bus,111.5,2,35-44,Cloudy,Peak,Weekday,4,40,6,1.72,3.44,4.46,4906
+Manchester,Bus,49.5,1.1,45-54,Cloudy,Peak,Weekend,3,50,5,1.89,2.079,1.98,2178
+Newcastle,Bus,88.8,1.1,18-24,Sunny,Peak,Weekday,3,21,8,1.5,1.65,3.552,3907.2
+Manchester,Bus,103,1.8,25-34,Cloudy,No Peak,Weekday,1,30,7,1.1,1.98,4.12,4532
+Bristol,Bus,74.1,1.7,18-24,Rain,Peak,Weekend,1,21,8,1.94,3.298,2.964,3260.4
+Manchester,Bus,74.3,1.5,35-44,Cloudy,No Peak,Weekend,1,40,6,1.26,1.89,2.972,3269.2
+Manchester,Bus,70.3,1.6,65+,Sunny,No Peak,Weekday,1,68,4,1,1.6,2.812,3093.2
+Newcastle,Bus,98.7,1.9,18-24,Rain,No Peak,Weekday,3,21,8,1.5,2.85,3.948,4342.8
+Manchester,Bus,106.6,1.1,18-24,Sunny,No Peak,Weekday,1,21,8,1,1.1,4.264,4690.4
+Liverpool,Bus,115.2,1.5,45-54,Cloudy,Peak,Weekday,3,50,5,1.64,2.46,4.608,5068.8
+Newcastle,Bus,74.6,1.9,55-64,Rain,Peak,Weekday,1,60,4,1.69,3.211,2.984,3282.4
+Newcastle,Bus,71.2,1,55-64,Rain,No Peak,Weekend,3,60,4,1.72,1.72,2.848,3132.8
+Bristol,Bus,158.3,1.7,35-44,Rain,No Peak,Weekday,3,40,6,1.5,2.55,6.332,6965.2
+Manchester,Bus,148.1,1.4,55-64,Rain,Peak,Weekday,4,60,4,2.03,2.842,5.924,6516.4
+Manchester,Bus,69,1.2,45-54,Rain,No Peak,Weekday,1,50,5,1.3,1.56,2.76,3036
+Liverpool,Bus,85.3,1.9,18-24,Rain,Peak,Weekend,3,21,8,2.24,4.256,3.412,3753.2
+Manchester,Bus,137.8,1.2,25-34,Rain,No Peak,Weekday,4,30,7,1.56,1.872,5.512,6063.2
+Manchester,Bus,71.4,1,55-64,Rain,Peak,Weekend,3,60,4,2.24,2.24,2.856,3141.6
+Liverpool,Bus,94.2,1.6,18-24,Rain,Peak,Weekend,3,21,8,2.24,3.584,3.768,4144.8
+Newcastle,Bus,59.5,1.8,25-34,Cloudy,Peak,Weekday,1,30,7,1.43,2.574,2.38,2618
+Liverpool,Bus,76.1,1.7,18-24,Rain,No Peak,Weekday,1,21,8,1.3,2.21,3.044,3348.4
+Bristol,Bus,79.9,1.6,18-24,Cloudy,Peak,Weekday,4,21,8,1.72,2.752,3.196,3515.6
+Birmingham,Bus,78.4,1.7,18-24,Rain,Peak,Weekday,3,21,8,1.94,3.298,3.136,3449.6
+Birmingham,Bus,148.7,1.7,55-64,Cloudy,No Peak,Weekday,3,60,4,1.26,2.142,5.948,6542.8
+Liverpool,Bus,124.6,1.6,18-24,Sunny,Peak,Weekday,4,21,8,1.56,2.496,4.984,5482.4
+Birmingham,Bus,78.6,1.4,25-34,Rain,No Peak,Weekend,1,30,7,1.5,2.1,3.144,3458.4
+Newcastle,Bus,40.8,1.8,18-24,Rain,Peak,Weekday,3,21,8,1.94,3.492,1.632,1795.2
+London,Bus,91.3,2,55-64,Sunny,Peak,Weekday,1,60,4,1.3,2.6,3.652,4017.2
+Bristol,Bus,104.5,1.8,55-64,Cloudy,No Peak,Weekend,3,60,4,1.45,2.61,4.18,4598
+Liverpool,Bus,130.2,1.1,35-44,Cloudy,No Peak,Weekend,1,40,6,1.26,1.386,5.208,5728.8
+Manchester,Bus,61.7,1.3,35-44,Cloudy,Peak,Weekend,3,40,6,1.89,2.457,2.468,2714.8
+London,Bus,53.6,1.2,25-34,Rain,Peak,Weekend,3,30,7,2.24,2.688,2.144,2358.4
+Manchester,Bus,113.4,1.3,35-44,Rain,Peak,Weekend,1,40,6,1.94,2.522,4.536,4989.6
+Newcastle,Bus,129.2,2.2,55-64,Cloudy,No Peak,Weekend,4,60,4,1.52,3.344,5.168,5684.8
+London,Bus,89.7,1.5,35-44,Cloudy,Peak,Weekday,3,40,6,1.64,2.46,3.588,3946.8
+Manchester,Bus,135.1,1.4,35-44,Cloudy,Peak,Weekday,1,40,6,1.43,2.002,5.404,5944.4
+Liverpool,Bus,90.9,1.5,25-34,Rain,Peak,Weekend,3,30,7,2.24,3.36,3.636,3999.6
+Liverpool,Bus,135.2,1.4,35-44,Cloudy,Peak,Weekday,4,40,6,1.72,2.408,5.408,5948.8
+Birmingham,Train,125.2,1.9,55-64,Rain,Peak,Weekend,1,60,4,1.26,2.394,67.608,7136.4
+Birmingham,Train,106.9,1.9,65+,Sunny,Peak,Weekday,1,68,4,1.1,2.09,57.726,6093.3
+London,Train,69.4,1.4,45-54,Rain,No Peak,Weekend,1,50,5,1.15,1.61,37.476,3955.8
+Bristol,Train,102.5,1.9,18-24,Rain,Peak,Weekend,3,21,8,1.45,2.755,55.35,5842.5
+London,Train,92.5,2.1,18-24,Rain,Peak,Weekend,4,21,8,1.52,3.192,49.95,5272.5
+Liverpool,Train,91.5,1.2,25-34,Cloudy,Peak,Weekday,1,30,7,1.1,1.32,49.41,5215.5
+Manchester,Train,7.9,1.4,18-24,Cloudy,Peak,Weekend,4,21,8,1.52,2.128,4.266,450.3
+Liverpool,Train,128.3,1.8,45-54,Rain,Peak,Weekend,4,50,5,1.52,2.736,69.282,7313.1
+Bristol,Train,86.6,0.9,18-24,Rain,Peak,Weekday,3,21,8,1.26,1.134,46.764,4936.2
+Manchester,Train,97,1.2,25-34,Rain,Peak,Weekend,1,30,7,1.26,1.512,52.38,5529
+Newcastle,Train,95.8,1.6,45-54,Cloudy,No Peak,Weekday,1,50,5,1,1.6,51.732,5460.6
+Bristol,Train,50.4,1.6,45-54,Rain,Peak,Weekday,3,50,5,1.26,2.016,27.216,2872.8
+Manchester,Train,63.9,1.6,25-34,Cloudy,Peak,Weekend,4,30,7,1.52,2.432,34.506,3642.3
+Newcastle,Train,76.1,1.6,25-34,Rain,Peak,Weekday,3,30,7,1.26,2.016,41.094,4337.7
+Birmingham,Train,46.8,1.3,45-54,Rain,Peak,Weekend,3,50,5,1.45,1.885,25.272,2667.6
+Manchester,Train,122.3,1.7,55-64,Cloudy,Peak,Weekday,1,60,4,1.1,1.87,66.042,6971.1
+Newcastle,Train,124.6,1.3,18-24,Sunny,Peak,Weekday,3,21,8,1.26,1.638,67.284,7102.2
+Birmingham,Train,68.1,1.6,55-64,Sunny,No Peak,Weekday,4,60,4,1.2,1.92,36.774,3881.7
+Manchester,Train,59.4,1.6,35-44,Rain,Peak,Weekday,3,40,6,1.26,2.016,32.076,3385.8
+London,Train,116.3,1.7,65+,Rain,No Peak,Weekend,3,68,4,1.32,2.244,62.802,6629.1
+Manchester,Train,114,1.5,35-44,Rain,No Peak,Weekend,3,40,6,1.32,1.98,61.56,6498
+Manchester,Train,146.5,1.5,25-34,Rain,No Peak,Weekday,3,30,7,1.15,1.725,79.11,8350.5
+Liverpool,Train,116.3,1.1,18-24,Rain,No Peak,Weekend,1,21,8,1.15,1.265,62.802,6629.1
+London,Train,137.1,1.2,25-34,Rain,No Peak,Weekend,3,30,7,1.32,1.584,74.034,7814.7
+Manchester,Train,88,1.7,55-64,Cloudy,Peak,Weekend,1,60,4,1.26,2.142,47.52,5016
+Liverpool,Train,148.3,1.9,18-24,Sunny,Peak,Weekday,1,21,8,1.1,2.09,80.082,8453.1
+Newcastle,Train,135.6,1.7,55-64,Cloudy,No Peak,Weekday,4,60,4,1.2,2.04,73.224,7729.2
+Newcastle,Train,115.7,1.9,18-24,Rain,Peak,Weekday,1,21,8,1.1,2.09,62.478,6594.9
+London,Train,135.2,1.7,18-24,Cloudy,Peak,Weekend,3,21,8,1.45,2.465,73.008,7706.4
+Newcastle,Train,95.2,1.3,25-34,Sunny,No Peak,Weekday,1,30,7,1,1.3,51.408,5426.4
+Birmingham,Train,122.2,1.3,18-24,Cloudy,Peak,Weekend,4,21,8,1.52,1.976,65.988,6965.4
+London,Train,75.1,1.3,18-24,Cloudy,No Peak,Weekday,1,21,8,1,1.3,40.554,4280.7
+Liverpool,Train,97.5,1.7,35-44,Sunny,No Peak,Weekend,3,40,6,1.32,2.244,52.65,5557.5
+Manchester,Train,105.5,1.5,18-24,Rain,Peak,Weekend,1,21,8,1.26,1.89,56.97,6013.5
+London,Train,31.3,1.5,18-24,Rain,Peak,Weekday,1,21,8,1.1,1.65,16.902,1784.1
+Bristol,Train,31.7,1.3,25-34,Cloudy,Peak,Weekday,4,30,7,1.32,1.716,17.118,1806.9
+London,Train,88.1,2,35-44,Rain,Peak,Weekend,2,40,6,1.39,2.78,47.574,5021.7
+Manchester,Train,46.6,1.5,35-44,Cloudy,Peak,Weekday,2,40,6,1.21,1.815,25.164,2656.2
+London,Train,113.2,1.3,25-34,Rain,No Peak,Weekday,2,30,7,1.1,1.43,61.128,6452.4
+London,Train,110.1,1.9,18-24,Rain,No Peak,Weekend,2,21,8,1.26,2.394,59.454,6275.7
+Birmingham,Train,91.3,1.3,18-24,Sunny,Peak,Weekend,2,21,8,1.39,1.807,49.302,5204.1
+Newcastle,Train,121.3,1.3,55-64,Cloudy,Peak,Weekday,2,60,4,1.21,1.573,65.502,6914.1
+London,Train,150.2,1.1,25-34,Cloudy,Peak,Weekend,2,30,7,1.39,1.529,81.108,8561.4
+Bristol,Train,85.3,1.4,25-34,Sunny,No Peak,Weekend,2,30,7,1.26,1.764,46.062,4862.1
+Newcastle,Train,78.9,1.2,55-64,Cloudy,Peak,Weekend,2,60,4,1.39,1.668,42.606,4497.3
+Birmingham,Train,97.9,1.4,65+,Cloudy,Peak,Weekend,2,68,4,1.39,1.946,52.866,5580.3
+London,Train,92.7,1.7,25-34,Sunny,No Peak,Weekend,2,30,7,1.26,2.142,50.058,5283.9
+London,Train,112.1,1.5,55-64,Sunny,Peak,Weekday,2,60,4,1.21,1.815,60.534,6389.7
+Manchester,Train,75.4,1.8,35-44,Rain,No Peak,Weekday,2,40,6,1.1,1.98,40.716,4297.8
+Bristol,Train,97.3,1.1,18-24,Rain,No Peak,Weekend,2,21,8,1.26,1.386,52.542,5546.1
+London,Train,82.9,1.7,25-34,Cloudy,Peak,Weekday,2,30,7,1.21,2.057,44.766,4725.3
+Liverpool,Train,129.9,1.4,25-34,Sunny,Peak,Weekend,2,30,7,1.39,1.946,70.146,7404.3
+London,Train,75.8,1.6,45-54,Cloudy,Peak,Weekday,2,50,5,1.21,1.936,40.932,4320.6
+Manchester,Train,99.5,1.9,55-64,Rain,No Peak,Weekend,2,60,4,1.26,2.394,53.73,5671.5
+Birmingham,Train,72.3,1.5,35-44,Rain,Peak,Weekday,2,40,6,1.21,1.815,39.042,4121.1
+Bristol,Train,68.2,1.9,45-54,Rain,No Peak,Weekday,2,50,5,1.1,2.09,36.828,3887.4
+Manchester,Train,98.2,1.8,45-54,Sunny,Peak,Weekday,2,50,5,1.21,2.178,53.028,5597.4
+London,Train,192.9,1.6,35-44,Sunny,Peak,Weekend,2,40,6,1.39,2.224,104.166,10995.3
+Newcastle,Train,50.9,1,18-24,Cloudy,No Peak,Weekend,2,21,8,1.26,1.26,27.486,2901.3
+Newcastle,Train,188.4,1.9,35-44,Rain,Peak,Weekday,2,40,6,1.21,2.299,101.736,10738.8
+Manchester,Train,130.1,1.8,25-34,Rain,Peak,Weekday,2,30,7,1.21,2.178,70.254,7415.7
+Manchester,Train,51.7,1.4,35-44,Sunny,No Peak,Weekend,2,40,6,1.26,1.764,27.918,2946.9
+Newcastle,Train,89.3,1.4,35-44,Cloudy,Peak,Weekday,2,40,6,1.21,1.694,48.222,5090.1
+London,Train,135.7,1.1,35-44,Rain,Peak,Weekday,2,40,6,1.21,1.331,73.278,7734.9
+Manchester,Train,90,1.6,35-44,Rain,No Peak,Weekday,2,40,6,1.1,1.76,48.6,5130
+Bristol,Train,113.2,1.6,35-44,Rain,Peak,Weekend,2,40,6,1.39,2.224,61.128,6452.4
+Birmingham,Train,78.7,2.1,18-24,Cloudy,No Peak,Weekday,2,21,8,1.1,2.31,42.498,4485.9
+Bristol,Train,72,2.3,55-64,Rain,No Peak,Weekday,2,60,4,1.1,2.53,38.88,4104
+London,Train,104.2,2.1,35-44,Cloudy,Peak,Weekday,2,40,6,1.21,2.541,56.268,5939.4
+Manchester,Train,55.3,1,25-34,Rain,No Peak,Weekday,2,30,7,1.1,1.1,29.862,3152.1
+London,Train,106.1,1.6,18-24,Rain,Peak,Weekend,2,21,8,1.39,2.224,57.294,6047.7
+Bristol,Train,85.5,1.5,45-54,Cloudy,No Peak,Weekday,2,50,5,1.1,1.65,46.17,4873.5
+Liverpool,Train,56.8,1.3,18-24,Rain,Peak,Weekday,2,21,8,1.21,1.573,30.672,3237.6
+Manchester,Train,67.9,1.1,55-64,Cloudy,Peak,Weekend,2,60,4,1.39,1.529,36.666,3870.3
+Newcastle,Train,117.7,1.7,25-34,Cloudy,No Peak,Weekday,2,30,7,1.1,1.87,63.558,6708.9
+Newcastle,Train,93,1.7,18-24,Rain,No Peak,Weekend,2,21,8,1.26,2.142,50.22,5301
+Bristol,Train,43.3,1.9,18-24,Cloudy,No Peak,Weekday,2,21,8,1.1,2.09,23.382,2468.1
+Birmingham,Train,125.7,1.2,18-24,Rain,Peak,Weekday,2,21,8,1.21,1.452,67.878,7164.9
+Newcastle,Train,91.3,1.1,18-24,Rain,No Peak,Weekend,2,21,8,1.26,1.386,49.302,5204.1
+Newcastle,Train,71.9,1.5,25-34,Cloudy,No Peak,Weekend,2,30,7,1.26,1.89,38.826,4098.3
+Liverpool,Train,132.7,1.8,18-24,Cloudy,Peak,Weekend,2,21,8,1.39,2.502,71.658,7563.9
+Liverpool,Train,105.9,1.6,45-54,Rain,Peak,Weekday,2,50,5,1.21,1.936,57.186,6036.3
+Liverpool,Train,124.6,1.2,35-44,Sunny,Peak,Weekend,2,40,6,1.39,1.668,67.284,7102.2
+Bristol,Train,144.1,1.4,25-34,Rain,Peak,Weekday,2,30,7,1.21,1.694,77.814,8213.7
+Newcastle,Train,98.4,1.4,25-34,Rain,Peak,Weekend,2,30,7,1.39,1.946,53.136,5608.8
+Manchester,Train,78.1,1.2,18-24,Rain,Peak,Weekend,2,21,8,1.39,1.668,42.174,4451.7
+London,Train,112.4,1.2,25-34,Cloudy,No Peak,Weekend,2,30,7,1.26,1.512,60.696,6406.8
+Manchester,Train,126,1.1,55-64,Rain,Peak,Weekday,2,60,4,1.21,1.331,68.04,7182
+Liverpool,Train,118.6,1.5,55-64,Rain,Peak,Weekday,2,60,4,1.21,1.815,64.044,6760.2
+Bristol,Train,98.9,1.6,25-34,Sunny,Peak,Weekday,2,30,7,1.21,1.936,53.406,5637.3
+Manchester,Train,76.7,1.7,25-34,Cloudy,Peak,Weekend,2,30,7,1.39,2.363,41.418,4371.9
+Newcastle,Train,101.2,1,45-54,Rain,Peak,Weekend,2,50,5,1.39,1.39,54.648,5768.4
+Birmingham,Train,97.9,1.4,45-54,Rain,No Peak,Weekend,2,50,5,1.26,1.764,52.866,5580.3
+Manchester,Train,181,1.6,45-54,Cloudy,Peak,Weekday,2,50,5,1.21,1.936,97.74,10317
+Manchester,Train,90.7,1.7,18-24,Cloudy,No Peak,Weekend,2,21,8,1.26,2.142,48.978,5169.9
+London,Train,69.5,1.9,35-44,Sunny,Peak,Weekend,2,40,6,1.39,2.641,37.53,3961.5
+Bristol,Train,95.4,1.2,25-34,Cloudy,Peak,Weekday,2,30,7,1.21,1.452,51.516,5437.8
+Manchester,Train,127.5,1.7,25-34,Cloudy,No Peak,Weekend,2,30,7,1.26,2.142,68.85,7267.5
+London,Train,52.6,1.5,35-44,Cloudy,No Peak,Weekend,2,40,6,1.26,1.89,28.404,2998.2
+London,Train,122.8,1.6,18-24,Rain,Peak,Weekday,2,21,8,1.21,1.936,66.312,6999.6
+Birmingham,Train,62.9,1.6,18-24,Cloudy,Peak,Weekday,2,21,8,1.21,1.936,33.966,3585.3
+Birmingham,Train,76,1.9,18-24,Rain,No Peak,Weekend,2,21,8,1.26,2.394,41.04,4332
+Birmingham,Train,79.3,1.9,25-34,Sunny,No Peak,Weekend,2,30,7,1.26,2.394,42.822,4520.1
+Bristol,Train,98,1.2,25-34,Rain,Peak,Weekday,2,30,7,1.21,1.452,52.92,5586
+Manchester,Train,149.4,2.1,35-44,Rain,Peak,Weekday,2,40,6,1.21,2.541,80.676,8515.8
+London,Train,123.9,1.1,55-64,Rain,No Peak,Weekday,2,60,4,1.1,1.21,66.906,7062.3
+Manchester,Train,77,1.5,35-44,Rain,No Peak,Weekend,2,40,6,1.26,1.89,41.58,4389
+Newcastle,Train,185.4,1.4,35-44,Rain,No Peak,Weekday,2,40,6,1.1,1.54,100.116,10567.8
+Liverpool,Train,75.7,1.7,45-54,Rain,Peak,Weekend,2,50,5,1.39,2.363,40.878,4314.9
+Birmingham,Train,111.3,1.9,18-24,Sunny,Peak,Weekend,2,21,8,1.39,2.641,60.102,6344.1
+Bristol,Train,122.6,1.7,45-54,Rain,No Peak,Weekend,2,50,5,1.26,2.142,66.204,6988.2
+Newcastle,Train,116.1,1.9,25-34,Rain,Peak,Weekday,2,30,7,1.21,2.299,62.694,6617.7
+Liverpool,Train,106.1,2.1,18-24,Sunny,No Peak,Weekday,2,21,8,1.1,2.31,57.294,6047.7
+Bristol,Train,106.4,1.7,25-34,Sunny,Peak,Weekday,2,30,7,1.21,2.057,57.456,6064.8
+London,Train,60.8,1.6,25-34,Rain,No Peak,Weekday,2,30,7,1.1,1.76,32.832,3465.6
+Manchester,Train,90.9,1.6,25-34,Rain,Peak,Weekday,2,30,7,1.21,1.936,49.086,5181.3
+Birmingham,Train,73.2,1,55-64,Rain,No Peak,Weekend,2,60,4,1.26,1.26,39.528,4172.4
+London,Train,115.9,1.4,18-24,Cloudy,No Peak,Weekday,2,21,8,1.1,1.54,62.586,6606.3
+London,Train,96.8,1.2,18-24,Sunny,Peak,Weekend,2,21,8,1.39,1.668,52.272,5517.6
+London,Train,47.6,1.5,18-24,Sunny,No Peak,Weekday,2,21,8,1.1,1.65,25.704,2713.2
+Manchester,Train,150.3,1.6,35-44,Sunny,Peak,Weekend,2,40,6,1.39,2.224,81.162,8567.1
+Bristol,Train,123.1,1.7,18-24,Sunny,No Peak,Weekend,2,21,8,1.26,2.142,66.474,7016.7
+Bristol,Train,92.4,1.3,55-64,Rain,No Peak,Weekend,2,60,4,1.26,1.638,49.896,5266.8
+Liverpool,Train,173.3,1.4,45-54,Rain,Peak,Weekday,2,50,5,1.21,1.694,93.582,9878.1
+Birmingham,Train,103.2,1,45-54,Rain,Peak,Weekday,2,50,5,1.21,1.21,55.728,5882.4
+London,Train,107.9,2,35-44,Cloudy,Peak,Weekday,2,40,6,1.21,2.42,58.266,6150.3
+Bristol,Train,110.5,1.4,35-44,Cloudy,Peak,Weekday,2,40,6,1.21,1.694,59.67,6298.5
+Manchester,Train,60.2,1.5,65+,Cloudy,No Peak,Weekday,2,68,4,1.1,1.65,32.508,3431.4
+Newcastle,Train,69.4,2.3,25-34,Rain,Peak,Weekend,2,30,7,1.39,3.197,37.476,3955.8
+London,Train,93,2,35-44,Rain,Peak,Weekday,2,40,6,1.21,2.42,50.22,5301
+Liverpool,Train,121.4,1.3,25-34,Cloudy,No Peak,Weekend,2,30,7,1.26,1.638,65.556,6919.8
+London,Train,105.5,1.8,25-34,Rain,No Peak,Weekend,2,30,7,1.26,2.268,56.97,6013.5
+Bristol,Train,126.8,1.2,25-34,Cloudy,No Peak,Weekend,2,30,7,1.26,1.512,68.472,7227.6
+Newcastle,Train,80.8,1.5,18-24,Rain,No Peak,Weekday,2,21,8,1.1,1.65,43.632,4605.6
+Liverpool,Train,145.9,1.9,25-34,Cloudy,No Peak,Weekend,2,30,7,1.26,2.394,78.786,8316.3
+Bristol,Train,98,1.6,18-24,Cloudy,Peak,Weekday,2,21,8,1.21,1.936,52.92,5586
+Manchester,Train,159.4,1.9,35-44,Cloudy,No Peak,Weekday,2,40,6,1.1,2.09,86.076,9085.8
+London,Train,169,1.1,35-44,Rain,No Peak,Weekday,2,40,6,1.1,1.21,91.26,9633
+Newcastle,Train,101,1.5,18-24,Rain,Peak,Weekend,2,21,8,1.39,2.085,54.54,5757
+Newcastle,Train,146.5,1.6,25-34,Rain,No Peak,Weekday,2,30,7,1.1,1.76,79.11,8350.5
+Birmingham,Train,33.3,1.6,55-64,Sunny,Peak,Weekday,2,60,4,1.21,1.936,17.982,1898.1
+Manchester,Train,47.4,1.7,45-54,Cloudy,Peak,Weekday,2,50,5,1.21,2.057,25.596,2701.8
+Bristol,Train,99.3,2.1,35-44,Rain,Peak,Weekend,2,40,6,1.39,2.919,53.622,5660.1
+Birmingham,Train,107.7,1.5,18-24,Rain,Peak,Weekday,2,21,8,1.21,1.815,58.158,6138.9
+Bristol,Train,74.6,2.8,35-44,Sunny,Peak,Weekday,2,40,6,1.21,3.388,40.284,4252.2
+Bristol,Train,113.8,1.4,35-44,Cloudy,No Peak,Weekday,2,40,6,1.1,1.54,61.452,6486.6
+London,Train,71.4,1.5,25-34,Cloudy,Peak,Weekday,2,30,7,1.21,1.815,38.556,4069.8
+Liverpool,Train,146.5,2.3,55-64,Rain,Peak,Weekend,2,60,4,1.39,3.197,79.11,8350.5
+London,Train,66,1.2,25-34,Rain,Peak,Weekend,2,30,7,1.39,1.668,35.64,3762
+London,Train,120.6,1.8,35-44,Sunny,Peak,Weekday,2,40,6,1.21,2.178,65.124,6874.2
+Manchester,Train,121.3,1.6,55-64,Cloudy,Peak,Weekday,2,60,4,1.21,1.936,65.502,6914.1
+London,Train,95,1.2,35-44,Rain,Peak,Weekday,2,40,6,1.21,1.452,51.3,5415
+Liverpool,Bus,155.8,1.5,18-24,Rain,Peak,Weekday,2,21,8,1.86,2.79,6.232,6855.2
+Birmingham,Bus,148.1,1.5,35-44,Rain,Peak,Weekend,2,40,6,2.14,3.21,5.924,6516.4
+Bristol,Bus,117,1.1,55-64,Cloudy,No Peak,Weekday,2,60,4,1.21,1.331,4.68,5148
+Newcastle,Bus,106.4,1.7,25-34,Cloudy,No Peak,Weekday,2,30,7,1.21,2.057,4.256,4681.6
+Liverpool,Bus,51,1.3,45-54,Rain,No Peak,Weekend,2,50,5,1.64,2.132,2.04,2244
+Manchester,Bus,122.1,1.9,18-24,Rain,No Peak,Weekend,2,21,8,1.64,3.116,4.884,5372.4
+Birmingham,Bus,116.9,1.8,45-54,Rain,Peak,Weekday,2,50,5,1.86,3.348,4.676,5143.6
+London,Bus,65.2,1.5,25-34,Rain,No Peak,Weekend,2,30,7,1.64,2.46,2.608,2868.8
+Bristol,Bus,113.1,1.4,25-34,Cloudy,Peak,Weekday,2,30,7,1.57,2.198,4.524,4976.4
+Manchester,Bus,117.2,1.4,35-44,Rain,Peak,Weekend,2,40,6,2.14,2.996,4.688,5156.8
+Birmingham,Bus,82.7,0.8,25-34,Sunny,Peak,Weekday,2,30,7,1.43,1.144,3.308,3638.8
+Birmingham,Bus,106.4,1.4,25-34,Sunny,No Peak,Weekend,2,30,7,1.26,1.764,4.256,4681.6
+Birmingham,Bus,80.7,1.7,25-34,Rain,Peak,Weekday,2,30,7,1.86,3.162,3.228,3550.8
+Birmingham,Bus,131.3,1.8,18-24,Sunny,No Peak,Weekday,2,21,8,1.1,1.98,5.252,5777.2
+London,Bus,107.2,1.9,45-54,Rain,Peak,Weekday,2,50,5,1.86,3.534,4.288,4716.8
+Newcastle,Bus,115.2,1.7,18-24,Cloudy,Peak,Weekend,2,21,8,1.81,3.077,4.608,5068.8
+Newcastle,Bus,73.2,2.1,45-54,Rain,No Peak,Weekend,2,50,5,1.64,3.444,2.928,3220.8
+Liverpool,Bus,129.6,1.3,45-54,Cloudy,No Peak,Weekend,2,50,5,1.39,1.807,5.184,5702.4
+Liverpool,Bus,59.3,1.7,45-54,Sunny,Peak,Weekday,2,50,5,1.43,2.431,2.372,2609.2
+Birmingham,Bus,118.4,1.6,35-44,Sunny,Peak,Weekend,2,40,6,1.64,2.624,4.736,5209.6
+Liverpool,Bus,107.5,0.7,18-24,Rain,No Peak,Weekday,2,21,8,1.43,1.001,4.3,4730
+Liverpool,Bus,97.7,1.4,35-44,Rain,No Peak,Weekday,2,40,6,1.43,2.002,3.908,4298.8
+Manchester,Bus,149.1,1,45-54,Cloudy,Peak,Weekend,2,50,5,1.81,1.81,5.964,6560.4
+Bristol,Bus,102.6,1.6,18-24,Rain,No Peak,Weekday,2,21,8,1.43,2.288,4.104,4514.4
+Newcastle,Bus,80.6,2.1,25-34,Rain,Peak,Weekend,2,30,7,2.14,4.494,3.224,3546.4
+Manchester,Bus,71,1.4,25-34,Sunny,Peak,Weekend,2,30,7,1.64,2.296,2.84,3124
+London,Bus,92.8,1.2,35-44,Cloudy,No Peak,Weekend,2,40,6,1.39,1.668,3.712,4083.2
+Birmingham,Bus,87.6,1.8,18-24,Rain,Peak,Weekday,2,21,8,1.86,3.348,3.504,3854.4
+London,Bus,79.2,1.8,55-64,Sunny,No Peak,Weekday,2,60,4,1.1,1.98,3.168,3484.8
+Bristol,Bus,66.8,1.5,45-54,Cloudy,Peak,Weekend,2,50,5,1.81,2.715,2.672,2939.2
+Bristol,Bus,57.6,1.8,25-34,Sunny,Peak,Weekday,2,30,7,1.43,2.574,2.304,2534.4
+London,Bus,150.2,1.4,18-24,Rain,Peak,Weekday,2,21,8,1.86,2.604,6.008,6608.8
+Bristol,Bus,141.8,0.9,35-44,Cloudy,No Peak,Weekend,2,40,6,1.39,1.251,5.672,6239.2
+Newcastle,Bus,131.2,1.5,35-44,Rain,No Peak,Weekend,2,40,6,1.64,2.46,5.248,5772.8
+Birmingham,Bus,56.5,1.7,18-24,Rain,Peak,Weekend,2,21,8,2.14,3.638,2.26,2486
+Liverpool,Bus,109.3,1.4,55-64,Rain,Peak,Weekend,2,60,4,2.14,2.996,4.372,4809.2
+Liverpool,Bus,64.2,1.7,25-34,Cloudy,No Peak,Weekday,2,30,7,1.21,2.057,2.568,2824.8
+Bristol,Bus,111.3,1.2,35-44,Rain,Peak,Weekend,2,40,6,2.14,2.568,4.452,4897.2
+Bristol,Bus,90.6,1.3,25-34,Sunny,Peak,Weekday,2,30,7,1.43,1.859,3.624,3986.4
+London,Bus,133.5,1.2,18-24,Rain,Peak,Weekend,2,21,8,2.14,2.568,5.34,5874
+Birmingham,Bus,86.2,1.8,25-34,Cloudy,Peak,Weekend,2,30,7,1.81,3.258,3.448,3792.8
+Liverpool,Bus,82.4,1.1,55-64,Rain,No Peak,Weekend,2,60,4,1.64,1.804,3.296,3625.6
+Bristol,Bus,116.4,2,18-24,Rain,Peak,Weekend,2,21,8,2.14,4.28,4.656,5121.6
+Manchester,Bus,145.8,1.9,18-24,Cloudy,Peak,Weekday,2,21,8,1.57,2.983,5.832,6415.2
+Liverpool,Bus,80.6,1.3,35-44,Rain,No Peak,Weekend,2,40,6,1.64,2.132,3.224,3546.4
+Birmingham,Bus,57.7,1.6,18-24,Rain,Peak,Weekend,2,21,8,2.14,3.424,2.308,2538.8
+Birmingham,Bus,102.4,1.4,65+,Rain,No Peak,Weekend,2,68,4,1.64,2.296,4.096,4505.6
+Liverpool,Bus,76.5,1.8,55-64,Rain,Peak,Weekday,2,60,4,1.86,3.348,3.06,3366
+London,Bus,102.6,1.4,55-64,Rain,Peak,Weekend,2,60,4,2.14,2.996,4.104,4514.4
+Bristol,Bus,105.1,1.8,35-44,Rain,Peak,Weekend,2,40,6,2.14,3.852,4.204,4624.4
+Bristol,Bus,139.4,1.9,18-24,Cloudy,Peak,Weekday,2,21,8,1.57,2.983,5.576,6133.6
+Birmingham,Bus,69.7,1.4,18-24,Cloudy,Peak,Weekday,2,21,8,1.57,2.198,2.788,3066.8
+Manchester,Bus,65.4,2.7,55-64,Sunny,Peak,Weekend,2,60,4,1.64,4.428,2.616,2877.6
+Manchester,Bus,109.5,1.4,18-24,Rain,Peak,Weekend,2,21,8,2.14,2.996,4.38,4818
+Bristol,Bus,106,1.5,25-34,Cloudy,Peak,Weekday,2,30,7,1.57,2.355,4.24,4664
+Liverpool,Bus,57.2,1.8,45-54,Rain,No Peak,Weekday,2,50,5,1.43,2.574,2.288,2516.8
+Newcastle,Bus,68.9,1.4,55-64,Sunny,No Peak,Weekend,2,60,4,1.26,1.764,2.756,3031.6
+Birmingham,Bus,74.6,1.5,35-44,Rain,No Peak,Weekday,2,40,6,1.43,2.145,2.984,3282.4
+Bristol,Bus,112.8,1.2,55-64,Cloudy,No Peak,Weekday,2,60,4,1.21,1.452,4.512,4963.2
+Birmingham,Bus,54.5,1.4,45-54,Rain,Peak,Weekday,2,50,5,1.86,2.604,2.18,2398
+Bristol,Bus,139.5,1.8,45-54,Sunny,Peak,Weekday,2,50,5,1.43,2.574,5.58,6138
+London,Bus,81.6,2,25-34,Rain,Peak,Weekday,2,30,7,1.86,3.72,3.264,3590.4
+Newcastle,Bus,100.1,1.5,18-24,Rain,Peak,Weekday,2,21,8,1.86,2.79,4.004,4404.4
+Liverpool,Bus,121.2,1.8,18-24,Rain,No Peak,Weekday,2,21,8,1.43,2.574,4.848,5332.8
+Bristol,Bus,93.8,0.9,18-24,Rain,Peak,Weekday,2,21,8,1.86,1.674,3.752,4127.2
+Birmingham,Bus,98.1,1.4,25-34,Cloudy,Peak,Weekday,2,30,7,1.57,2.198,3.924,4316.4
+Manchester,Bus,147.2,1.5,18-24,Cloudy,No Peak,Weekday,2,21,8,1.21,1.815,5.888,6476.8
+Liverpool,Bus,128.2,1.7,25-34,Rain,Peak,Weekend,2,30,7,2.14,3.638,5.128,5640.8
+Manchester,Bus,121.9,1.4,55-64,Rain,No Peak,Weekday,2,60,4,1.43,2.002,4.876,5363.6
+Manchester,Bus,92.5,1.9,18-24,Rain,No Peak,Weekday,2,21,8,1.43,2.717,3.7,4070
+Newcastle,Bus,89.7,1.2,55-64,Cloudy,Peak,Weekday,2,60,4,1.57,1.884,3.588,3946.8
+Liverpool,Bus,44.7,1.6,18-24,Cloudy,Peak,Weekend,2,21,8,1.81,2.896,1.788,1966.8
+Newcastle,Bus,59.7,1.7,18-24,Cloudy,Peak,Weekend,2,21,8,1.81,3.077,2.388,2626.8
+Bristol,Bus,89.5,1.5,35-44,Cloudy,Peak,Weekend,2,40,6,1.81,2.715,3.58,3938
+Liverpool,Bus,90.3,1.5,35-44,Cloudy,Peak,Weekday,2,40,6,1.57,2.355,3.612,3973.2
+Newcastle,Bus,103.5,1.6,35-44,Rain,Peak,Weekday,2,40,6,1.86,2.976,4.14,4554
+Birmingham,Bus,95.8,1.3,35-44,Rain,No Peak,Weekday,2,40,6,1.43,1.859,3.832,4215.2
+Liverpool,Bus,127.7,2.1,18-24,Rain,No Peak,Weekend,2,21,8,1.64,3.444,5.108,5618.8
+Bristol,Bus,99.4,1.9,65+,Sunny,No Peak,Weekday,2,68,4,1.1,2.09,3.976,4373.6
+Bristol,Bus,67,0.8,55-64,Rain,No Peak,Weekday,2,60,4,1.43,1.144,2.68,2948
+Newcastle,Bus,129.1,1.5,18-24,Rain,Peak,Weekday,2,21,8,1.86,2.79,5.164,5680.4
+London,Bus,48,1.7,55-64,Rain,Peak,Weekend,2,60,4,2.14,3.638,1.92,2112
+London,Bus,127.7,1.7,18-24,Cloudy,No Peak,Weekday,2,21,8,1.21,2.057,5.108,5618.8
+Liverpool,Bus,139.1,1.5,65+,Rain,Peak,Weekend,2,68,4,2.14,3.21,5.564,6120.4
+Bristol,Bus,137,1.7,18-24,Rain,No Peak,Weekday,2,21,8,1.43,2.431,5.48,6028
+Manchester,Bus,102.2,1.4,45-54,Rain,No Peak,Weekend,2,50,5,1.64,2.296,4.088,4496.8
+Liverpool,Bus,145.2,1.4,35-44,Sunny,Peak,Weekday,2,40,6,1.43,2.002,5.808,6388.8
+Bristol,Bus,76.7,1.8,18-24,Cloudy,Peak,Weekend,2,21,8,1.81,3.258,3.068,3374.8
+Birmingham,Bus,45.6,1.4,35-44,Rain,Peak,Weekend,2,40,6,2.14,2.996,1.824,2006.4
+Bristol,Bus,128.4,1.4,55-64,Cloudy,Peak,Weekend,2,60,4,1.81,2.534,5.136,5649.6
+Birmingham,Bus,123.5,1.7,45-54,Rain,No Peak,Weekend,2,50,5,1.64,2.788,4.94,5434
+Newcastle,Bus,144.4,1.4,55-64,Rain,No Peak,Weekday,2,60,4,1.43,2.002,5.776,6353.6
+Birmingham,Bus,124.1,1.4,25-34,Sunny,No Peak,Weekday,2,30,7,1.1,1.54,4.964,5460.4
+Birmingham,Bus,60.5,1.7,25-34,Cloudy,No Peak,Weekend,2,30,7,1.39,2.363,2.42,2662
+Birmingham,Bus,108.5,1.1,35-44,Cloudy,Peak,Weekend,2,40,6,1.81,1.991,4.34,4774
+Newcastle,Bus,94.9,1,55-64,Cloudy,No Peak,Weekday,2,60,4,1.21,1.21,3.796,4175.6
+London,Bus,101.2,1.3,35-44,Rain,Peak,Weekend,2,40,6,2.14,2.782,4.048,4452.8
+Birmingham,Bus,123.5,1.8,55-64,Cloudy,Peak,Weekend,2,60,4,1.81,3.258,4.94,5434
+Newcastle,Bus,97,1.7,45-54,Rain,Peak,Weekday,2,50,5,1.86,3.162,3.88,4268
+Birmingham,Bus,90.6,1.6,35-44,Sunny,No Peak,Weekend,2,40,6,1.26,2.016,3.624,3986.4
+Liverpool,Bus,45.1,2.1,25-34,Rain,No Peak,Weekday,2,30,7,1.43,3.003,1.804,1984.4
+Newcastle,Bus,83.4,1.4,18-24,Rain,No Peak,Weekday,2,21,8,1.43,2.002,3.336,3669.6
+Birmingham,Bus,113.6,1.5,25-34,Sunny,Peak,Weekday,2,30,7,1.43,2.145,4.544,4998.4
+Liverpool,Bus,163.8,1.2,45-54,Sunny,Peak,Weekend,2,50,5,1.64,1.968,6.552,7207.2
+Birmingham,Bus,130.8,1.5,35-44,Sunny,Peak,Weekend,2,40,6,1.64,2.46,5.232,5755.2
+Manchester,Bus,87.6,1.5,25-34,Sunny,Peak,Weekend,2,30,7,1.64,2.46,3.504,3854.4
+London,Bus,93.2,2,35-44,Cloudy,Peak,Weekday,2,40,6,1.57,3.14,3.728,4100.8
+Bristol,Bus,96.3,1.2,18-24,Rain,No Peak,Weekday,2,21,8,1.43,1.716,3.852,4237.2
+London,Bus,93.2,1.8,18-24,Sunny,No Peak,Weekend,2,21,8,1.26,2.268,3.728,4100.8
+Birmingham,Bus,103.1,1.7,18-24,Cloudy,No Peak,Weekend,2,21,8,1.39,2.363,4.124,4536.4
+Bristol,Bus,82.1,1.4,35-44,Sunny,Peak,Weekday,2,40,6,1.43,2.002,3.284,3612.4
+London,Bus,125.3,1.7,18-24,Cloudy,Peak,Weekday,2,21,8,1.57,2.669,5.012,5513.2
+London,Bus,100.4,1.8,25-34,Cloudy,Peak,Weekday,2,30,7,1.57,2.826,4.016,4417.6
+Birmingham,Bus,113.4,1.7,55-64,Sunny,Peak,Weekend,2,60,4,1.64,2.788,4.536,4989.6
+Manchester,Bus,107.4,1.4,25-34,Cloudy,No Peak,Weekend,2,30,7,1.39,1.946,4.296,4725.6
+London,Bus,63.1,1.6,18-24,Rain,Peak,Weekend,2,21,8,2.14,3.424,2.524,2776.4
+Manchester,Bus,93.5,1.6,18-24,Sunny,Peak,Weekday,2,21,8,1.43,2.288,3.74,4114
+Bristol,Bus,130.3,1.7,18-24,Rain,Peak,Weekend,2,21,8,2.14,3.638,5.212,5733.2
+Bristol,Bus,134,1.4,18-24,Rain,Peak,Weekday,2,21,8,1.86,2.604,5.36,5896
+London,Bus,116.9,1.5,25-34,Cloudy,Peak,Weekday,2,30,7,1.57,2.355,4.676,5143.6
+Manchester,Bus,70.7,1.6,25-34,Rain,No Peak,Weekend,2,30,7,1.64,2.624,2.828,3110.8
+Birmingham,Bus,114.8,1.7,35-44,Rain,Peak,Weekend,2,40,6,2.14,3.638,4.592,5051.2
+London,Bus,106.8,1.7,35-44,Cloudy,No Peak,Weekend,2,40,6,1.39,2.363,4.272,4699.2
+Manchester,Bus,106.4,1.3,55-64,Cloudy,Peak,Weekday,2,60,4,1.57,2.041,4.256,4681.6
+Manchester,Bus,35.5,1.7,35-44,Sunny,No Peak,Weekday,2,40,6,1.1,1.87,1.42,1562
+Birmingham,Bus,84.4,1.6,18-24,Rain,No Peak,Weekend,2,21,8,1.64,2.624,3.376,3713.6
+Manchester,Bus,104.8,1.5,55-64,Cloudy,Peak,Weekday,2,60,4,1.57,2.355,4.192,4611.2
+Liverpool,Bus,64.4,1.7,45-54,Rain,Peak,Weekday,2,50,5,1.86,3.162,2.576,2833.6
+London,Bus,96.7,1.5,25-34,Rain,Peak,Weekend,2,30,7,2.14,3.21,3.868,4254.8
+Birmingham,Bus,19,1.3,25-34,Rain,Peak,Weekday,2,30,7,1.86,2.418,0.76,836
+Birmingham,Bus,72.8,1.6,18-24,Rain,Peak,Weekend,2,21,8,2.14,3.424,2.912,3203.2
+Manchester,Bus,70.1,1.3,55-64,Rain,No Peak,Weekend,2,60,4,1.64,2.132,2.804,3084.4
+Birmingham,Bus,112.3,1.4,35-44,Rain,Peak,Weekday,2,40,6,1.86,2.604,4.492,4941.2
+Manchester,Bus,110,2.1,18-24,Rain,Peak,Weekend,2,21,8,2.14,4.494,4.4,4840
+Newcastle,Bus,112.7,1.5,18-24,Sunny,Peak,Weekend,2,21,8,1.64,2.46,4.508,4958.8
+Bristol,Bus,77.7,1.6,25-34,Rain,No Peak,Weekday,2,30,7,1.43,2.288,3.108,3418.8
+Liverpool,Bus,93.9,1,25-34,Cloudy,No Peak,Weekday,2,30,7,1.21,1.21,3.756,4131.6
+Liverpool,Bus,116.7,1.3,18-24,Cloudy,Peak,Weekend,2,21,8,1.81,2.353,4.668,5134.8
+London,Bus,113.4,1.7,18-24,Sunny,Peak,Weekday,2,21,8,1.43,2.431,4.536,4989.6
+Newcastle,Bus,68.1,1.3,18-24,Rain,No Peak,Weekend,2,21,8,1.64,2.132,2.724,2996.4
+Liverpool,Bus,97.5,1.3,18-24,Sunny,Peak,Weekday,2,21,8,1.43,1.859,3.9,4290
+Bristol,Bus,35.7,1.8,45-54,Cloudy,No Peak,Weekend,2,50,5,1.39,2.502,1.428,1570.8
+Liverpool,Bus,114.1,1.3,35-44,Cloudy,No Peak,Weekend,2,40,6,1.39,1.807,4.564,5020.4
+Newcastle,Bus,115.7,1.4,18-24,Rain,No Peak,Weekend,2,21,8,1.64,2.296,4.628,5090.8
+Bristol,Bus,84.5,2,55-64,Rain,Peak,Weekday,2,60,4,1.86,3.72,3.38,3718
+Newcastle,Bus,78.7,1.3,25-34,Cloudy,Peak,Weekday,2,30,7,1.57,2.041,3.148,3462.8
+Liverpool,Bus,93.8,2.1,18-24,Rain,No Peak,Weekday,2,21,8,1.43,3.003,3.752,4127.2
+Manchester,Bus,89.2,1.1,35-44,Sunny,No Peak,Weekday,2,40,6,1.1,1.21,3.568,3924.8
+Bristol,Bus,79.4,1.5,35-44,Cloudy,Peak,Weekday,2,40,6,1.57,2.355,3.176,3493.6
+Bristol,Bus,106.2,1,65+,Cloudy,Peak,Weekend,2,68,4,1.81,1.81,4.248,4672.8
+Liverpool,Bus,130.3,1.5,45-54,Rain,Peak,Weekday,2,50,5,1.86,2.79,5.212,5733.2
+Newcastle,Bus,129.6,1.4,18-24,Rain,No Peak,Weekend,2,21,8,1.64,2.296,5.184,5702.4
+Birmingham,Bus,114.1,1.3,45-54,Rain,No Peak,Weekday,2,50,5,1.43,1.859,4.564,5020.4
+Manchester,Bus,64.5,1.4,35-44,Rain,Peak,Weekend,2,40,6,2.14,2.996,2.58,2838
+Manchester,Bus,137.2,1.1,45-54,Rain,Peak,Weekend,2,50,5,2.14,2.354,5.488,6036.8
+London,Bus,97.2,1.6,55-64,Cloudy,Peak,Weekend,2,60,4,1.81,2.896,3.888,4276.8
+Newcastle,Bus,51.9,1.7,18-24,Rain,No Peak,Weekend,2,21,8,1.64,2.788,2.076,2283.6
+London,Bus,74.3,1.6,18-24,Cloudy,No Peak,Weekend,2,21,8,1.39,2.224,2.972,3269.2
+Newcastle,Bus,116.5,1,55-64,Rain,Peak,Weekend,2,60,4,2.14,2.14,4.66,5126
+London,Bus,105.2,1.4,55-64,Rain,Peak,Weekend,2,60,4,2.14,2.996,4.208,4628.8
+Liverpool,Bus,39,1.3,45-54,Rain,No Peak,Weekday,2,50,5,1.43,1.859,1.56,1716
+Newcastle,Bus,138.4,1.9,18-24,Cloudy,Peak,Weekday,2,21,8,1.57,2.983,5.536,6089.6
+Newcastle,Bus,57.4,0.8,25-34,Cloudy,Peak,Weekend,2,30,7,1.81,1.448,2.296,2525.6
+Liverpool,Bus,96.4,1.7,25-34,Sunny,Peak,Weekday,2,30,7,1.43,2.431,3.856,4241.6
+Manchester,Bus,50.5,1.5,45-54,Rain,Peak,Weekend,2,50,5,2.14,3.21,2.02,2222
+Birmingham,Bus,66.9,1.1,45-54,Sunny,No Peak,Weekend,2,50,5,1.26,1.386,2.676,2943.6
+Liverpool,Bus,157.3,1,55-64,Cloudy,Peak,Weekday,2,60,4,1.57,1.57,6.292,6921.2
+Manchester,Bus,97.1,1.7,25-34,Rain,Peak,Weekday,2,30,7,1.86,3.162,3.884,4272.4
+Manchester,Bus,111.3,1.7,18-24,Sunny,Peak,Weekday,2,21,8,1.43,2.431,4.452,4897.2
+Liverpool,Bus,57.4,1.9,45-54,Rain,Peak,Weekday,2,50,5,1.86,3.534,2.296,2525.6
+Liverpool,Bus,66.7,1.3,45-54,Cloudy,Peak,Weekday,2,50,5,1.57,2.041,2.668,2934.8
+Manchester,Bus,106.2,1.5,25-34,Cloudy,No Peak,Weekday,2,30,7,1.21,1.815,4.248,4672.8
+Newcastle,Bus,117.5,1.5,45-54,Cloudy,Peak,Weekend,2,50,5,1.81,2.715,4.7,5170
+Liverpool,Bus,68.3,1.7,45-54,Sunny,No Peak,Weekday,2,50,5,1.1,1.87,2.732,3005.2
+London,Bus,151,1.5,18-24,Rain,No Peak,Weekday,2,21,8,1.43,2.145,6.04,6644
+Liverpool,Bus,66,1.9,25-34,Rain,Peak,Weekday,2,30,7,1.86,3.534,2.64,2904
+Liverpool,Bus,86.1,1.2,25-34,Cloudy,No Peak,Weekday,2,30,7,1.21,1.452,3.444,3788.4
+Manchester,Bus,83.4,1.4,25-34,Rain,No Peak,Weekday,2,30,7,1.43,2.002,3.336,3669.6
+Manchester,Bus,81.6,1,25-34,Rain,Peak,Weekday,2,30,7,1.86,1.86,3.264,3590.4
+Manchester,Bus,132.1,1.4,35-44,Cloudy,Peak,Weekday,2,40,6,1.57,2.198,5.284,5812.4
+Birmingham,Bus,133,1.5,18-24,Sunny,Peak,Weekday,2,21,8,1.43,2.145,5.32,5852
+Newcastle,Bus,90,1.4,45-54,Cloudy,Peak,Weekend,2,50,5,1.81,2.534,3.6,3960
+London,Bus,59,1.5,18-24,Cloudy,No Peak,Weekend,2,21,8,1.39,2.085,2.36,2596
+London,Bus,74.2,1.7,25-34,Cloudy,Peak,Weekend,2,30,7,1.81,3.077,2.968,3264.8
+Birmingham,Bus,78,1.4,25-34,Rain,Peak,Weekday,2,30,7,1.86,2.604,3.12,3432
+Bristol,Bus,148.7,1.7,25-34,Rain,No Peak,Weekday,2,30,7,1.43,2.431,5.948,6542.8
+Newcastle,Bus,121.4,0.9,55-64,Rain,No Peak,Weekday,2,60,4,1.43,1.287,4.856,5341.6
+Liverpool,Bus,111.5,1.4,25-34,Cloudy,Peak,Weekday,2,30,7,1.57,2.198,4.46,4906
+Manchester,Bus,129.8,1.3,35-44,Rain,Peak,Weekend,2,40,6,2.14,2.782,5.192,5711.2
+Newcastle,Bus,132.1,1,18-24,Cloudy,Peak,Weekend,2,21,8,1.81,1.81,5.284,5812.4
+Liverpool,Bus,98.4,1.3,25-34,Rain,Peak,Weekend,2,30,7,2.14,2.782,3.936,4329.6
+Liverpool,Bus,128.9,1.4,55-64,Rain,Peak,Weekend,2,60,4,2.14,2.996,5.156,5671.6
+Bristol,Bus,69.5,1.6,55-64,Cloudy,Peak,Weekend,2,60,4,1.81,2.896,2.78,3058
+London,Bus,146.6,1.7,25-34,Cloudy,Peak,Weekday,2,30,7,1.57,2.669,5.864,6450.4
+Birmingham,Bus,117.2,1.4,45-54,Rain,No Peak,Weekday,2,50,5,1.43,2.002,4.688,5156.8
+Liverpool,Bus,91.9,1.3,55-64,Sunny,Peak,Weekday,2,60,4,1.43,1.859,3.676,4043.6
+Newcastle,Bus,106,1.5,45-54,Sunny,Peak,Weekday,2,50,5,1.43,2.145,4.24,4664
+Birmingham,Bus,90.1,1.5,35-44,Rain,No Peak,Weekend,2,40,6,1.64,2.46,3.604,3964.4
+Birmingham,Bus,73.3,1.3,25-34,Cloudy,No Peak,Weekend,2,30,7,1.39,1.807,2.932,3225.2
+Bristol,Bus,45.9,1,25-34,Rain,No Peak,Weekend,2,30,7,1.64,1.64,1.836,2019.6
+Birmingham,Bus,68,1.9,25-34,Rain,No Peak,Weekend,2,30,7,1.64,3.116,2.72,2992
+Birmingham,Bus,121.9,1.5,45-54,Rain,No Peak,Weekend,2,50,5,1.64,2.46,4.876,5363.6
+Newcastle,Petrol Car,115.8,0.7,18-24,Rain,Peak,Weekday,1,21,8,1.95,1.365,72.15,31034.4
+Birmingham,Petrol Car,111.2,0.9,45-54,Rain,No Peak,Weekend,1,50,5,1.5,1.35,70.08,29801.6
+Bristol,Petrol Car,167.4,1.5,45-54,Cloudy,No Peak,Weekend,1,50,5,1.26,1.89,95.37,44863.2
+Newcastle,Petrol Car,68.7,1.6,45-54,Sunny,No Peak,Weekday,1,50,5,1,1.6,50.955,18411.6
+Liverpool,Petrol Car,103.5,1.8,55-64,Rain,Peak,Weekend,1,60,4,2.24,4.032,66.615,27738
+Newcastle,Petrol Car,84.4,1.6,45-54,Rain,Peak,Weekend,1,50,5,2.24,3.584,58.02,22619.2
+Newcastle,Petrol Car,56.5,2,65+,Rain,No Peak,Weekend,1,68,4,1.5,3,45.465,15142
+Newcastle,Petrol Car,87.3,1.5,35-44,Rain,Peak,Weekend,1,40,6,2.24,3.36,59.325,23396.4
+Bristol,Petrol Car,59.3,1.4,18-24,Rain,Peak,Weekday,1,21,8,1.95,2.73,46.725,15892.4
+Bristol,Petrol Car,91.9,1.6,25-34,Cloudy,Peak,Weekday,1,30,7,1.65,2.64,61.395,24629.2
+Manchester,Petrol Car,112.7,1.1,25-34,Rain,Peak,Weekend,1,30,7,2.24,2.464,70.755,30203.6
+Liverpool,Petrol Car,73.3,1.9,18-24,Rain,No Peak,Weekend,1,21,8,1.5,2.85,53.025,19644.4
+London,Petrol Car,77.2,1.3,35-44,Cloudy,Peak,Weekday,1,40,6,1.65,2.145,54.78,20689.6
+Manchester,Petrol Car,69.8,1.8,18-24,Cloudy,Peak,Weekend,1,21,8,1.9,3.42,51.45,18706.4
+London,Petrol Car,135.4,0.8,55-64,Cloudy,Peak,Weekday,1,60,4,1.65,1.32,80.97,36287.2
+Manchester,Petrol Car,89.6,1.2,55-64,Rain,No Peak,Weekend,1,60,4,1.5,1.8,60.36,24012.8
+Birmingham,Petrol Car,125.4,1.2,18-24,Sunny,Peak,Weekend,1,21,8,1.72,2.064,76.47,33607.2
+Newcastle,Petrol Car,134.2,1.5,45-54,Sunny,No Peak,Weekday,1,50,5,1,1.5,80.43,35965.6
+Bristol,Petrol Car,87.4,1.3,18-24,Rain,Peak,Weekday,1,21,8,1.95,2.535,59.37,23423.2
+Birmingham,Petrol Car,78.4,1.8,25-34,Cloudy,Peak,Weekend,1,30,7,1.9,3.42,55.32,21011.2
+Manchester,Petrol Car,107.6,1.6,18-24,Rain,Peak,Weekend,1,21,8,2.24,3.584,68.46,28836.8
+London,Petrol Car,128.7,1.5,25-34,Rain,No Peak,Weekend,1,30,7,1.5,2.25,77.955,34491.6
+London,Petrol Car,95.7,1.2,25-34,Rain,No Peak,Weekend,1,30,7,1.5,1.8,63.105,25647.6
+Bristol,Petrol Car,74.2,1.2,35-44,Sunny,Peak,Weekday,1,40,6,1.5,1.8,53.43,19885.6
+Birmingham,Petrol Car,72.6,2,25-34,Cloudy,Peak,Weekday,1,30,7,1.65,3.3,52.71,19456.8
+Liverpool,Petrol Car,72.5,1.8,18-24,Rain,Peak,Weekend,1,21,8,2.24,4.032,52.665,19430
+Manchester,Petrol Car,127.7,1.2,18-24,Sunny,Peak,Weekend,1,21,8,1.72,2.064,77.505,34223.6
+Birmingham,Petrol Car,92.3,1.2,25-34,Rain,Peak,Weekday,1,30,7,1.95,2.34,61.575,24736.4
+London,Petrol Car,183.7,1.3,18-24,Rain,No Peak,Weekday,1,21,8,1.3,1.69,102.705,49231.6
+Newcastle,Petrol Car,70.3,2.1,18-24,Sunny,No Peak,Weekday,1,21,8,1,2.1,51.675,18840.4
+Manchester,Petrol Car,78.7,1.7,45-54,Cloudy,Peak,Weekend,1,50,5,1.9,3.23,55.455,21091.6
+Liverpool,Petrol Car,109,1.3,55-64,Sunny,Peak,Weekday,1,60,4,1.5,1.95,69.09,29212
+Liverpool,Petrol Car,74.1,0.9,35-44,Rain,Peak,Weekend,1,40,6,2.24,2.016,53.385,19858.8
+Bristol,Petrol Car,143.4,1.1,35-44,Rain,Peak,Weekday,1,40,6,1.95,2.145,84.57,38431.2
+Manchester,Petrol Car,64.2,1.9,18-24,Rain,Peak,Weekend,1,21,8,2.24,4.256,48.93,17205.6
+Bristol,Petrol Car,148.3,1.7,25-34,Rain,Peak,Weekend,1,30,7,2.24,3.808,86.775,39744.4
+Liverpool,Petrol Car,86.9,1.2,25-34,Sunny,No Peak,Weekend,1,30,7,1.15,1.38,59.145,23289.2
+Manchester,Petrol Car,141.4,1.5,18-24,Sunny,No Peak,Weekend,1,21,8,1.15,1.725,83.67,37895.2
+London,Petrol Car,128.9,1.3,55-64,Cloudy,No Peak,Weekend,1,60,4,1.26,1.638,78.045,34545.2
+Bristol,Petrol Car,135.2,1.4,45-54,Sunny,Peak,Weekend,1,50,5,1.72,2.408,80.88,36233.6
+Newcastle,Petrol Car,120.1,1.6,18-24,Rain,Peak,Weekend,1,21,8,2.24,3.584,74.085,32186.8
+Bristol,Petrol Car,160.9,1.4,35-44,Sunny,Peak,Weekend,1,40,6,1.72,2.408,92.445,43121.2
+Newcastle,Petrol Car,81.2,1.2,35-44,Cloudy,Peak,Weekend,1,40,6,1.9,2.28,56.58,21761.6
+Birmingham,Petrol Car,113.5,1.4,25-34,Rain,Peak,Weekend,1,30,7,2.24,3.136,71.115,30418
+Liverpool,Petrol Car,114.8,1.8,45-54,Sunny,No Peak,Weekend,1,50,5,1.15,2.07,71.7,30766.4
+Manchester,Petrol Car,120.4,1.7,55-64,Rain,No Peak,Weekend,1,60,4,1.5,2.55,74.22,32267.2
+London,Petrol Car,120.4,1.4,25-34,Sunny,Peak,Weekend,1,30,7,1.72,2.408,74.22,32267.2
+Newcastle,Petrol Car,79,1.3,18-24,Rain,Peak,Weekend,1,21,8,2.24,2.912,55.59,21172
+London,Petrol Car,102.7,1.7,55-64,Cloudy,No Peak,Weekend,1,60,4,1.26,2.142,66.255,27523.6
+Liverpool,Petrol Car,47,1.5,45-54,Rain,Peak,Weekend,1,50,5,2.24,3.36,41.19,12596
+London,Petrol Car,122.9,1.3,45-54,Cloudy,No Peak,Weekend,1,50,5,1.26,1.638,75.345,32937.2
+London,Petrol Car,95.7,2,18-24,Rain,Peak,Weekday,1,21,8,1.95,3.9,63.105,25647.6
+London,Petrol Car,147.6,1.6,25-34,Rain,Peak,Weekday,1,30,7,1.95,3.12,86.46,39556.8
+Birmingham,Petrol Car,97.9,0.7,45-54,Rain,No Peak,Weekday,1,50,5,1.3,0.91,64.095,26237.2
+Bristol,Petrol Car,108.2,1.2,35-44,Rain,Peak,Weekend,1,40,6,2.24,2.688,68.73,28997.6
+Birmingham,Petrol Car,87.1,1.6,45-54,Cloudy,Peak,Weekday,1,50,5,1.65,2.64,59.235,23342.8
+Bristol,Petrol Car,88.6,1.3,18-24,Rain,No Peak,Weekday,1,21,8,1.3,1.69,59.91,23744.8
+Newcastle,Petrol Car,81.9,1.8,35-44,Cloudy,No Peak,Weekday,1,40,6,1.1,1.98,56.895,21949.2
+Birmingham,Petrol Car,70,1.2,35-44,Sunny,No Peak,Weekday,1,40,6,1,1.2,51.54,18760
+Birmingham,Petrol Car,82.6,1.1,25-34,Rain,Peak,Weekend,1,30,7,2.24,2.464,57.21,22136.8
+Newcastle,Petrol Car,92.4,1.5,45-54,Rain,Peak,Weekend,1,50,5,2.24,3.36,61.62,24763.2
+London,Petrol Car,57.8,1,45-54,Rain,Peak,Weekend,1,50,5,2.24,2.24,46.05,15490.4
+Bristol,Petrol Car,105.4,1.7,18-24,Rain,Peak,Weekday,1,21,8,1.95,3.315,67.47,28247.2
+Bristol,Petrol Car,60.1,1.6,55-64,Rain,No Peak,Weekend,1,60,4,1.5,2.4,47.085,16106.8
+Manchester,Petrol Car,95.3,1.4,25-34,Rain,No Peak,Weekend,1,30,7,1.5,2.1,62.925,25540.4
+Birmingham,Petrol Car,74.7,2,25-34,Sunny,Peak,Weekend,1,30,7,1.72,3.44,53.655,20019.6
+Newcastle,Petrol Car,80.7,0.9,18-24,Rain,No Peak,Weekday,1,21,8,1.3,1.17,56.355,21627.6
+Bristol,Petrol Car,46,1.5,55-64,Sunny,No Peak,Weekend,1,60,4,1.15,1.725,40.74,12328
+Manchester,Petrol Car,50.8,1.5,35-44,Rain,Peak,Weekday,1,40,6,1.95,2.925,42.9,13614.4
+Birmingham,Petrol Car,120.8,1.3,25-34,Rain,Peak,Weekend,1,30,7,2.24,2.912,74.4,32374.4
+Newcastle,Electric Car,149.5,1.8,55-64,Cloudy,No Peak,Weekend,1,60,4,1.26,2.268,13.515,13156
+Liverpool,Electric Car,74.4,1.6,18-24,Rain,No Peak,Weekend,1,21,8,1.5,2.4,6.756,6547.2
+Manchester,Electric Car,106.3,1.5,55-64,Sunny,Peak,Weekday,1,60,4,1.5,2.25,9.627,9354.4
+Newcastle,Electric Car,106.4,1.3,18-24,Cloudy,Peak,Weekday,1,21,8,1.65,2.145,9.636,9363.2
+Newcastle,Electric Car,109.3,1.4,18-24,Sunny,Peak,Weekday,1,21,8,1.5,2.1,9.897,9618.4
+Manchester,Electric Car,51.5,1.6,25-34,Rain,No Peak,Weekday,1,30,7,1.3,2.08,4.695,4532
+Newcastle,Electric Car,114.6,1.8,25-34,Rain,Peak,Weekday,1,30,7,1.95,3.51,10.374,10084.8
+Newcastle,Electric Car,105.8,1.6,25-34,Cloudy,Peak,Weekday,1,30,7,1.65,2.64,9.582,9310.4
+Bristol,Electric Car,90.3,1.7,35-44,Sunny,No Peak,Weekday,1,40,6,1,1.7,8.187,7946.4
+Manchester,Electric Car,49.7,1.7,25-34,Rain,Peak,Weekday,1,30,7,1.95,3.315,4.533,4373.6
+Liverpool,Electric Car,100.5,1.7,55-64,Rain,No Peak,Weekend,1,60,4,1.5,2.55,9.105,8844
+Bristol,Electric Car,92.9,1.7,18-24,Rain,No Peak,Weekend,1,21,8,1.5,2.55,8.421,8175.2
+London,Electric Car,102,1.7,18-24,Rain,No Peak,Weekday,1,21,8,1.3,2.21,9.24,8976
+Birmingham,Electric Car,107.2,1.4,18-24,Sunny,Peak,Weekend,1,21,8,1.72,2.408,9.708,9433.6
+Newcastle,Electric Car,157.5,2.1,25-34,Rain,No Peak,Weekday,1,30,7,1.3,2.73,14.235,13860
+Newcastle,Electric Car,131.8,1.4,25-34,Rain,No Peak,Weekday,1,30,7,1.3,1.82,11.922,11598.4
+Liverpool,Electric Car,72.3,1.7,25-34,Rain,No Peak,Weekend,1,30,7,1.5,2.55,6.567,6362.4
+Bristol,Electric Car,70.8,1.9,35-44,Cloudy,Peak,Weekend,1,40,6,1.9,3.61,6.432,6230.4
+Manchester,Electric Car,79.5,1.1,18-24,Sunny,Peak,Weekday,1,21,8,1.5,1.65,7.215,6996
+Bristol,Electric Car,114.4,0.9,18-24,Sunny,No Peak,Weekend,1,21,8,1.15,1.035,10.356,10067.2
+Bristol,Electric Car,115.9,1.9,45-54,Cloudy,Peak,Weekday,1,50,5,1.65,3.135,10.491,10199.2
+Manchester,Electric Car,80.2,2.2,35-44,Cloudy,Peak,Weekend,1,40,6,1.9,4.18,7.278,7057.6
+Bristol,Electric Car,133.8,1.7,18-24,Rain,No Peak,Weekend,1,21,8,1.5,2.55,12.102,11774.4
